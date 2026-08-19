@@ -105,9 +105,11 @@ footer a {{ color: var(--sub); }}
 <footer>
   <p>本サイトは各社が公式に公開するプレスリリースの見出しとリンクのみを収集・表示しています(本文は保存していません)。
   各見出しの著作権はそれぞれの発表企業に帰属します。出典は各社名のリンク先(公式サイト)をご覧ください。</p>
-  <p><a href="https://claude.ai/code/artifact/c3559ea2-1685-4f06-a500-335a0ef92b43" target="_blank" rel="noopener noreferrer">操作説明</a>
-  · <a href="https://claude.ai/code/artifact/ed8ef071-5a06-4fcc-874f-772d9200076e" target="_blank" rel="noopener noreferrer">設計図</a>
-  · <a href="https://github.com/twill3c/koho-lens" target="_blank" rel="noopener noreferrer">koho-lens</a> — 収集は 6 時間間隔で実施</p>
+  <p><a href="https://github.com/twill3c/koho-lens/blob/main/LICENSE" target="_blank" rel="noopener">MIT License</a> © 2026 坂田哲朗
+  ・ <a href="https://github.com/twill3c/koho-lens" target="_blank" rel="noopener">GitHub</a>
+  ・ <a href="https://claude.ai/code/artifact/c3559ea2-1685-4f06-a500-335a0ef92b43" target="_blank" rel="noopener">koho-lens の歩き方</a>
+  ・ <a href="https://claude.ai/code/artifact/ed8ef071-5a06-4fcc-874f-772d9200076e" target="_blank" rel="noopener">koho-lens 設計図</a>
+  ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p>
 </footer>
 </body>
 </html>

@@ -46,6 +46,14 @@ def test_t201_contents():
     assert "見出しとリンクのみ" in html
     # lang 指定
     assert 'lang="ja"' in html
+    # フッタは hodo-hangenki 準拠の 5 リンク構成
+    assert 'href="https://github.com/twill3c/koho-lens/blob/main/LICENSE"' in html
+    assert "MIT License" in html and "© 2026 坂田哲朗" in html
+    assert 'href="https://github.com/twill3c/koho-lens"' in html
+    assert 'href="https://claude.ai/code/artifact/c3559ea2-1685-4f06-a500-335a0ef92b43"' in html
+    assert 'href="https://claude.ai/code/artifact/ed8ef071-5a06-4fcc-874f-772d9200076e"' in html
+    assert "koho-lens の歩き方" in html and "koho-lens 設計図" in html
+    assert 'href="https://app-menu-amber.vercel.app"' in html and "App Menu" in html
 
 
 def test_t202_links_and_escaping():
