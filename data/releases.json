@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-19T22:07:03Z",
+ "generated_at": "2026-08-19T22:40:22Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -136,33 +136,33 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
+    {
+     "title": "NRIセキュア、自社のSOC運用知見を組み込んだAIで、セキュリティ監視サービスを強化",
+     "url": "https://www.nri.com/jp/news/info/20260806_1.html",
+     "date": "2026-08-06"
+    },
     {
      "title": "野村総合研究所、AIによる事業変革支援サービス「NRI AFT(AI Field Transformer)」を提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20260803_1.html",
      "date": "2026-08-03"
     },
     {
-     "title": "組織の一部改正と社員の異動について",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260623_3.html",
-     "date": "2026-06-23"
+     "title": "NRIプロセスイノベーション、投資運用関係業務受託業を登録",
+     "url": "https://www.nri.com/jp/news/info/20260731_1.html",
+     "date": "2026-07-31"
     },
     {
-     "title": "グループ会社（NRIシンガポール）の新社長の就任について",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260623_2.html",
-     "date": "2026-06-23"
+     "title": "野村総合研究所、三菱UFJモルガン・スタンレー証券に「I-STAR/CORE」の法人顧客向け帳票電子交付機能を提供",
+     "url": "https://www.nri.com/jp/news/info/20260729_1.html",
+     "date": "2026-07-29"
     },
     {
-     "title": "NRIセキュア、フロンティアAIモデルに対応したプロアクティブな脆弱性診断サービスを提供開始",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260623_1.html",
-     "date": "2026-06-23"
-    },
-    {
-     "title": "野村総合研究所、2026～2040年度の新設住宅着工戸数を予測",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260618_1.html",
-     "date": "2026-06-18"
+     "title": "「見たいその瞬間」をAIが選んで超低遅延で届ける-「KYOJO CUP」で次世代リアルタイム映像配信を実証",
+     "url": "https://www.nri.com/jp/news/info/20260727_1.html",
+     "date": "2026-07-27"
     }
    ]
   },
@@ -170,7 +170,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-19T22:07:03Z",
+   "fetched_at": "2026-08-19T22:40:22Z",
    "ok": true,
    "items": [
     {
