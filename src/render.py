@@ -56,7 +56,7 @@ def render_html(data: dict) -> str:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>広報レンズ — 主要IT企業プレスリリース一覧</title>
-<meta name="description" content="日本の主要ITサービス企業{n}社の最新プレスリリースを3件ずつ一望">
+<meta name="description" content="日本の主要ITサービス企業{n}社の最新プレスリリースを5件ずつ一望">
 <style>
 :root {{
   --bg: #f6f5f1; --card: #ffffff; --ink: #1f2328; --sub: #6a6f76;
@@ -97,7 +97,7 @@ footer a {{ color: var(--sub); }}
 <body>
 <header>
   <h1>広報レンズ<span class="en">KOHO LENS</span></h1>
-  <p class="updated">主要ITサービス企業 {n} 社の最新プレスリリース(各 3 件) — 最終更新 {generated} JST(6 時間ごとに自動更新)</p>
+  <p class="updated">主要ITサービス企業 {n} 社の最新プレスリリース(各 5 件) — 最終更新 {generated} JST(6 時間ごとに自動更新)</p>
 </header>
 <main>
 {sections}

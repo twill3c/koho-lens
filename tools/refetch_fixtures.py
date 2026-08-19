@@ -1,7 +1,7 @@
 """テストフィクスチャの再取得ツール(手動実行専用)。
 
 tests/fixtures/{id}.(xml|html) に各社の primary 応答を保存する。
-sitemap 戦略の会社(nri / accenture)は最新 3 記事ページも
+sitemap 戦略の会社(nri / accenture)は最新 5 記事ページも
 tests/fixtures/pages/{id}/{n}.html に保存し、URL → ファイルの対応を
 tests/fixtures/pages/{id}/map.json に書く。
 
@@ -32,15 +32,15 @@ def get(url: str, ua: str) -> bytes:
         return r.read()
 
 
-def nri_top3(sitemap: bytes) -> list[str]:
+def nri_top5(sitemap: bytes) -> list[str]:
     urls = re.findall(
         r"<loc>(https://www\.nri\.com/jp/news/newsrelease/\d{8}_\d+\.html)</loc>",
         sitemap.decode("utf-8", "ignore"),
     )
-    return sorted(set(urls), reverse=True)[:3]
+    return sorted(set(urls), reverse=True)[:5]
 
 
-def accenture_top3(sitemap: bytes) -> list[str]:
+def accenture_top5(sitemap: bytes) -> list[str]:
     text = sitemap.decode("utf-8", "ignore")
     entries = re.findall(
         r"<url>\s*<loc>(https://newsroom\.accenture\.jp/jp/news/\d{4}/[^<]+)</loc>"
@@ -48,7 +48,7 @@ def accenture_top3(sitemap: bytes) -> list[str]:
         text,
     )
     entries.sort(key=lambda e: e[1], reverse=True)
-    return [u for u, _ in entries[:3]]
+    return [u for u, _ in entries[:5]]
 
 
 def main() -> None:
@@ -60,7 +60,7 @@ def main() -> None:
         (FIX / f"{co['id']}.{ext}").write_bytes(raw)
         print(f"{co['id']}: primary {len(raw)} bytes")
         if co["strategy"] == "sitemap":
-            top3 = nri_top3(raw) if co["id"] == "nri" else accenture_top3(raw)
+            top3 = nri_top5(raw) if co["id"] == "nri" else accenture_top5(raw)
             pages = FIX / "pages" / co["id"]
             pages.mkdir(parents=True, exist_ok=True)
             mapping = {}

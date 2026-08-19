@@ -184,7 +184,7 @@ def _fetch_sitemap_items(company, get, ua) -> list[dict]:
     sitemap = get(company["primary_url"], ua).decode("utf-8", "ignore")
     select = nri_select if company["id"] == "nri" else accenture_select
     items = []
-    for url, date in select(sitemap)[:3]:
+    for url, date in select(sitemap)[:5]:
         page = get(url, ua).decode("utf-8", "ignore")
         title = _page_title(page)
         if company["id"] == "accenture":

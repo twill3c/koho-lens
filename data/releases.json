@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-19T18:59:22Z",
+ "generated_at": "2026-08-19T21:58:16Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -22,6 +22,16 @@
      "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000594.000093942.html",
      "date": "2026-07-28"
+    },
+    {
+     "title": "ワット・ビット構想実現に向けた次世代分散型 AI処理インフラの実証実験の開始について",
+     "url": "https://prtimes.jp/main/html/rd/p/000000593.000093942.html",
+     "date": "2026-07-27"
+    },
+    {
+     "title": "「見たいその瞬間」を AI が選んで超低遅延で届ける-「KYOJO CUP」で次世代リアルタイム映像配信を実証",
+     "url": "https://prtimes.jp/main/html/rd/p/000000592.000093942.html",
+     "date": "2026-07-27"
     }
    ]
   },
@@ -29,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -46,6 +56,16 @@
      "title": "NEC、AIネイティブカンパニーへの変革に向け、大手企業で初めて、人と共創するAI自律型組織を新設",
      "url": "https://jpn.nec.com/press/202608/20260810_01.html",
      "date": "2026-08-10"
+    },
+    {
+     "title": "NEC、海外向けネットワーク機器再販事業などを譲渡",
+     "url": "https://jpn.nec.com/press/202608/20260805_01.html",
+     "date": "2026-08-05"
+    },
+    {
+     "title": "令和8年熊本地震による被害に対する支援について",
+     "url": "https://jpn.nec.com/press/202607/20260731_01.html",
+     "date": "2026-07-31"
     }
    ]
   },
@@ -53,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -70,6 +90,16 @@
      "title": "日立、学術実証から産業応用への展開の加速に向け、インテル株式会社および産業技術総合研究所との協力によりシリコン量子コンピュータの研究開発を開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0722a/",
      "date": "2026-07-22"
+    },
+    {
+     "title": "日立とNVIDIA、フィジカルAIの統合制御による、現場全体の自律化とHMAXの進化に向けて協業",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0716/",
+     "date": "2026-07-16"
+    },
+    {
+     "title": "Hitachi Investor Day 2026",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/06/0610/",
+     "date": "2026-06-10"
     }
    ]
   },
@@ -77,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -94,6 +124,11 @@
      "title": "AIエージェントを中核とした次世代BPO事業を共同展開、NTTマーケティングアクトProCXを合弁会社化",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/072800",
      "date": "2026-07-28"
+    },
+    {
+     "title": "法人インターネットバンキングと連携し、請求書受領から振込実行まで完結する「TetraBRiDGE® for Bank」提供開始",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/071500",
+     "date": "2026-07-15"
     }
    ]
   },
@@ -101,7 +136,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -118,6 +153,16 @@
      "title": "グループ会社（NRIシンガポール）の新社長の就任について",
      "url": "https://www.nri.com/jp/news/newsrelease/20260623_2.html",
      "date": "2026-06-23"
+    },
+    {
+     "title": "NRIセキュア、フロンティアAIモデルに対応したプロアクティブな脆弱性診断サービスを提供開始",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260623_1.html",
+     "date": "2026-06-23"
+    },
+    {
+     "title": "野村総合研究所、2026～2040年度の新設住宅着工戸数を予測",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260618_1.html",
+     "date": "2026-06-18"
     }
    ]
   },
@@ -125,7 +170,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -142,6 +187,16 @@
      "title": "ネットワンシステムズ、SCSKセキュリティとともに、ゼロトラストセキュリティを全面採用した愛媛県庁の次期ネットワーク基盤を受注 ～職員の業務環境を、インターネットを中心とする新しい三層分離モデル（β’モデル）に移行。クラウドの活用拡大を可能にし、業務効率向上・災害対策強化に貢献～（ネットワンシステムズ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20260806g.html",
      "date": "2026-08-06"
+    },
+    {
+     "title": "日本オラクル主催「FY27 OPN Japan Partner Kickoff」にて「Best Project Partner of the Year」を受賞",
+     "url": "https://www.scsk.jp/news/2026/info/20260805i.html",
+     "date": "2026-08-05"
+    },
+    {
+     "title": "ネットワンシステムズ、「AI×監視カメラ」でクマの出没を自動検知・自動通知するソリューションを提供開始 ～多数のカメラで広範囲を監視し、クマ検知特化AIで即時検知。様々な通知手法とも自動で連携～（ネットワンシステムズ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260803g_2.html",
+     "date": "2026-08-03"
     }
    ]
   },
@@ -149,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -166,6 +221,16 @@
      "title": "TISI、「Nablarch」専用AIコーディングツール向けプラグインを無償公開",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260806_1.html",
      "date": "2026-08-06"
+    },
+    {
+     "title": "自らのデータに関わる懸念を低減し、データ流通の適切性や円滑性の向上を実現する国際標準規格「セキュアなセンサデータストアシステム」が、国際標準化へ向け審議開始",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260805_1.html",
+     "date": "2026-08-05"
+    },
+    {
+     "title": "TISI、EC取引の不正リスクを可視化し、対策設計から運用までを一貫して支援する新サービスを提供開始",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260804_1.html",
+     "date": "2026-08-04"
     }
    ]
   },
@@ -173,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -190,6 +255,16 @@
      "title": "アクセンチュア、OpenAIとの国内における協業を拡充",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-expands-collaboration-with-openai-in-japan-companies-drive-enterprise-reinvention-with-agentic-ai",
      "date": "2026-07-09"
+    },
+    {
+     "title": "アクセンチュア、AI時代のサイバー脅威と地政学リスクに対応し、重要インフラの防御を支える統合サイバーセキュリティプラットフォームを強化",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-strengthen-critical-infrastructure-defense-with-end-to-end-cybersecurity-platform-in-age-of-ai-driven-cyber-threats-and-geopolitical-risk",
+     "date": "2026-07-01"
+    },
+    {
+     "title": "インフロニア、現場の原価管理からグループ経営判断までを一気通貫で支えるための基盤を3か月で構築",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/infroneer-teams-with-accenture-to-builds-new-financial-data-and-insights-platform-to-advance-its-group-management-capabilities-in-just-three-months",
+     "date": "2026-06-22"
     }
    ]
   },
@@ -197,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -214,6 +289,16 @@
      "title": "IBM、AI投資とビジネス成果を結びつけて可視化する「IBM Apptio AI Value & ROI」を発表",
      "url": "https://jp.newsroom.ibm.com/2026-08-18-ibm-introduces-apptio-ai-value-roi-to-close-the-gap-between-ai-spend-and-business-results",
      "date": "2026-08-18"
+    },
+    {
+     "title": "IBM、OpenAIと戦略的協業を開始し、企業の中核業務全体におけるセキュアなAI導入を加速",
+     "url": "https://jp.newsroom.ibm.com/2026-08-17-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "IBMとTogether AI、IBM Cloud上のNVIDIA AIインフラストラクチャーを活用し、オープンソースAI推論の大規模展開に向けた複数年契約を締結",
+     "url": "https://jp.newsroom.ibm.com/2026-08-14-IBM-and-Together-AI-Sign-Multi-Year-Agreement-to-Scale-Open-Source-AI-Inference-with-NVIDIA-AI-Infrastructure-on-IBM-Cloud",
+     "date": "2026-08-14"
     }
    ]
   },
@@ -221,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -238,6 +323,16 @@
      "title": "バイブコーディングプラットフォーム「Alli Coworker」の販売を開始 ～AIによる業務アプリ構築から活用・定着までを支援～",
      "url": "https://digitalpr.jp/r/140942",
      "date": "2026-08-06"
+    },
+    {
+     "title": "車載ソフトウェア開発を手掛けるiAuto社と資本業務提携を開始 ～AI-Cockpitなど、AIを活用した新たなユーザー体験の創出へ～",
+     "url": "https://digitalpr.jp/r/140826",
+     "date": "2026-08-05"
+    },
+    {
+     "title": "行政機関向け「NSDDDクラウド for Government 情報公開事務支援ソリューション」の提供を開始 ～AIを活用し、情報公開事務や個人情報開示請求の対応を効率化～",
+     "url": "https://digitalpr.jp/r/139508",
+     "date": "2026-07-22"
     }
    ]
   },
@@ -245,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-19T18:59:22Z",
+   "fetched_at": "2026-08-19T21:58:16Z",
    "ok": true,
    "items": [
     {
@@ -262,6 +357,11 @@
      "title": "PMO内製化を支援する金融機関向け“PMO高度化支援サービス”を提供開始 実践ノウハウに基づく個別最適化研修で高度なPMO人材を育成",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0723",
      "date": "2026-07-23"
+    },
+    {
+     "title": "2025年",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
+     "date": "2026-08-19"
     }
    ]
   }
