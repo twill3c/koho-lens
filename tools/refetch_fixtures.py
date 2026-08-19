@@ -12,13 +12,13 @@ tests/fixtures/pages/{id}/map.json に書く。
 from __future__ import annotations
 
 import json
-import re
 import sys
 import time
 import urllib.request
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
+from src.fetchers import accenture_select, nri_select  # noqa: E402
 from src.sources import BROWSER_UA, COMPANIES, PROJECT_UA  # noqa: E402
 
 FIX = Path(__file__).resolve().parents[1] / "tests" / "fixtures"
@@ -32,35 +32,26 @@ def get(url: str, ua: str) -> bytes:
         return r.read()
 
 
-def nri_top5(sitemap: bytes) -> list[str]:
-    urls = re.findall(
-        r"<loc>(https://www\.nri\.com/jp/news/newsrelease/\d{8}_\d+\.html)</loc>",
-        sitemap.decode("utf-8", "ignore"),
-    )
-    return sorted(set(urls), reverse=True)[:5]
-
-
-def accenture_top5(sitemap: bytes) -> list[str]:
+def sitemap_top5(company_id: str, sitemap: bytes) -> list[str]:
+    """本番と同じ選定ロジック(src.fetchers)で上位 5 記事 URL を返す。"""
     text = sitemap.decode("utf-8", "ignore")
-    entries = re.findall(
-        r"<url>\s*<loc>(https://newsroom\.accenture\.jp/jp/news/\d{4}/[^<]+)</loc>"
-        r"(?:\s*<lastmod>([^<]+)</lastmod>)?",
-        text,
-    )
-    entries.sort(key=lambda e: e[1], reverse=True)
-    return [u for u, _ in entries[:5]]
+    select = nri_select if company_id == "nri" else accenture_select
+    return [u for u, _ in select(text)[:5]]
 
 
 def main() -> None:
+    only = set(sys.argv[1:])  # 例: python tools/refetch_fixtures.py nri
     FIX.mkdir(parents=True, exist_ok=True)
     for co in COMPANIES:
+        if only and co["id"] not in only:
+            continue
         ua = BROWSER_UA if co.get("ua") == "browser" else PROJECT_UA
         raw = get(co["primary_url"], ua)
         ext = {"feed": "xml", "sitemap": "xml", "json": "json"}.get(co["strategy"], "html")
         (FIX / f"{co['id']}.{ext}").write_bytes(raw)
         print(f"{co['id']}: primary {len(raw)} bytes")
         if co["strategy"] == "sitemap":
-            top3 = nri_top5(raw) if co["id"] == "nri" else accenture_top5(raw)
+            top3 = sitemap_top5(co["id"], raw)
             pages = FIX / "pages" / co["id"]
             pages.mkdir(parents=True, exist_ok=True)
             mapping = {}

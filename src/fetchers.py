@@ -146,20 +146,24 @@ def _page_title(html: str) -> str:
 
 
 def nri_select(sitemap: str) -> list[tuple[str, str]]:
-    """(url, date) を新しい順に。日付は URL の YYYYMMDD。_N 無しはソフト 404 のため除外。"""
-    urls = sorted(
-        set(
-            re.findall(
-                r"<loc>(https://www\.nri\.com/jp/news/newsrelease/\d{8}_\d+\.html)</loc>",
-                sitemap,
-            )
-        ),
-        reverse=True,
+    """(url, date) を新しい順に。日付は URL の YYYYMMDD。_N 無しはソフト 404 のため除外。
+
+    公式の新着一覧はニュースリリース(/newsrelease/)とお知らせ(/info/)の
+    混在なので両区分を対象にする。ディレクトリが異なると URL 辞書順は
+    日付順にならないため、日付キーで並べ替える。
+    """
+    urls = set(
+        re.findall(
+            r"<loc>(https://www\.nri\.com/jp/news/"
+            r"(?:newsrelease|info)/\d{8}_\d+\.html)</loc>",
+            sitemap,
+        )
     )
     out = []
     for u in urls:
         ymd = re.search(r"/(\d{8})_", u).group(1)
         out.append((u, f"{ymd[:4]}-{ymd[4:6]}-{ymd[6:]}"))
+    out.sort(key=lambda t: (t[1], t[0]), reverse=True)
     return out
 
 
