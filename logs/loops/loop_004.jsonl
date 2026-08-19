@@ -3,3 +3,8 @@
 {"v": "1.2", "ts": "2026-08-20T00:33:10+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass", "note": "vercel-deploy-quirks 参照: scope twill3c-8670s-projects・サブドメイン空き確認の教訓"}}
 {"v": "1.2", "ts": "2026-08-20T00:33:31+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "test_run", "data": {"command": "pytest tests/test_deploy_config.py", "result": "fail", "passed": 0, "failed": 2, "note": "vercel.json/collect.yml 未作成 — 赤"}}
 {"v": "1.2", "ts": "2026-08-20T00:33:31+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:35:10+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "commit", "data": {"kind": "feat", "sha": "7f335fd", "message": "feat: デプロイ構成"}}
+{"v": "1.2", "ts": "2026-08-20T00:37:43+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:37:43+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:37:43+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:37:43+09:00", "project": "koho-lens", "loop_id": "loop_004", "event": "loop_end", "data": {"outcome": "success", "failure_count": 0, "summary": "GitHub+Vercel デプロイ完了。cron E2E 実証(dispatch→bot コミット→本番反映)。55 テスト green"}}
