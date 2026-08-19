@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+<channel>
+<title>IBM Japan Newsroom</title>
+<link>https://jp.newsroom.ibm.com/</link>
+<description></description>
+<item>
+<title>IBM、フォールト・トレラント量子コンピューターの実現に向けた重要な一歩として、初のモジュール型極低温システムの連結に成功</title>
+<link>https://jp.newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing</link>
+<description>数百個の量子チップを接続可能な、量子コンピューター向けの新しい極低温希釈冷凍機</description>
+<pubDate>Wed, 19 Aug 2026 19:00:00 +0900</pubDate>
+<guid>https://jp.newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing</guid>
+<enclosure url="https://jp.newsroom.ibm.com/image/IBM-Modular-Cryogenics-1920x1442.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>エヌアイシー・パートナーズと日本IBM、「IBM Bob」を活用したExcelマクロの可視化とWebアプリケーションへの再構築を実践</title>
+<link>https://jp.newsroom.ibm.com/2026-08-19-NIC-Partners-and-IBM-Japan-Use-IBM-Bob</link>
+<description>生成AIを活用した既存業務資産の可視化と再構築を通じて、業務知識の継承と開発工程の効率化を検証</description>
+<pubDate>Wed, 19 Aug 2026 08:18:00 +0900</pubDate>
+<guid>https://jp.newsroom.ibm.com/2026-08-19-NIC-Partners-and-IBM-Japan-Use-IBM-Bob</guid>
+<enclosure url="https://jp.newsroom.ibm.com/image/Bob+AI+coding+agent_thumbnail.png" type="image/png" />
+</item>
+<item>
+<title>IBM、AI投資とビジネス成果を結びつけて可視化する「IBM Apptio AI Value &amp; ROI」を発表</title>
+<link>https://jp.newsroom.ibm.com/2026-08-18-ibm-introduces-apptio-ai-value-roi-to-close-the-gap-between-ai-spend-and-business-results</link>
+<description>テクノロジーおよび財務部門のリーダー向けに、AIトークン利用コスト、AI関連支出とビジネス成果を一元的に可視化し、AI投資対効果の測定を支援</description>
+<pubDate>Tue, 18 Aug 2026 09:35:00 +0900</pubDate>
+<guid>https://jp.newsroom.ibm.com/2026-08-18-ibm-introduces-apptio-ai-value-roi-to-close-the-gap-between-ai-spend-and-business-results</guid>
+<enclosure url="https://jp.newsroom.ibm.com/image/Apptio-IBM-company_thumbnail.jpg" type="image/jpeg" />
+</item>
+<item>
+<title>IBM、OpenAIと戦略的協業を開始し、企業の中核業務全体におけるセキュアなAI導入を加速</title>
+<link>https://jp.newsroom.ibm.com/2026-08-17-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations</link>
+<description>GPT-5.6をはじめとするOpenAIのフロンティア・モデルや各種製品をIBM ConsultingのAI提供プラットフォームおよび各種アセットに組み込み、企業のアプリケーションのモダナイゼーションとセキュリティー強化を支援</description>
+<pubDate>Mon, 17 Aug 2026 13:30:00 +0900</pubDate>
+<guid>https://jp.newsroom.ibm.com/2026-08-17-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations</guid>
+<enclosure url="https://jp.newsroom.ibm.com/image/IBM_logo%C2%AE_Open_AI_lockup_pos_black_RGB_Thumbnail.png" type="image/png" />
+</item>
+<item>
+<title>IBMとTogether AI、IBM Cloud上のNVIDIA AIインフラストラクチャーを活用し、オープンソースAI推論の大規模展開に向けた複数年契約を締結</title>
+<link>https://jp.newsroom.ibm.com/2026-08-14-IBM-and-Together-AI-Sign-Multi-Year-Agreement-to-Scale-Open-Source-AI-Inference-with-NVIDIA-AI-Infrastructure-on-IBM-Cloud</link>
+<description>IBM Cloud上に、NVIDIA HGX B300システムを活用したTogether AI向け初の大規模推論クラスターを構築し、企業によるAIワークロードの高速かつ効率的な本番運用を支援</description>
+<pubDate>Fri, 14 Aug 2026 08:43:00 +0900</pubDate>
+<guid>https://jp.newsroom.ibm.com/2026-08-14-IBM-and-Together-AI-Sign-Multi-Year-Agreement-to-Scale-Open-Source-AI-Inference-with-NVIDIA-AI-Infrastructure-on-IBM-Cloud</guid>
+<enclosure url="https://jp.newsroom.ibm.com/image/adobestock_1049450690_Thumbnail.jpg" type="image/jpeg" />
+</item>
+</channel>
+</rss>
