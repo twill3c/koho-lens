@@ -1,0 +1,269 @@
+{
+ "generated_at": "2026-08-19T15:32:15Z",
+ "companies": [
+  {
+   "id": "fujitsu",
+   "name": "富士通",
+   "source_url": "https://global.fujitsu/ja-jp/pr/news",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "JA共済連様の情報系システムの安定運用と高度な活用促進に向け「Fujitsu クラウドサービス powered by Oracle Alloy」と「Oracle Analytics Cloud」を導入",
+     "url": "https://prtimes.jp/main/html/rd/p/000000596.000093942.html",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "富士通、豪州モナシュ大学、CSIROが日豪の量子パートナーシップを強化",
+     "url": "https://prtimes.jp/main/html/rd/p/000000595.000093942.html",
+     "date": "2026-08-04"
+    },
+    {
+     "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000594.000093942.html",
+     "date": "2026-07-28"
+    }
+   ]
+  },
+  {
+   "id": "nec",
+   "name": "NEC",
+   "source_url": "https://jpn.nec.com/press/index.html",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "NEC、デュアルユースを視野に世界をリードする水中音響基盤モデルの構築に向けた研究を開始",
+     "url": "https://jpn.nec.com/press/202608/20260818_02.html",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始",
+     "url": "https://jpn.nec.com/press/202608/20260818_01.html",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "NEC、AIネイティブカンパニーへの変革に向け、大手企業で初めて、人と共創するAI自律型組織を新設",
+     "url": "https://jpn.nec.com/press/202608/20260810_01.html",
+     "date": "2026-08-10"
+    }
+   ]
+  },
+  {
+   "id": "hitachi",
+   "name": "日立製作所",
+   "source_url": "https://www.hitachi.com/ja-jp/press/",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "2027年3月期 第1四半期 連結決算の概要",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0729/",
+     "date": "2026-07-29"
+    },
+    {
+     "title": "AI駆動型のエンタープライズ向けシステムインテグレーションプラットフォームを開発、安全性を高め生産性を飛躍的に向上",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0724/",
+     "date": "2026-07-24"
+    },
+    {
+     "title": "日立、学術実証から産業応用への展開の加速に向け、インテル株式会社および産業技術総合研究所との協力によりシリコン量子コンピュータの研究開発を開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0722a/",
+     "date": "2026-07-22"
+    }
+   ]
+  },
+  {
+   "id": "nttdata",
+   "name": "NTTデータ",
+   "source_url": "https://www.nttdata.com/global/ja/news/",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "2026年度 第1四半期決算について",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/080600",
+     "date": "2026-08-06"
+    },
+    {
+     "title": "令和8年7月熊本地震災害に対する支援（義援金の拠出）について",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/080500",
+     "date": "2026-08-05"
+    },
+    {
+     "title": "AIエージェントを中核とした次世代BPO事業を共同展開、NTTマーケティングアクトProCXを合弁会社化",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/072800",
+     "date": "2026-07-28"
+    }
+   ]
+  },
+  {
+   "id": "nri",
+   "name": "野村総合研究所",
+   "source_url": "https://www.nri.com/jp/news/index.html",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "野村総合研究所、AIによる事業変革支援サービス「NRI AFT(AI Field Transformer)」を提供開始",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260803_1.html",
+     "date": "2026-08-03"
+    },
+    {
+     "title": "組織の一部改正と社員の異動について",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260623_3.html",
+     "date": "2026-06-23"
+    },
+    {
+     "title": "グループ会社（NRIシンガポール）の新社長の就任について",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260623_2.html",
+     "date": "2026-06-23"
+    }
+   ]
+  },
+  {
+   "id": "scsk",
+   "name": "SCSK",
+   "source_url": "https://www.scsk.jp/news/2026/index.html",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "人事異動に関するお知らせ",
+     "url": "https://www.scsk.jp/news/2026/press/management/20260817.html",
+     "date": "2026-08-17"
+    },
+    {
+     "title": "SCSK、マイクロソフトの「Modernize Endpoints」Specialization認定を取得",
+     "url": "https://www.scsk.jp/news/2026/info/20260807i.html",
+     "date": "2026-08-07"
+    },
+    {
+     "title": "ネットワンシステムズ、SCSKセキュリティとともに、ゼロトラストセキュリティを全面採用した愛媛県庁の次期ネットワーク基盤を受注 ～職員の業務環境を、インターネットを中心とする新しい三層分離モデル（β’モデル）に移行。クラウドの活用拡大を可能にし、業務効率向上・災害対策強化に貢献～（ネットワンシステムズ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260806g.html",
+     "date": "2026-08-06"
+    }
+   ]
+  },
+  {
+   "id": "tis",
+   "name": "TIS(TISI)",
+   "source_url": "https://www.tisi.jp/news/",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "TISI、地域共創とデータ活用により埼玉県横瀬町の住民参加型森林再生プロジェクトを支援",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260819_1.html",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "TISI、経営判断を5営業日から15分に短縮するAIソリューションで「SAP® BTP Hackathon 2026」最優秀賞を受賞",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260807_1.html",
+     "date": "2026-08-14"
+    },
+    {
+     "title": "TISI、「Nablarch」専用AIコーディングツール向けプラグインを無償公開",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260806_1.html",
+     "date": "2026-08-06"
+    }
+   ]
+  },
+  {
+   "id": "accenture",
+   "name": "アクセンチュア",
+   "source_url": "https://newsroom.accenture.jp/",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/servicenow-and-accenture-launch-ai-powered-services-to-accelerate-the-shift-from-legacy-risk-platforms-to-agentic-ai",
+     "date": "2026-08-04"
+    },
+    {
+     "title": "アクセンチュア、成長企業のAI活用と全社変革を支援する「Accenture Edge」を設立",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-launches-accenture-edge-to-help-mid-market-companies-harness-ai-and-reinvent-how-they-operate",
+     "date": "2026-07-03"
+    },
+    {
+     "title": "アクセンチュア、OpenAIとの国内における協業を拡充",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-expands-collaboration-with-openai-in-japan-companies-drive-enterprise-reinvention-with-agentic-ai",
+     "date": "2026-07-09"
+    }
+   ]
+  },
+  {
+   "id": "ibm",
+   "name": "日本IBM",
+   "source_url": "https://jp.newsroom.ibm.com/announcements",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "IBM、フォールト・トレラント量子コンピューターの実現に向けた重要な一歩として、初のモジュール型極低温システムの連結に成功",
+     "url": "https://jp.newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "エヌアイシー・パートナーズと日本IBM、「IBM Bob」を活用したExcelマクロの可視化とWebアプリケーションへの再構築を実践",
+     "url": "https://jp.newsroom.ibm.com/2026-08-19-NIC-Partners-and-IBM-Japan-Use-IBM-Bob",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "IBM、AI投資とビジネス成果を結びつけて可視化する「IBM Apptio AI Value & ROI」を発表",
+     "url": "https://jp.newsroom.ibm.com/2026-08-18-ibm-introduces-apptio-ai-value-roi-to-close-the-gap-between-ai-spend-and-business-results",
+     "date": "2026-08-18"
+    }
+   ]
+  },
+  {
+   "id": "nssol",
+   "name": "日鉄ソリューションズ",
+   "source_url": "https://www.nssol.nipponsteel.com/press/",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "株式会社千葉銀行は日鉄ソリューションズ株式会社とSalesforceを活用し、新営業支援システムを構築",
+     "url": "https://digitalpr.jp/r/140945",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "最適化モデルのライフサイクル管理プラットフォーム「wisepot」を提供開始 ～計画業務を支える最適化モデルを「個人の職人芸」から「組織の資産」へ～",
+     "url": "https://digitalpr.jp/r/141594",
+     "date": "2026-08-19"
+    },
+    {
+     "title": "バイブコーディングプラットフォーム「Alli Coworker」の販売を開始 ～AIによる業務アプリ構築から活用・定着までを支援～",
+     "url": "https://digitalpr.jp/r/140942",
+     "date": "2026-08-06"
+    }
+   ]
+  },
+  {
+   "id": "canon_its",
+   "name": "キヤノンITソリューションズ",
+   "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
+   "fetched_at": "2026-08-19T15:32:15Z",
+   "ok": true,
+   "items": [
+    {
+     "title": "「セキュリティ対策診断サービス セキュリティ対策評価制度対応版」のメニューを拡充 ～「診断」に加え「実行計画策定」・「実装支援」を順次提供開始～",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0818",
+     "date": "2026-08-18"
+    },
+    {
+     "title": "サプライチェーン全体のセキュリティ強化を支援 キヤノンMJグループが「SCS評価制度」対応サービスを拡充",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0807a-cmj",
+     "date": "2026-08-07"
+    },
+    {
+     "title": "PMO内製化を支援する金融機関向け“PMO高度化支援サービス”を提供開始 実践ノウハウに基づく個別最適化研修で高度なPMO人材を育成",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0723",
+     "date": "2026-07-23"
+    }
+   ]
+  }
+ ]
+}

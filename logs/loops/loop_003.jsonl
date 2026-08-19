@@ -1,0 +1,6 @@
+{"v": "1.2", "ts": "2026-08-20T00:25:04+09:00", "project": "koho-lens", "loop_id": "loop_003", "event": "loop_start", "data": {"goal": "11 社の取得層: sources 宣言・会社別パーサ・実フィクスチャで T-001/T-002 green", "spec_refs": ["F-01", "F-06", "G-01", "G-03"], "scaffold_version": "1.8.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-08-20T00:25:04+09:00", "project": "koho-lens", "loop_id": "loop_003", "event": "stage_end", "data": {"stage": 1, "stage_name": "計画", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:31:14+09:00", "project": "koho-lens", "loop_id": "loop_003", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass", "note": "3 並列調査+実フィクスチャ取得で 11 社の経路確定。NEC は公式 RSS 発見"}}
+{"v": "1.2", "ts": "2026-08-20T00:31:14+09:00", "project": "koho-lens", "loop_id": "loop_003", "event": "test_run", "data": {"command": "pytest tests/test_company_parsers.py", "result": "fail", "passed": 0, "failed": 0, "note": "収集エラー(src.fetchers 未実装)— 赤"}}
+{"v": "1.2", "ts": "2026-08-20T00:31:14+09:00", "project": "koho-lens", "loop_id": "loop_003", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T00:32:45+09:00", "project": "koho-lens", "loop_id": "loop_003", "event": "test_run", "data": {"command": "python -m pytest -q", "result": "pass", "passed": 53, "failed": 0}}
