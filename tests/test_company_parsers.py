@@ -16,7 +16,7 @@ FIX = Path(__file__).parent / "fixtures"
 
 def fixture_get(company):
     """primary_url とサイトマップ記事 URL をフィクスチャファイルに解決する get()。"""
-    ext = "xml" if company["strategy"] in ("feed", "sitemap") else "html"
+    ext = {"feed": "xml", "sitemap": "xml", "json": "json"}.get(company["strategy"], "html")
     mapping = {company["primary_url"]: FIX / f"{company['id']}.{ext}"}
     map_json = FIX / "pages" / company["id"] / "map.json"
     if map_json.exists():

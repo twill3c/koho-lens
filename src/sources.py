@@ -2,8 +2,10 @@
 
 strategy:
 - feed:        primary_url が RSS/Atom/RDF フィード
+- json:        primary_url が一覧 JSON(日立: AEM page_search コンポーネント。
+               静的 HTML のカルーセルは編集部選定の約 6 件のみで一覧の網羅性がない)
 - html:        primary_url の静的 HTML を会社別パーサで抽出
-- sitemap:     primary_url が sitemap.xml。URL 群から最新 3 件を選び、
+- sitemap:     primary_url が sitemap.xml。URL 群から最新 5 件を選び、
                各記事ページを追加取得してタイトル・日付を得る(fetchers 参照)
 
 ua:
@@ -47,8 +49,11 @@ COMPANIES = [
         "id": "hitachi",
         "name": "日立製作所",
         "source_url": "https://www.hitachi.com/ja-jp/press/",
-        "primary_url": "https://www.hitachi.com/ja-jp/press/",
-        "strategy": "html",
+        "primary_url": (
+            "https://www.hitachi.com/content/hitachi/global/ja_jp/press/"
+            "jcr:content/root/main-container/initial-container/page_search_copy_cop.json"
+        ),
+        "strategy": "json",
         "allowed_domains": ["hitachi.com"],
     },
     {

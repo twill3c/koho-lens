@@ -1,0 +1,9 @@
+{"v": "1.2", "ts": "2026-08-20T07:06:31+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "loop_start", "data": {"goal": "日立の取得経路を静的カルーセル HTML(直近6件・更新遅い)から公式一覧 JSON(AEM page_search)へ切替", "spec_refs": ["F-01", "F-06", "G-01"], "scaffold_version": "1.8.0", "agent": "claude-code"}}
+{"v": "1.2", "ts": "2026-08-20T07:06:32+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "failure", "data": {"code": "DATA-SRC", "severity": "S2", "detected_stage": 1, "summary": "日立カードの内容が古い(7/29 止まり)。カルーセル静的 HTML は編集部選定の約6件で、フル一覧(3,782件)は JS ロードの AEM JSON だった — 調査時に一覧網羅性の検証が不足", "resolution": "spec_fix"}}
+{"v": "1.2", "ts": "2026-08-20T07:06:32+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 1, "stage_name": "計画", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T07:06:32+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 2, "stage_name": "文脈読込", "result": "pass", "note": "AEM エンドポイント page_search_copy_cop.json を特定・実取得で 12 件構造確認"}}
+{"v": "1.2", "ts": "2026-08-20T07:07:25+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "test_run", "data": {"command": "python -m pytest -q", "result": "pass", "passed": 55, "failed": 0}}
+{"v": "1.2", "ts": "2026-08-20T07:07:26+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 3, "stage_name": "テスト先行", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T07:07:26+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 4, "stage_name": "実装", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T07:07:26+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 5, "stage_name": "検証", "result": "pass"}}
+{"v": "1.2", "ts": "2026-08-20T07:07:26+09:00", "project": "koho-lens", "loop_id": "loop_007", "event": "stage_end", "data": {"stage": 6, "stage_name": "文書同期", "result": "pass"}}

@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-19T21:58:16Z",
+ "generated_at": "2026-08-19T22:07:03Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -73,33 +73,33 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
-     "title": "2027年3月期 第1四半期 連結決算の概要",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0729/",
-     "date": "2026-07-29"
+     "title": "個別決算における投資有価証券売却益(特別利益)の計上に関するお知らせ",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0819b/",
+     "date": "2026-08-19"
     },
     {
-     "title": "AI駆動型のエンタープライズ向けシステムインテグレーションプラットフォームを開発、安全性を高め生産性を飛躍的に向上",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0724/",
-     "date": "2026-07-24"
+     "title": "ビル管理業務における安全確認支援および現場データ活用に関するPoCを開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0819a/",
+     "date": "2026-08-19"
     },
     {
-     "title": "日立、学術実証から産業応用への展開の加速に向け、インテル株式会社および産業技術総合研究所との協力によりシリコン量子コンピュータの研究開発を開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0722a/",
-     "date": "2026-07-22"
+     "title": "日立エナジー、中国に3億米ドルを投資し、重要な電力インフラのグローバル生産能力を強化",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0817a/",
+     "date": "2026-08-17"
     },
     {
-     "title": "日立とNVIDIA、フィジカルAIの統合制御による、現場全体の自律化とHMAXの進化に向けて協業",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/07/0716/",
-     "date": "2026-07-16"
+     "title": "日立、日本カードネットワークの決済インフラの段階的なモダナイゼーションにおいてクラウド運用変革に参画",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0817/",
+     "date": "2026-08-17"
     },
     {
-     "title": "Hitachi Investor Day 2026",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/06/0610/",
-     "date": "2026-06-10"
+     "title": "日立とエネウィル、系統蓄電所に蓄えられた再エネ電力のグリーン価値の証明サービスと事業活用を開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0805/",
+     "date": "2026-08-05"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -136,7 +136,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -170,7 +170,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-19T21:58:16Z",
+   "fetched_at": "2026-08-19T22:07:03Z",
    "ok": true,
    "items": [
     {

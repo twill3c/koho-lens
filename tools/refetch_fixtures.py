@@ -56,7 +56,7 @@ def main() -> None:
     for co in COMPANIES:
         ua = BROWSER_UA if co.get("ua") == "browser" else PROJECT_UA
         raw = get(co["primary_url"], ua)
-        ext = "xml" if co["strategy"] in ("feed", "sitemap") else "html"
+        ext = {"feed": "xml", "sitemap": "xml", "json": "json"}.get(co["strategy"], "html")
         (FIX / f"{co['id']}.{ext}").write_bytes(raw)
         print(f"{co['id']}: primary {len(raw)} bytes")
         if co["strategy"] == "sitemap":

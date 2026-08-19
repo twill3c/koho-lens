@@ -32,24 +32,19 @@ def _https(url: str) -> str:
 # ---- HTML パーサ(会社別) ----------------------------------------------
 
 
-def parse_hitachi(html: str, base: str) -> list[dict]:
-    # <p class="cmp-teaser__pretitle">2026.7.29</p> …
-    # <a class="cmp-teaser__title-link" href="…">タイトル</a>
-    pat = re.compile(
-        r'class="cmp-teaser__pretitle">([\d.]+)</p>.*?'
-        r'<a class="cmp-teaser__title-link" href="([^"]+)"[^>]*>(.*?)</a>',
-        re.S,
-    )
-    seen, items = set(), []
-    for date, href, title in pat.findall(html):
-        url = absolutize(base, href)
-        if url in seen:
-            continue
-        seen.add(url)
-        items.append(
-            {"title": _clean(title), "url": url, "date": normalize_date(date)}
-        )
-    return items
+def parse_hitachi_json(raw: bytes) -> list[dict]:
+    # AEM page_search JSON: searchPagesList[].newsTitle / newsPath / newsPublishDate
+    import json as _json
+
+    data = _json.loads(raw.decode("utf-8", "ignore"))
+    return [
+        {
+            "title": _clean(it.get("newsTitle", "")),
+            "url": it.get("newsPath", ""),
+            "date": normalize_date(it.get("newsPublishDate", "")),
+        }
+        for it in data.get("searchPagesList", [])
+    ]
 
 
 def parse_nttdata(html: str, base: str) -> list[dict]:
@@ -133,7 +128,6 @@ def parse_nssol(html: str, base: str) -> list[dict]:
 
 
 _HTML_PARSERS = {
-    "hitachi": parse_hitachi,
     "nttdata": parse_nttdata,
     "tis": parse_tis,
     "canon_its": parse_canon_its,
@@ -202,7 +196,9 @@ def _fetch_sitemap_items(company, get, ua) -> list[dict]:
 def fetch_company(company, get) -> list[dict]:
     ua = BROWSER_UA if company.get("ua") == "browser" else PROJECT_UA
     strategy = company["strategy"]
-    if strategy == "feed":
+    if strategy == "json":
+        items = parse_hitachi_json(get(company["primary_url"], ua))
+    elif strategy == "feed":
         items = parse_feed(get(company["primary_url"], ua))
     elif strategy == "sitemap":
         items = _fetch_sitemap_items(company, get, ua)
