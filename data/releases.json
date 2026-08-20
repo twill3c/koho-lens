@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-08-20T01:56:54Z",
+ "generated_at": "2026-08-20T07:14:16Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
+    {
+     "title": "米Exostarの機能を活用し、日本国内のデータ管理・運用による高セキュアなサプライチェーンの情報連携サービスを提供開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000597.000093942.html",
+     "date": "2026-08-20"
+    },
     {
      "title": "JA共済連様の情報系システムの安定運用と高度な活用促進に向け「Fujitsu クラウドサービス powered by Oracle Alloy」と「Oracle Analytics Cloud」を導入",
      "url": "https://prtimes.jp/main/html/rd/p/000000596.000093942.html",
@@ -27,11 +32,6 @@
      "title": "ワット・ビット構想実現に向けた次世代分散型 AI処理インフラの実証実験の開始について",
      "url": "https://prtimes.jp/main/html/rd/p/000000593.000093942.html",
      "date": "2026-07-27"
-    },
-    {
-     "title": "「見たいその瞬間」を AI が選んで超低遅延で届ける-「KYOJO CUP」で次世代リアルタイム映像配信を実証",
-     "url": "https://prtimes.jp/main/html/rd/p/000000592.000093942.html",
-     "date": "2026-07-27"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立ハイテク、フィジカルAIを活用した「HMAX Industry」により、全固体電池向け正極活物質のコーティングプロセス最適化を支援 [株式会社日立ハイテク]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0820/",
+     "date": "2026-08-20"
+    },
     {
      "title": "個別決算における投資有価証券売却益(特別利益)の計上に関するお知らせ",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0819b/",
@@ -95,11 +100,6 @@
      "title": "日立、日本カードネットワークの決済インフラの段階的なモダナイゼーションにおいてクラウド運用変革に参画",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0817/",
      "date": "2026-08-17"
-    },
-    {
-     "title": "日立とエネウィル、系統蓄電所に蓄えられた再エネ電力のグリーン価値の証明サービスと事業活用を開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0805/",
-     "date": "2026-08-05"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -124,11 +124,6 @@
      "title": "AIエージェントを中核とした次世代BPO事業を共同展開、NTTマーケティングアクトProCXを合弁会社化",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/072800",
      "date": "2026-07-28"
-    },
-    {
-     "title": "法人インターネットバンキングと連携し、請求書受領から振込実行まで完結する「TetraBRiDGE® for Bank」提供開始",
-     "url": "https://www.nttdata.com/global/ja/news/release/2026/071500",
-     "date": "2026-07-15"
     }
    ]
   },
@@ -136,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -170,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -272,9 +267,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBMテクノロジー・リーダー・スタディ2026 ：AI の全社展開が進む中、 CIO・CTO が直面する「統制のギャップ」の拡大が明らかに",
+     "url": "https://jp.newsroom.ibm.com/2026-08-20-new-ibm-study-finds-cios-and-ctos-face-growing-ai-control-gap-as-enterprise-deployment-scales",
+     "date": "2026-08-20"
+    },
     {
      "title": "IBM、フォールト・トレラント量子コンピューターの実現に向けた重要な一歩として、初のモジュール型極低温システムの連結に成功",
      "url": "https://jp.newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
@@ -294,11 +294,6 @@
      "title": "IBM、OpenAIと戦略的協業を開始し、企業の中核業務全体におけるセキュアなAI導入を加速",
      "url": "https://jp.newsroom.ibm.com/2026-08-17-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations",
      "date": "2026-08-17"
-    },
-    {
-     "title": "IBMとTogether AI、IBM Cloud上のNVIDIA AIインフラストラクチャーを活用し、オープンソースAI推論の大規模展開に向けた複数年契約を締結",
-     "url": "https://jp.newsroom.ibm.com/2026-08-14-IBM-and-Together-AI-Sign-Multi-Year-Agreement-to-Scale-Open-Source-AI-Inference-with-NVIDIA-AI-Infrastructure-on-IBM-Cloud",
-     "date": "2026-08-14"
     }
    ]
   },
@@ -306,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-20T01:56:54Z",
+   "fetched_at": "2026-08-20T07:14:16Z",
    "ok": true,
    "items": [
     {
@@ -340,9 +335,14 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-19T22:40:22Z",
-   "ok": false,
+   "fetched_at": "2026-08-20T07:14:16Z",
+   "ok": true,
    "items": [
+    {
+     "title": "ホテルシステム「PREVAIL」の「シンプル画面」を提供開始 ～操作に不慣れなスタッフでも使いやすい画面でホテル現場の業務負荷軽減に貢献～",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0820",
+     "date": "2026-08-20"
+    },
     {
      "title": "「セキュリティ対策診断サービス セキュリティ対策評価制度対応版」のメニューを拡充 ～「診断」に加え「実行計画策定」・「実装支援」を順次提供開始～",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0818",
@@ -352,11 +352,6 @@
      "title": "サプライチェーン全体のセキュリティ強化を支援 キヤノンMJグループが「SCS評価制度」対応サービスを拡充",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0807a-cmj",
      "date": "2026-08-07"
-    },
-    {
-     "title": "PMO内製化を支援する金融機関向け“PMO高度化支援サービス”を提供開始 実践ノウハウに基づく個別最適化研修で高度なPMO人材を育成",
-     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0723",
-     "date": "2026-07-23"
     },
     {
      "title": "2025年",
