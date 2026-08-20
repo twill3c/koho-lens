@@ -37,6 +37,16 @@ main { display: grid; grid-template-columns: repeat(auto-fill, minmax(21rem, 1fr
 .headline:hover { text-decoration: underline; }
 .stale { color: var(--stale); font-size: .78rem; margin-bottom: .4rem; }
 .empty { color: var(--sub); font-size: .85rem; }
+.controls { display: flex; flex-wrap: wrap; gap: .5rem; align-items: center;
+  margin: 0 0 1rem; }
+.chip { background: var(--card); border: 1px solid var(--line); color: var(--sub);
+  border-radius: 999px; padding: .3rem .8rem; font-size: .8rem; cursor: pointer;
+  user-select: none; white-space: nowrap; }
+.chip:hover { color: var(--ink); }
+.chip.on { background: var(--accent); border-color: var(--accent); color: var(--bg);
+  font-weight: 600; }
+.hidden { display: none; }
+.noresult { color: var(--sub); font-size: .85rem; padding: 1rem 0; }
 .notice { margin-top: 2.2rem; color: var(--sub); font-size: .78rem;
   border-top: 1px solid var(--line); padding-top: 1rem; }
 footer { position: fixed; left: 0; right: 0; bottom: 0; z-index: 10;
@@ -50,10 +60,14 @@ footer a { color: var(--sub); }
 <body>
 <header>
   <h1>広報レンズ<span class="en">KOHO LENS</span></h1>
-  <p class="updated">主要ITサービス企業 11 社の最新プレスリリース(各 5 件) — 最終更新 2026-08-21 04:08 JST(6 時間ごとに自動更新)</p>
+  <p class="updated">主要ITサービス企業 11 社の最新プレスリリース(各 5 件) — 最終更新 2026-08-21 07:17 JST(6 時間ごとに自動更新)</p>
 </header>
+<div class="controls">
+  <span class="chip" id="f1m">直近1ヶ月の発信がある企業</span>
+  <span class="chip" id="f1w">直近1週間の発信がある企業</span>
+</div>
 <main>
-  <section class="company" id="fujitsu">
+  <section class="company" id="fujitsu" data-latest="2026-08-20">
     <h2><a href="https://global.fujitsu/ja-jp/pr/news" target="_blank" rel="noopener noreferrer">富士通</a></h2>
     <ul>
       <li><span class="date">2026-08-20</span><a href="https://prtimes.jp/main/html/rd/p/000000597.000093942.html" class="headline" target="_blank" rel="noopener noreferrer">米Exostarの機能を活用し、日本国内のデータ管理・運用による高セキュアなサプライチェーンの情報連携サービスを提供開始</a></li>
@@ -63,7 +77,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-07-27</span><a href="https://prtimes.jp/main/html/rd/p/000000593.000093942.html" class="headline" target="_blank" rel="noopener noreferrer">ワット・ビット構想実現に向けた次世代分散型 AI処理インフラの実証実験の開始について</a></li>
     </ul>
   </section>
-  <section class="company" id="nec">
+  <section class="company" id="nec" data-latest="2026-08-18">
     <h2><a href="https://jpn.nec.com/press/index.html" target="_blank" rel="noopener noreferrer">NEC</a></h2>
     <ul>
       <li><span class="date">2026-08-18</span><a href="https://jpn.nec.com/press/202608/20260818_02.html" class="headline" target="_blank" rel="noopener noreferrer">NEC、デュアルユースを視野に世界をリードする水中音響基盤モデルの構築に向けた研究を開始</a></li>
@@ -73,7 +87,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-07-31</span><a href="https://jpn.nec.com/press/202607/20260731_01.html" class="headline" target="_blank" rel="noopener noreferrer">令和8年熊本地震による被害に対する支援について</a></li>
     </ul>
   </section>
-  <section class="company" id="hitachi">
+  <section class="company" id="hitachi" data-latest="2026-08-20">
     <h2><a href="https://www.hitachi.com/ja-jp/press/" target="_blank" rel="noopener noreferrer">日立製作所</a></h2>
     <ul>
       <li><span class="date">2026-08-20</span><a href="https://www.hitachi.com/ja-jp/press/articles/2026/08/0820/" class="headline" target="_blank" rel="noopener noreferrer">日立ハイテク、フィジカルAIを活用した「HMAX Industry」により、全固体電池向け正極活物質のコーティングプロセス最適化を支援 [株式会社日立ハイテク]</a></li>
@@ -83,7 +97,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-08-17</span><a href="https://www.hitachi.com/ja-jp/press/articles/2026/08/0817/" class="headline" target="_blank" rel="noopener noreferrer">日立、日本カードネットワークの決済インフラの段階的なモダナイゼーションにおいてクラウド運用変革に参画</a></li>
     </ul>
   </section>
-  <section class="company" id="nttdata">
+  <section class="company" id="nttdata" data-latest="2026-08-06">
     <h2><a href="https://www.nttdata.com/global/ja/news/" target="_blank" rel="noopener noreferrer">NTTデータ</a></h2>
     <ul>
       <li><span class="date">2026-08-06</span><a href="https://www.nttdata.com/global/ja/news/release/2026/080600" class="headline" target="_blank" rel="noopener noreferrer">2026年度 第1四半期決算について</a></li>
@@ -91,7 +105,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-07-28</span><a href="https://www.nttdata.com/global/ja/news/release/2026/072800" class="headline" target="_blank" rel="noopener noreferrer">AIエージェントを中核とした次世代BPO事業を共同展開、NTTマーケティングアクトProCXを合弁会社化</a></li>
     </ul>
   </section>
-  <section class="company" id="nri">
+  <section class="company" id="nri" data-latest="2026-08-06">
     <h2><a href="https://www.nri.com/jp/news/index.html" target="_blank" rel="noopener noreferrer">野村総合研究所</a></h2>
     <ul>
       <li><span class="date">2026-08-06</span><a href="https://www.nri.com/jp/news/info/20260806_1.html" class="headline" target="_blank" rel="noopener noreferrer">NRIセキュア、自社のSOC運用知見を組み込んだAIで、セキュリティ監視サービスを強化</a></li>
@@ -101,7 +115,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-07-27</span><a href="https://www.nri.com/jp/news/info/20260727_1.html" class="headline" target="_blank" rel="noopener noreferrer">「見たいその瞬間」をAIが選んで超低遅延で届ける-「KYOJO CUP」で次世代リアルタイム映像配信を実証</a></li>
     </ul>
   </section>
-  <section class="company" id="scsk">
+  <section class="company" id="scsk" data-latest="2026-08-17">
     <h2><a href="https://www.scsk.jp/news/2026/index.html" target="_blank" rel="noopener noreferrer">SCSK</a></h2>
     <ul>
       <li><span class="date">2026-08-17</span><a href="https://www.scsk.jp/news/2026/press/management/20260817.html" class="headline" target="_blank" rel="noopener noreferrer">人事異動に関するお知らせ</a></li>
@@ -111,7 +125,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-08-03</span><a href="https://www.scsk.jp/news/2026/group/20260803g_2.html" class="headline" target="_blank" rel="noopener noreferrer">ネットワンシステムズ、「AI×監視カメラ」でクマの出没を自動検知・自動通知するソリューションを提供開始 ～多数のカメラで広範囲を監視し、クマ検知特化AIで即時検知。様々な通知手法とも自動で連携～（ネットワンシステムズ株式会社）</a></li>
     </ul>
   </section>
-  <section class="company" id="tis">
+  <section class="company" id="tis" data-latest="2026-08-19">
     <h2><a href="https://www.tisi.jp/news/" target="_blank" rel="noopener noreferrer">TIS(TISI)</a></h2>
     <ul>
       <li><span class="date">2026-08-19</span><a href="https://www.tisi.jp/news/2026/tisi_news/20260819_1.html" class="headline" target="_blank" rel="noopener noreferrer">TISI、地域共創とデータ活用により埼玉県横瀬町の住民参加型森林再生プロジェクトを支援</a></li>
@@ -121,7 +135,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-08-04</span><a href="https://www.tisi.jp/news/2026/tisi_news/20260804_1.html" class="headline" target="_blank" rel="noopener noreferrer">TISI、EC取引の不正リスクを可視化し、対策設計から運用までを一貫して支援する新サービスを提供開始</a></li>
     </ul>
   </section>
-  <section class="company" id="accenture">
+  <section class="company" id="accenture" data-latest="2026-08-04">
     <h2><a href="https://newsroom.accenture.jp/" target="_blank" rel="noopener noreferrer">アクセンチュア</a></h2>
     <ul>
       <li><span class="date">2026-08-04</span><a href="https://newsroom.accenture.jp/jp/news/2026/servicenow-and-accenture-launch-ai-powered-services-to-accelerate-the-shift-from-legacy-risk-platforms-to-agentic-ai" class="headline" target="_blank" rel="noopener noreferrer">ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表</a></li>
@@ -131,7 +145,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-06-22</span><a href="https://newsroom.accenture.jp/jp/news/2026/infroneer-teams-with-accenture-to-builds-new-financial-data-and-insights-platform-to-advance-its-group-management-capabilities-in-just-three-months" class="headline" target="_blank" rel="noopener noreferrer">インフロニア、現場の原価管理からグループ経営判断までを一気通貫で支えるための基盤を3か月で構築</a></li>
     </ul>
   </section>
-  <section class="company" id="ibm">
+  <section class="company" id="ibm" data-latest="2026-08-20">
     <h2><a href="https://jp.newsroom.ibm.com/announcements" target="_blank" rel="noopener noreferrer">日本IBM</a></h2>
     <ul>
       <li><span class="date">2026-08-20</span><a href="https://jp.newsroom.ibm.com/2026-08-20-new-ibm-study-finds-cios-and-ctos-face-growing-ai-control-gap-as-enterprise-deployment-scales" class="headline" target="_blank" rel="noopener noreferrer">IBMテクノロジー・リーダー・スタディ2026 ：AI の全社展開が進む中、 CIO・CTO が直面する「統制のギャップ」の拡大が明らかに</a></li>
@@ -141,7 +155,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-08-17</span><a href="https://jp.newsroom.ibm.com/2026-08-17-ibm-partners-with-openai-to-accelerate-secure-ai-deployment-for-enterprises-across-core-operations" class="headline" target="_blank" rel="noopener noreferrer">IBM、OpenAIと戦略的協業を開始し、企業の中核業務全体におけるセキュアなAI導入を加速</a></li>
     </ul>
   </section>
-  <section class="company" id="nssol">
+  <section class="company" id="nssol" data-latest="2026-08-19">
     <h2><a href="https://www.nssol.nipponsteel.com/press/" target="_blank" rel="noopener noreferrer">日鉄ソリューションズ</a></h2>
     <ul>
       <li><span class="date">2026-08-19</span><a href="https://digitalpr.jp/r/140945" class="headline" target="_blank" rel="noopener noreferrer">株式会社千葉銀行は日鉄ソリューションズ株式会社とSalesforceを活用し、新営業支援システムを構築</a></li>
@@ -151,7 +165,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-07-22</span><a href="https://digitalpr.jp/r/139508" class="headline" target="_blank" rel="noopener noreferrer">行政機関向け「NSDDDクラウド for Government 情報公開事務支援ソリューション」の提供を開始 ～AIを活用し、情報公開事務や個人情報開示請求の対応を効率化～</a></li>
     </ul>
   </section>
-  <section class="company" id="canon_its">
+  <section class="company" id="canon_its" data-latest="2026-08-20">
     <h2><a href="https://www.canon-its.co.jp/corporate/newsrelease" target="_blank" rel="noopener noreferrer">キヤノンITソリューションズ</a></h2>
     <ul>
       <li><span class="date">2026-08-20</span><a href="https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0820" class="headline" target="_blank" rel="noopener noreferrer">ホテルシステム「PREVAIL」の「シンプル画面」を提供開始 ～操作に不慣れなスタッフでも使いやすい画面でホテル現場の業務負荷軽減に貢献～</a></li>
@@ -160,6 +174,7 @@ footer a { color: var(--sub); }
       <li><span class="date">2026-08-19</span><a href="https://www.canon-its.co.jp/corporate/newsrelease/2025" class="headline" target="_blank" rel="noopener noreferrer">2025年</a></li>
     </ul>
   </section>
+<p class="noresult hidden" id="noresult">該当する企業がありません</p>
 </main>
 <div class="notice">
   <p>本サイトは各社が公式に公開するプレスリリースの見出しとリンクのみを収集・表示しています(本文は保存していません)。
@@ -172,5 +187,34 @@ footer a { color: var(--sub); }
   ・ <a href="https://claude.ai/code/artifact/ed8ef071-5a06-4fcc-874f-772d9200076e" target="_blank" rel="noopener">koho-lens 設計図</a>
   ・ <a href="https://app-menu-amber.vercel.app" target="_blank" rel="noopener">App Menu</a></p>
 </footer>
+<script>
+// 期間の基準は閲覧時点(ビルド時に焼き込まない)
+const cutoff = days => new Date(Date.now() - days*864e5).toISOString().slice(0,10);
+let only1m = false, only1w = false;
+function render() {
+  const c1m = cutoff(30), c1w = cutoff(7);
+  let shown = 0;
+  for (const sec of document.querySelectorAll(".company")) {
+    const latest = sec.dataset.latest;
+    let ok = true;
+    if (only1m) ok = latest >= c1m;
+    if (ok && only1w) ok = latest >= c1w;
+    sec.classList.toggle("hidden", !ok);
+    if (ok) shown++;
+  }
+  document.getElementById("noresult").classList.toggle("hidden", shown > 0);
+}
+document.getElementById("f1m").onclick = e => {
+  only1m = !only1m;
+  if (only1m) { only1w = false; document.getElementById("f1w").classList.remove("on"); }
+  e.target.classList.toggle("on", only1m); render();
+};
+document.getElementById("f1w").onclick = e => {
+  only1w = !only1w;
+  if (only1w) { only1m = false; document.getElementById("f1m").classList.remove("on"); }
+  e.target.classList.toggle("on", only1w); render();
+};
+render();
+</script>
 </body>
 </html>
