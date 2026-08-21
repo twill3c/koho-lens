@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-20T22:17:55Z",
+ "generated_at": "2026-08-21T02:03:30Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
+    {
+     "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化",
+     "url": "https://jpn.nec.com/press/202608/20260821_02.html",
+     "date": "2026-08-21"
+    },
     {
      "title": "NEC、デュアルユースを視野に世界をリードする水中音響基盤モデルの構築に向けた研究を開始",
      "url": "https://jpn.nec.com/press/202608/20260818_02.html",
@@ -61,11 +66,6 @@
      "title": "NEC、海外向けネットワーク機器再販事業などを譲渡",
      "url": "https://jpn.nec.com/press/202608/20260805_01.html",
      "date": "2026-08-05"
-    },
-    {
-     "title": "令和8年熊本地震による被害に対する支援について",
-     "url": "https://jpn.nec.com/press/202607/20260731_01.html",
-     "date": "2026-07-31"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -199,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
     {
@@ -335,9 +335,14 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-20T22:17:55Z",
+   "fetched_at": "2026-08-21T02:03:30Z",
    "ok": true,
    "items": [
+    {
+     "title": "キヤノンITソリューションズがERP「FutureStage」の提供を開始 日立システムズとのパートナー契約により基幹業務システムをワンストップで提供",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0821",
+     "date": "2026-08-21"
+    },
     {
      "title": "ホテルシステム「PREVAIL」の「シンプル画面」を提供開始 ～操作に不慣れなスタッフでも使いやすい画面でホテル現場の業務負荷軽減に貢献～",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0820",
@@ -347,11 +352,6 @@
      "title": "「セキュリティ対策診断サービス セキュリティ対策評価制度対応版」のメニューを拡充 ～「診断」に加え「実行計画策定」・「実装支援」を順次提供開始～",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0818",
      "date": "2026-08-18"
-    },
-    {
-     "title": "サプライチェーン全体のセキュリティ強化を支援 キヤノンMJグループが「SCS評価制度」対応サービスを拡充",
-     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0807a-cmj",
-     "date": "2026-08-07"
     },
     {
      "title": "2025年",
