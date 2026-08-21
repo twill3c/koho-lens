@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-21T02:03:30Z",
+ "generated_at": "2026-08-21T07:14:57Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "大阪大学D3センター、産業科学研究所およびNEC、100Gbps級の超高速・安全な研究データ転送でAI for Scienceを加速する次世代データ転送基盤「RED-ONION」の構築・試験運用を開始",
+     "url": "https://jpn.nec.com/press/202608/20260821_01.html",
+     "date": "2026-08-21"
+    },
     {
      "title": "AI時代の低遅延・低消費電力なネットワークの設計指針がITU-Tで国際標準化",
      "url": "https://jpn.nec.com/press/202608/20260821_02.html",
@@ -61,11 +66,6 @@
      "title": "NEC、AIネイティブカンパニーへの変革に向け、大手企業で初めて、人と共創するAI自律型組織を新設",
      "url": "https://jpn.nec.com/press/202608/20260810_01.html",
      "date": "2026-08-10"
-    },
-    {
-     "title": "NEC、海外向けネットワーク機器再販事業などを譲渡",
-     "url": "https://jpn.nec.com/press/202608/20260805_01.html",
-     "date": "2026-08-05"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "人事異動について [株式会社日立インダストリアルプロダクツ]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0821/",
+     "date": "2026-08-21"
+    },
     {
      "title": "日立ハイテク、フィジカルAIを活用した「HMAX Industry」により、全固体電池向け正極活物質のコーティングプロセス最適化を支援 [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0820/",
@@ -95,11 +100,6 @@
      "title": "日立エナジー、中国に3億米ドルを投資し、重要な電力インフラのグローバル生産能力を強化",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0817a/",
      "date": "2026-08-17"
-    },
-    {
-     "title": "日立、日本カードネットワークの決済インフラの段階的なモダナイゼーションにおいてクラウド運用変革に参画",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0817/",
-     "date": "2026-08-17"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -199,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-21T02:03:30Z",
+   "fetched_at": "2026-08-21T07:14:57Z",
    "ok": true,
    "items": [
     {
