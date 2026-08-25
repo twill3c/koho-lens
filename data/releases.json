@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-24T19:07:52Z",
+ "generated_at": "2026-08-25T01:57:26Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -165,9 +165,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
+    {
+     "title": "SDV時代の車載ソフトウェア開発を支援「ソフトウェア単体テスト成果物パッケージ」を開始 ～規格対応から単体テスト、証跡整備、成果物までワンストップ提供～（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20260825g.html",
+     "date": "2026-08-25"
+    },
     {
      "title": "人事異動に関するお知らせ",
      "url": "https://www.scsk.jp/news/2026/press/management/20260817.html",
@@ -187,11 +192,6 @@
      "title": "日本オラクル主催「FY27 OPN Japan Partner Kickoff」にて「Best Project Partner of the Year」を受賞",
      "url": "https://www.scsk.jp/news/2026/info/20260805i.html",
      "date": "2026-08-05"
-    },
-    {
-     "title": "ネットワンシステムズ、「AI×監視カメラ」でクマの出没を自動検知・自動通知するソリューションを提供開始 ～多数のカメラで広範囲を監視し、クマ検知特化AIで即時検知。様々な通知手法とも自動で連携～（ネットワンシステムズ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260803g_2.html",
-     "date": "2026-08-03"
     }
    ]
   },
@@ -199,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-24T19:07:52Z",
+   "fetched_at": "2026-08-25T01:57:26Z",
    "ok": true,
    "items": [
     {
