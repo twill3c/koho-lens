@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-08-25T19:06:10Z",
+ "generated_at": "2026-08-26T02:06:15Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
+    {
+     "title": "米ドル建て無担保普通社債の発行に関するお知らせ",
+     "url": "https://jpn.nec.com/press/202608/20260826_01.html",
+     "date": "2026-08-26"
+    },
     {
      "title": "大阪大学D3センター、産業科学研究所およびNEC、100Gbps級の超高速・安全な研究データ転送でAI for Scienceを加速する次世代データ転送基盤「RED-ONION」の構築・試験運用を開始",
      "url": "https://jpn.nec.com/press/202608/20260821_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始",
      "url": "https://jpn.nec.com/press/202608/20260818_01.html",
      "date": "2026-08-18"
-    },
-    {
-     "title": "NEC、AIネイティブカンパニーへの変革に向け、大手企業で初めて、人と共創するAI自律型組織を新設",
-     "url": "https://jpn.nec.com/press/202608/20260810_01.html",
-     "date": "2026-08-10"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
+    {
+     "title": "鉄道・電力・通信などの社会インフラ現場の障害対応における状況把握と判断を迅速化する、現場状況共有システムを開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0826a/",
+     "date": "2026-08-26"
+    },
     {
      "title": "日立、ビルDXを支えるデジタルサービス「BuilMirai」のサービス体系を拡充",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0825/",
@@ -95,11 +100,6 @@
      "title": "日立ハイテク、フィジカルAIを活用した「HMAX Industry」により、全固体電池向け正極活物質のコーティングプロセス最適化を支援 [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0820/",
      "date": "2026-08-20"
-    },
-    {
-     "title": "個別決算における投資有価証券売却益(特別利益)の計上に関するお知らせ",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0819b/",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -199,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -267,9 +267,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
+    {
+     "title": "「2026年データ侵害のコストに関する調査レポート」日本語版を公開：悪意あるデータ侵害の4件に1件がAIを活用、企業の平均侵害コストは600万ドル",
+     "url": "https://jp.newsroom.ibm.com/2026-08-26-ibm-study-one-in-four-malicious-breaches-are-ai-enabled,-costing-companies-6-million-on-average",
+     "date": "2026-08-26"
+    },
     {
      "title": "IBMスタディ: AI主権の重要性が高まる中 コントロール不足と依存関係が企業リスクを増大",
      "url": "https://jp.newsroom.ibm.com/2026-08-24-ibm-study-limited-control-and-rising-dependencies-leave-enterprises-exposed-in-the-age-of-ai",
@@ -289,11 +294,6 @@
      "title": "IBM、フォールト・トレラント量子コンピューターの実現に向けた重要な一歩として、初のモジュール型極低温システムの連結に成功",
      "url": "https://jp.newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
      "date": "2026-08-19"
-    },
-    {
-     "title": "エヌアイシー・パートナーズと日本IBM、「IBM Bob」を活用したExcelマクロの可視化とWebアプリケーションへの再構築を実践",
-     "url": "https://jp.newsroom.ibm.com/2026-08-19-NIC-Partners-and-IBM-Japan-Use-IBM-Bob",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-25T19:06:10Z",
+   "fetched_at": "2026-08-26T02:06:15Z",
    "ok": true,
    "items": [
     {
