@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-08-26T02:06:15Z",
+ "generated_at": "2026-08-26T07:22:27Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
+    {
+     "title": "AI時代の企業のサイバー防衛ライフサイクルを実現するサイバーセキュリティ戦略を策定",
+     "url": "https://prtimes.jp/main/html/rd/p/000000601.000093942.html",
+     "date": "2026-08-26"
+    },
     {
      "title": "富士通、東急建設および北野建設と、建設現場における工事進捗やタスクの抜け漏れリスクを低減する建設工程管理支援AIの実証実験を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000598.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、豪州モナシュ大学、CSIROが日豪の量子パートナーシップを強化",
      "url": "https://prtimes.jp/main/html/rd/p/000000595.000093942.html",
      "date": "2026-08-04"
-    },
-    {
-     "title": "富士通、金融機関向けに専有型AIプラットフォームの開発を開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000594.000093942.html",
-     "date": "2026-07-28"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
+    {
+     "title": "中小規模施設の空調・冷熱設備管理を省力化するソリューション「exiida Fit(エクシーダ フィット)」を提供開始 [日立グローバルライフソリューションズ株式会社]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0826/",
+     "date": "2026-08-26"
+    },
     {
      "title": "鉄道・電力・通信などの社会インフラ現場の障害対応における状況把握と判断を迅速化する、現場状況共有システムを開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0826a/",
@@ -95,11 +100,6 @@
      "title": "人事異動について [株式会社日立インダストリアルプロダクツ]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0821/",
      "date": "2026-08-21"
-    },
-    {
-     "title": "日立ハイテク、フィジカルAIを活用した「HMAX Industry」により、全固体電池向け正極活物質のコーティングプロセス最適化を支援 [株式会社日立ハイテク]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0820/",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -199,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-26T02:06:15Z",
+   "fetched_at": "2026-08-26T07:22:27Z",
    "ok": true,
    "items": [
     {
