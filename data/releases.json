@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-08-26T20:19:05Z",
+ "generated_at": "2026-08-27T10:02:29Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "米GA-ASIと富士通、日本における無人航空機システムの整備・運用の体制構築を検討するMOUを締結",
+     "url": "https://prtimes.jp/main/html/rd/p/000000602.000093942.html",
+     "date": "2026-08-27"
+    },
     {
      "title": "AI時代の企業のサイバー防衛ライフサイクルを実現するサイバーセキュリティ戦略を策定",
      "url": "https://prtimes.jp/main/html/rd/p/000000601.000093942.html",
@@ -27,11 +32,6 @@
      "title": "JA共済連様の情報系システムの安定運用と高度な活用促進に向け「Fujitsu クラウドサービス powered by Oracle Alloy」と「Oracle Analytics Cloud」を導入",
      "url": "https://prtimes.jp/main/html/rd/p/000000596.000093942.html",
      "date": "2026-08-18"
-    },
-    {
-     "title": "富士通、豪州モナシュ大学、CSIROが日豪の量子パートナーシップを強化",
-     "url": "https://prtimes.jp/main/html/rd/p/000000595.000093942.html",
-     "date": "2026-08-04"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "オールジャパン体制でサプライチェーン全体を守る国産セキュリティサービスを提供開始",
+     "url": "https://jpn.nec.com/press/202608/20260827_01.html",
+     "date": "2026-08-27"
+    },
     {
      "title": "米ドル建て無担保普通社債の発行に関するお知らせ",
      "url": "https://jpn.nec.com/press/202608/20260826_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、デュアルユースを視野に世界をリードする水中音響基盤モデルの構築に向けた研究を開始",
      "url": "https://jpn.nec.com/press/202608/20260818_02.html",
      "date": "2026-08-18"
-    },
-    {
-     "title": "NEC、Microsoft Marketplaceで業務自動化AIエージェント「NEC cotomi Agent」を販売開始",
-     "url": "https://jpn.nec.com/press/202608/20260818_01.html",
-     "date": "2026-08-18"
     }
    ]
   },
@@ -73,9 +73,24 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立エナジー、EconiQ®の新規受注により、お客さまのSF₆フリー送電網への移行を加速",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0827b/",
+     "date": "2026-08-27"
+    },
+    {
+     "title": "日立、サプライチェーンにおける部門間調整を高度に効率化するAIオーケストレーション技術を開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0827/",
+     "date": "2026-08-27"
+    },
+    {
+     "title": "三菱総合研究所と日立、特別高圧帯の系統用蓄電池事業者向けに電力トレーディング高度化支援のサービス提供における協業開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0827a/",
+     "date": "2026-08-27"
+    },
     {
      "title": "中小規模施設の空調・冷熱設備管理を省力化するソリューション「exiida Fit(エクシーダ フィット)」を提供開始 [日立グローバルライフソリューションズ株式会社]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0826/",
@@ -85,21 +100,6 @@
      "title": "鉄道・電力・通信などの社会インフラ現場の障害対応における状況把握と判断を迅速化する、現場状況共有システムを開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0826a/",
      "date": "2026-08-26"
-    },
-    {
-     "title": "日立、ビルDXを支えるデジタルサービス「BuilMirai」のサービス体系を拡充",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0825/",
-     "date": "2026-08-25"
-    },
-    {
-     "title": "コロンビアにおける地震被害に対する支援について",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0824/",
-     "date": "2026-08-24"
-    },
-    {
-     "title": "人事異動について [株式会社日立インダストリアルプロダクツ]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0821/",
-     "date": "2026-08-21"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
     {
@@ -131,9 +131,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "NRIセキュア、AIをはじめとするエマージングテクノロジーの利活用を支えるセキュリティガバナンス構築支援サービスを提供開始",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260827_1.html",
+     "date": "2026-08-27"
+    },
     {
      "title": "令和8年熊本地震被災地への義援金寄付について",
      "url": "https://www.nri.com/jp/news/info/20260825_1.html",
@@ -153,11 +158,6 @@
      "title": "NRIプロセスイノベーション、投資運用関係業務受託業を登録",
      "url": "https://www.nri.com/jp/news/info/20260731_1.html",
      "date": "2026-07-31"
-    },
-    {
-     "title": "野村総合研究所、三菱UFJモルガン・スタンレー証券に「I-STAR/CORE」の法人顧客向け帳票電子交付機能を提供",
-     "url": "https://www.nri.com/jp/news/info/20260729_1.html",
-     "date": "2026-07-29"
     }
    ]
   },
@@ -165,9 +165,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "再エネ属性証明の国際カンファレンス「I-REC DAY」を日本初開催",
+     "url": "https://www.scsk.jp/news/2026/info/20260827i.html",
+     "date": "2026-08-27"
+    },
+    {
+     "title": "生成AI利用時の機密情報流出リスクの可視化・統制を支援するBigIDを活用した「データマネジメント支援サービス」を提供開始 ～データの可視化から運用高度化までトータルで支援～（SCSKセキュリティ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260827g.html",
+     "date": "2026-08-27"
+    },
     {
      "title": "SCSKと三井住友ファイナンス＆リース、中堅・中小企業のGX実行支援に向けた協業を開始",
      "url": "https://www.scsk.jp/news/2026/press/product/20260825_2.html",
@@ -182,16 +192,6 @@
      "title": "人事異動に関するお知らせ",
      "url": "https://www.scsk.jp/news/2026/press/management/20260817.html",
      "date": "2026-08-17"
-    },
-    {
-     "title": "SCSK、マイクロソフトの「Modernize Endpoints」Specialization認定を取得",
-     "url": "https://www.scsk.jp/news/2026/info/20260807i.html",
-     "date": "2026-08-07"
-    },
-    {
-     "title": "ネットワンシステムズ、SCSKセキュリティとともに、ゼロトラストセキュリティを全面採用した愛媛県庁の次期ネットワーク基盤を受注 ～職員の業務環境を、インターネットを中心とする新しい三層分離モデル（β’モデル）に移行。クラウドの活用拡大を可能にし、業務効率向上・災害対策強化に貢献～（ネットワンシステムズ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260806g.html",
-     "date": "2026-08-06"
     }
    ]
   },
@@ -199,13 +199,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
     {
      "title": "TISI、地域共創とデータ活用により埼玉県横瀬町の住民参加型森林再生プロジェクトを支援",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260819_1.html",
-     "date": "2026-08-19"
+     "date": "2026-08-27"
     },
     {
      "title": "TISI、経営判断を5営業日から15分に短縮するAIソリューションで「SAP® BTP Hackathon 2026」最優秀賞を受賞",
@@ -233,9 +233,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "アクセンチュア、コムウェアの買収に合意",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-acquire-comware-to-strengthen-accenture-edge-and-accelerate-digital-core-reinvention-for-mid-market-companies-in-japan",
+     "date": "2026-08-27"
+    },
     {
      "title": "ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表",
      "url": "https://newsroom.accenture.jp/jp/news/2026/servicenow-and-accenture-launch-ai-powered-services-to-accelerate-the-shift-from-legacy-risk-platforms-to-agentic-ai",
@@ -255,11 +260,6 @@
      "title": "アクセンチュア、AI時代のサイバー脅威と地政学リスクに対応し、重要インフラの防御を支える統合サイバーセキュリティプラットフォームを強化",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-strengthen-critical-infrastructure-defense-with-end-to-end-cybersecurity-platform-in-age-of-ai-driven-cyber-threats-and-geopolitical-risk",
      "date": "2026-07-01"
-    },
-    {
-     "title": "インフロニア、現場の原価管理からグループ経営判断までを一気通貫で支えるための基盤を3か月で構築",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/infroneer-teams-with-accenture-to-builds-new-financial-data-and-insights-platform-to-advance-its-group-management-capabilities-in-just-three-months",
-     "date": "2026-06-22"
     }
    ]
   },
@@ -267,9 +267,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM、IBM ZおよびLinuxONE向け次世代デュアル・アーキテクチャー・プロセッサーを発表",
+     "url": "https://jp.newsroom.ibm.com/2026-08-27-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
+     "date": "2026-08-27"
+    },
     {
      "title": "「2026年データ侵害のコストに関する調査レポート」日本語版を公開：悪意あるデータ侵害の4件に1件がAIを活用、企業の平均侵害コストは600万ドル",
      "url": "https://jp.newsroom.ibm.com/2026-08-26-ibm-study-one-in-four-malicious-breaches-are-ai-enabled,-costing-companies-6-million-on-average",
@@ -289,11 +294,6 @@
      "title": "IBMテクノロジー・リーダー・スタディ2026 ：AI の全社展開が進む中、 CIO・CTO が直面する「統制のギャップ」の拡大が明らかに",
      "url": "https://jp.newsroom.ibm.com/2026-08-20-new-ibm-study-finds-cios-and-ctos-face-growing-ai-control-gap-as-enterprise-deployment-scales",
      "date": "2026-08-20"
-    },
-    {
-     "title": "IBM、フォールト・トレラント量子コンピューターの実現に向けた重要な一歩として、初のモジュール型極低温システムの連結に成功",
-     "url": "https://jp.newsroom.ibm.com/2026-08-19-ibm-connects-its-first-modular-cryogenic-systems-in-milestone-toward-fault-tolerant-quantum-computing",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-08-26T20:19:05Z",
+   "fetched_at": "2026-08-27T10:02:29Z",
    "ok": true,
    "items": [
     {
