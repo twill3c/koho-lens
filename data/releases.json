@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-01T21:09:47Z",
+ "generated_at": "2026-09-02T04:48:34Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,19 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、フロンティアAIを活用し、脆弱性の検出から対処までをワンストップで支援する自律型マネージドサービスを提供開始",
+     "url": "https://jpn.nec.com/press/202609/20260902_01.html",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "NEC、フロンティアAI時代の脆弱性対処を支援するセキュリティ向けAI技術「cotomi Security for Industry」を開発",
+     "url": "https://jpn.nec.com/press/202609/20260902_02.html",
+     "date": "2026-09-02"
+    },
     {
      "title": "AIネイティブ化に向けた学びとキャリアの変革 NEC Learning & Career社の発足について",
      "url": "https://jpn.nec.com/press/202609/20260901_01.html",
@@ -56,16 +66,6 @@
      "title": "NEC、多様なサプライチェーン業務を自律実行する「NEC SCM AIエージェント」を販売開始",
      "url": "https://jpn.nec.com/press/202608/20260828_01.html",
      "date": "2026-08-28"
-    },
-    {
-     "title": "オールジャパン体制でサプライチェーン全体を守る国産セキュリティサービスを提供開始",
-     "url": "https://jpn.nec.com/press/202608/20260827_01.html",
-     "date": "2026-08-27"
-    },
-    {
-     "title": "米ドル建て無担保普通社債の発行に関するお知らせ",
-     "url": "https://jpn.nec.com/press/202608/20260826_01.html",
-     "date": "2026-08-26"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
+    {
+     "title": "西武鉄道20000系が里帰りリニューアルします！",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902/",
+     "date": "2026-09-02"
+    },
     {
      "title": "日立ハイテク、高精度かつ高効率な測定を実現した新型紫外可視近赤外分光光度計「UH9000シリーズ」を発売 [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0901a/",
@@ -94,11 +99,6 @@
     {
      "title": "日立と東京ガスが協創、海外産バイオメタンの利用実績を設備単位でデジタル証明する「Powered by Carbon Neutral Gas」の実証を開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0831b/",
-     "date": "2026-08-31"
-    },
-    {
-     "title": "キッチン空間と暮らしに美しくとけこむグリルレスIHクッキングヒーター「MUTRAL(ミュートラル)」を発売 [日立グローバルライフソリューションズ株式会社]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0831a/",
      "date": "2026-08-31"
     }
    ]
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
@@ -155,13 +155,23 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
-     "title": "メンテナンスによるお問い合わせフォーム一部停止のご案内：2026年09月02日（水）02:00 ～ 08:00",
-     "url": "https://www.scsk.jp/news/2026/info/maintenance20260902.html",
-     "date": "2026-09-01"
+     "title": "SCSK所属パラアスリート齊藤 悠希が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
+     "url": "https://www.scsk.jp/news/2026/info/20260902i_3.html",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "SCSK所属パラアスリート網本 麻里が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
+     "url": "https://www.scsk.jp/news/2026/info/20260902i_2.html",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "SCSK所属パラアスリート 前川 楓が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
+     "url": "https://www.scsk.jp/news/2026/info/20260902i.html",
+     "date": "2026-09-02"
     },
     {
      "title": "あらゆる場所からの安全なアクセスを支える「Cisco Secure Access導入・運用支援サービス」提供開始 ～ハイブリッドワークの複雑なセキュリティを解消し、真のゼロトラスト接続を実現～（SCSKセキュリティ株式会社）",
@@ -172,16 +182,6 @@
      "title": "工場のデータ活用を変革し、次世代工場の実現を支援する「SuccessChain for SmartFactory」の提供開始",
      "url": "https://www.scsk.jp/news/2026/press/product/20260831.html",
      "date": "2026-08-31"
-    },
-    {
-     "title": "ビジネス変革と価値創出を加速するデジタルスキル判定制度を導入　～生成AIで高度デジタル人材を評価・可視化～",
-     "url": "https://www.scsk.jp/news/2026/press/management/20260828.html",
-     "date": "2026-08-28"
-    },
-    {
-     "title": "自社開発「SBOM.JP」の脆弱性管理機能を強化 欧州脆弱性データベース「EUVD」との照合に対応 ～SBOM運用を効率化する機能も搭載し、CRAの脆弱性報告義務対応を支援～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20260828g.html",
-     "date": "2026-08-28"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
@@ -223,13 +223,18 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
      "title": "アクセンチュア、コムウェアの買収に合意",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-acquire-comware-to-strengthen-accenture-edge-and-accelerate-digital-core-reinvention-for-mid-market-companies-in-japan",
      "date": "2026-08-27"
+    },
+    {
+     "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
+     "date": "2026-09-02"
     },
     {
      "title": "ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表",
@@ -245,11 +250,6 @@
      "title": "アクセンチュア、OpenAIとの国内における協業を拡充",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-expands-collaboration-with-openai-in-japan-companies-drive-enterprise-reinvention-with-agentic-ai",
      "date": "2026-07-09"
-    },
-    {
-     "title": "アクセンチュア、AI時代のサイバー脅威と地政学リスクに対応し、重要インフラの防御を支える統合サイバーセキュリティプラットフォームを強化",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-strengthen-critical-infrastructure-defense-with-end-to-end-cybersecurity-platform-in-age-of-ai-driven-cyber-threats-and-geopolitical-risk",
-     "date": "2026-07-01"
     }
    ]
   },
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-01T21:09:47Z",
+   "fetched_at": "2026-09-02T04:48:34Z",
    "ok": true,
    "items": [
     {
