@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-02T04:48:34Z",
+ "generated_at": "2026-09-02T11:31:20Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,19 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
+    {
+     "title": "NECと三菱重工、防衛力の一層の強化と変革に向けた戦略的提携へ",
+     "url": "https://jpn.nec.com/press/202609/20260902_04.html",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "NECとAnthropic、フロンティアAIを活用したサイバーセキュリティ強化で協業を加速",
+     "url": "https://jpn.nec.com/press/202609/20260902_03.html",
+     "date": "2026-09-02"
+    },
     {
      "title": "NEC、フロンティアAIを活用し、脆弱性の検出から対処までをワンストップで支援する自律型マネージドサービスを提供開始",
      "url": "https://jpn.nec.com/press/202609/20260902_01.html",
@@ -56,16 +66,6 @@
      "title": "AIネイティブ化に向けた学びとキャリアの変革 NEC Learning & Career社の発足について",
      "url": "https://jpn.nec.com/press/202609/20260901_01.html",
      "date": "2026-09-01"
-    },
-    {
-     "title": "千葉県旭市とNECネクサソリューションズ、代表電話を起点とした新たな問い合わせ対応モデルの実証実験を開始～対話型音声AIエージェント「DEN.Ai」による問い合わせ対応の有効性を検証～[NECネクサソリューションズ]",
-     "url": "https://www.nec-nexs.com/news/press/2026/0831.html",
-     "date": "2026-08-31"
-    },
-    {
-     "title": "NEC、多様なサプライチェーン業務を自律実行する「NEC SCM AIエージェント」を販売開始",
-     "url": "https://jpn.nec.com/press/202608/20260828_01.html",
-     "date": "2026-08-28"
     }
    ]
   },
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
+    {
+     "title": "自己株式の取得状況に関するお知らせ",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902b/",
+     "date": "2026-09-02"
+    },
+    {
+     "title": "日立、宇宙からインフラ・災害を3次元監視する『構造化電波技術』の衛星搭載に向けた原理検証に成功",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902a/",
+     "date": "2026-09-02"
+    },
     {
      "title": "西武鉄道20000系が里帰りリニューアルします！",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902/",
@@ -90,16 +100,6 @@
      "title": "日立、国内におけるオンサイト型電源ソリューションの提供に向けBloom Energyと協業開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0901b/",
      "date": "2026-09-01"
-    },
-    {
-     "title": "人事異動について [株式会社日立インダストリアルプロダクツ]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0901/",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "日立と東京ガスが協創、海外産バイオメタンの利用実績を設備単位でデジタル証明する「Powered by Carbon Neutral Gas」の実証を開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/08/0831b/",
-     "date": "2026-08-31"
     }
    ]
   },
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-02T04:48:34Z",
+   "fetched_at": "2026-09-02T11:31:20Z",
    "ok": true,
    "items": [
     {
