@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-02T21:10:01Z",
+ "generated_at": "2026-09-03T04:46:57Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,19 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、約40の決済サービスに対応した次期決済システムを、ファミリーマート全国約16,500店舗に導入",
+     "url": "https://jpn.nec.com/press/202609/20260903_01.html",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "Transgene社とNEC、個別化ネオアンチゲンがんワクチンTG4050の第I相臨床試験において16人全員が3年間の無病生存状態を維持したことを確認",
+     "url": "https://jpn.nec.com/press/202609/20260903_02.html",
+     "date": "2026-09-03"
+    },
     {
      "title": "NECと三菱重工、防衛力の一層の強化と変革に向けた戦略的提携へ",
      "url": "https://jpn.nec.com/press/202609/20260902_04.html",
@@ -56,16 +66,6 @@
      "title": "NEC、フロンティアAIを活用し、脆弱性の検出から対処までをワンストップで支援する自律型マネージドサービスを提供開始",
      "url": "https://jpn.nec.com/press/202609/20260902_01.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "NEC、フロンティアAI時代の脆弱性対処を支援するセキュリティ向けAI技術「cotomi Security for Industry」を開発",
-     "url": "https://jpn.nec.com/press/202609/20260902_02.html",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "AIネイティブ化に向けた学びとキャリアの変革 NEC Learning & Career社の発足について",
-     "url": "https://jpn.nec.com/press/202609/20260901_01.html",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -73,33 +73,33 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、フィジカルAIの社会実装を加速させる「HMAX」を拡充",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903b/",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "データセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903c/",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "AI時代の事業継続を支援するオペレーショナルレジリエンスサービス「HMAX Cyber」を提供開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903/",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "現場全体の自律的な最適化に向け、HMAX Data Fabricなど新たな基盤・運用管理ソリューションを提供開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903d/",
+     "date": "2026-09-03"
+    },
     {
      "title": "自己株式の取得状況に関するお知らせ",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902b/",
      "date": "2026-09-02"
-    },
-    {
-     "title": "日立、宇宙からインフラ・災害を3次元監視する『構造化電波技術』の衛星搭載に向けた原理検証に成功",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902a/",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "西武鉄道20000系が里帰りリニューアルします！",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902/",
-     "date": "2026-09-02"
-    },
-    {
-     "title": "日立ハイテク、高精度かつ高効率な測定を実現した新型紫外可視近赤外分光光度計「UH9000シリーズ」を発売 [株式会社日立ハイテク]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0901a/",
-     "date": "2026-09-01"
-    },
-    {
-     "title": "日立、国内におけるオンサイト型電源ソリューションの提供に向けBloom Energyと協業開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0901b/",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-02T21:10:01Z",
+   "fetched_at": "2026-09-03T04:46:57Z",
    "ok": true,
    "items": [
     {
