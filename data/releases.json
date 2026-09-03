@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-03T04:46:57Z",
+ "generated_at": "2026-09-03T11:28:09Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立エナジーとダイキン、持続可能な電力網を支えるガスの長期供給に向け覚書を締結",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903e/",
+     "date": "2026-09-03"
+    },
+    {
+     "title": "Hitachi Social Innovation Forum 2026 JAPAN 基調講演「フィジカルAIで進化する社会インフラ～日立の『デジタルインフラ』最前線～」",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903a/",
+     "date": "2026-09-03"
+    },
     {
      "title": "日立、フィジカルAIの社会実装を加速させる「HMAX」を拡充",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903b/",
@@ -90,16 +100,6 @@
      "title": "AI時代の事業継続を支援するオペレーショナルレジリエンスサービス「HMAX Cyber」を提供開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903/",
      "date": "2026-09-03"
-    },
-    {
-     "title": "現場全体の自律的な最適化に向け、HMAX Data Fabricなど新たな基盤・運用管理ソリューションを提供開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903d/",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "自己株式の取得状況に関するお知らせ",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0902b/",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-03T04:46:57Z",
+   "fetched_at": "2026-09-03T11:28:09Z",
    "ok": true,
    "items": [
     {
