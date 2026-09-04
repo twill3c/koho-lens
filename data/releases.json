@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-04T04:48:17Z",
+ "generated_at": "2026-09-04T11:31:10Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM、2026年全米オープンにおいてAIを活用した新たなファン体験を提供",
+     "url": "https://jp.newsroom.ibm.com/2026-09-04-ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open",
+     "date": "2026-09-04"
+    },
     {
      "title": "IBM、IBM ZおよびLinuxONE向け次世代デュアル・アーキテクチャー・プロセッサーを発表",
      "url": "https://jp.newsroom.ibm.com/2026-08-27-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
@@ -279,11 +284,6 @@
      "title": "ジオテクノロジーズと日本IBM、AIを活用した地理空間基盤構築と地理空間データ・ソリューションの共同開発に向けたDX/AIパートナーシップを締結",
      "url": "https://jp.newsroom.ibm.com/2026-08-24-ai-partnership-with-geo-technologies",
      "date": "2026-08-24"
-    },
-    {
-     "title": "IBMテクノロジー・リーダー・スタディ2026 ：AI の全社展開が進む中、 CIO・CTO が直面する「統制のギャップ」の拡大が明らかに",
-     "url": "https://jp.newsroom.ibm.com/2026-08-20-new-ibm-study-finds-cios-and-ctos-face-growing-ai-control-gap-as-enterprise-deployment-scales",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-04T04:48:17Z",
+   "fetched_at": "2026-09-04T11:31:10Z",
    "ok": true,
    "items": [
     {
