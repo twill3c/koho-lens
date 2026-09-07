@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-06T20:33:14Z",
+ "generated_at": "2026-09-07T04:57:52Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "UNDPとNEC、ネイチャーポジティブな社会の実現に向けたAIをはじめとするデジタル技術の活用に関する協力覚書を締結",
+     "url": "https://jpn.nec.com/press/202609/20260907_01.html",
+     "date": "2026-09-07"
+    },
     {
      "title": "NEC、SBペイメントサービス、SB C&Sの3社が提携し、マルチ決済サービス「PayCAS」に顔認証決済を導入",
      "url": "https://jpn.nec.com/press/202609/20260904_01.html",
@@ -61,11 +66,6 @@
      "title": "NECと三菱重工、防衛力の一層の強化と変革に向けた戦略的提携へ",
      "url": "https://jpn.nec.com/press/202609/20260902_04.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "NECとAnthropic、フロンティアAIを活用したサイバーセキュリティ強化で協業を加速",
-     "url": "https://jpn.nec.com/press/202609/20260902_03.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "自動飛行・遠隔運用に強みを持つNokia ECE製ドローンの国内初の販売権を取得",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0907/",
+     "date": "2026-09-07"
+    },
     {
      "title": "日立エナジーとダイキン、持続可能な電力網を支えるガスの長期供給に向け覚書を締結",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903e/",
@@ -94,11 +99,6 @@
     {
      "title": "データセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903c/",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "AI時代の事業継続を支援するオペレーショナルレジリエンスサービス「HMAX Cyber」を提供開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903/",
      "date": "2026-09-03"
     }
    ]
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
@@ -223,18 +223,18 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
-    {
-     "title": "アクセンチュア、コムウェアの買収に合意",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-acquire-comware-to-strengthen-accenture-edge-and-accelerate-digital-core-reinvention-for-mid-market-companies-in-japan",
-     "date": "2026-08-27"
-    },
     {
      "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
      "url": "https://newsroom.accenture.jp/jp/news/2026/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
      "date": "2026-09-02"
+    },
+    {
+     "title": "アクセンチュア、コムウェアの買収に合意",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-acquire-comware-to-strengthen-accenture-edge-and-accelerate-digital-core-reinvention-for-mid-market-companies-in-japan",
+     "date": "2026-08-27"
     },
     {
      "title": "ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表",
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-06T20:33:14Z",
+   "fetched_at": "2026-09-07T04:57:52Z",
    "ok": true,
    "items": [
     {
