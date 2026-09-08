@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-07T21:37:23Z",
+ "generated_at": "2026-09-08T04:54:13Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
+    {
+     "title": "大規模な量子コンピュータの実現に向け、光接続で拡張を期待できるダイヤモンドスピン方式量子コンピュータのプロトタイプを開発",
+     "url": "https://prtimes.jp/main/html/rd/p/000000603.000093942.html",
+     "date": "2026-09-08"
+    },
     {
      "title": "米GA-ASIと富士通、日本における無人航空機システムの整備・運用の体制構築を検討するMOUを締結",
      "url": "https://prtimes.jp/main/html/rd/p/000000602.000093942.html",
@@ -27,11 +32,6 @@
      "title": "米Exostarの機能を活用し、日本国内のデータ管理・運用による高セキュアなサプライチェーンの情報連携サービスを提供開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000597.000093942.html",
      "date": "2026-08-20"
-    },
-    {
-     "title": "JA共済連様の情報系システムの安定運用と高度な活用促進に向け「Fujitsu クラウドサービス powered by Oracle Alloy」と「Oracle Analytics Cloud」を導入",
-     "url": "https://prtimes.jp/main/html/rd/p/000000596.000093942.html",
-     "date": "2026-08-18"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -189,8 +189,8 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-07T12:49:20Z",
-   "ok": false,
+   "fetched_at": "2026-09-08T04:54:13Z",
+   "ok": true,
    "items": [
     {
      "title": "TISI、ハックルベリーと、コマース領域におけるデータ連携基盤強化に向けた業務提携契約を締結",
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-07T21:37:23Z",
+   "fetched_at": "2026-09-08T04:54:13Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-08-19"
+     "date": "2026-09-08"
     }
    ]
   }
