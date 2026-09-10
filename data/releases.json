@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-09T21:01:56Z",
+ "generated_at": "2026-09-10T04:57:19Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通と中性原子型量子コンピュータを手掛けるYaqumo、量子コンピュータの実利用の加速に向け、実機による量子計算アーキテクチャや基本ソフトウェアの検証を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000605.000093942.html",
+     "date": "2026-09-10"
+    },
     {
      "title": "大規模な量子コンピュータの実現に向け、光接続で拡張を期待できるダイヤモンドスピン方式量子コンピュータのプロトタイプを開発",
      "url": "https://prtimes.jp/main/html/rd/p/000000603.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、東急建設および北野建設と、建設現場における工事進捗やタスクの抜け漏れリスクを低減する建設工程管理支援AIの実証実験を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000598.000093942.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "米Exostarの機能を活用し、日本国内のデータ管理・運用による高セキュアなサプライチェーンの情報連携サービスを提供開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000597.000093942.html",
-     "date": "2026-08-20"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、熟練ノウハウを形式知化し、設計業務の効率化と品質向上を支援する「設計ナレッジシステム」をHMAX Industryとして提供開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0910/",
+     "date": "2026-09-10"
+    },
     {
      "title": "自動飛行・遠隔運用に強みを持つNokia ECE製ドローンの国内初の販売権を取得",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0907/",
@@ -94,11 +99,6 @@
     {
      "title": "日立、フィジカルAIの社会実装を加速させる「HMAX」を拡充",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903b/",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "データセンターインフラの統合運用を実現するソリューション「HMAX Data Center」を提供開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903c/",
      "date": "2026-09-03"
     }
    ]
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 ～日本発の技術力・完遂力を核に、AIの社会実装を加速～",
+     "url": "https://www.scsk.jp/news/2026/press/product/20260910.html",
+     "date": "2026-09-10"
+    },
     {
      "title": "SCSK、Snowflakeのプレミアパートナーに昇格 ～社員3名がSnowflake Partner Championに選出、データ・AI活用支援体制を強化～",
      "url": "https://www.scsk.jp/news/2026/info/20260904i.html",
@@ -177,11 +182,6 @@
      "title": "SCSK所属パラアスリート 前川 楓が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
      "url": "https://www.scsk.jp/news/2026/info/20260902i.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "あらゆる場所からの安全なアクセスを支える「Cisco Secure Access導入・運用支援サービス」提供開始 ～ハイブリッドワークの複雑なセキュリティを解消し、真のゼロトラスト接続を実現～（SCSKセキュリティ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260901g.html",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-09T21:01:56Z",
+   "fetched_at": "2026-09-10T04:57:19Z",
    "ok": true,
    "items": [
     {
