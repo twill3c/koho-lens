@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-10T11:33:40Z",
+ "generated_at": "2026-09-10T16:33:24Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "Palantirと富士通、企業のAI活用拡大に向けて戦略的パートナーシップを深化し、富士通はPalantirのGlobal FDE Partnerとして体制を強化",
+     "url": "https://prtimes.jp/main/html/rd/p/000000606.000093942.html",
+     "date": "2026-09-10"
+    },
     {
      "title": "富士通と中性原子型量子コンピュータを手掛けるYaqumo、量子コンピュータの実利用の加速に向け、実機による量子計算アーキテクチャや基本ソフトウェアの検証を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000605.000093942.html",
@@ -27,11 +32,6 @@
      "title": "AI時代の企業のサイバー防衛ライフサイクルを実現するサイバーセキュリティ戦略を策定",
      "url": "https://prtimes.jp/main/html/rd/p/000000601.000093942.html",
      "date": "2026-08-26"
-    },
-    {
-     "title": "富士通、東急建設および北野建設と、建設現場における工事進捗やタスクの抜け漏れリスクを低減する建設工程管理支援AIの実証実験を開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000598.000093942.html",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-10T11:33:40Z",
+   "fetched_at": "2026-09-10T16:33:24Z",
    "ok": true,
    "items": [
     {
