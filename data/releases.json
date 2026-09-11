@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-11T04:54:28Z",
+ "generated_at": "2026-09-11T11:35:10Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
+    {
+     "title": "組織の一部改正と社員の異動について",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260911_1.html",
+     "date": "2026-09-11"
+    },
     {
      "title": "NRIセキュア、AIをはじめとするエマージングテクノロジーの利活用を支えるセキュリティガバナンス構築支援サービスを提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20260827_1.html",
@@ -143,11 +148,6 @@
      "title": "野村総合研究所、AIによる事業変革支援サービス「NRI AFT(AI Field Transformer)」を提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20260803_1.html",
      "date": "2026-08-03"
-    },
-    {
-     "title": "NRIプロセスイノベーション、投資運用関係業務受託業を登録",
-     "url": "https://www.nri.com/jp/news/info/20260731_1.html",
-     "date": "2026-07-31"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-11T04:54:28Z",
+   "fetched_at": "2026-09-11T11:35:10Z",
    "ok": true,
    "items": [
     {
