@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-10T21:00:11Z",
+ "generated_at": "2026-09-11T04:54:28Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKとキンドリルジャパン、国産メインフレームからIBM Zへの自動変換ソリューション「Caravel(TM) zShift」を提供開始",
+     "url": "https://www.scsk.jp/news/2026/info/20260911i.html",
+     "date": "2026-09-11"
+    },
     {
      "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 ～日本発の技術力・完遂力を核に、AIの社会実装を加速～",
      "url": "https://www.scsk.jp/news/2026/press/product/20260910.html",
@@ -177,11 +182,6 @@
      "title": "SCSK所属パラアスリート網本 麻里が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
      "url": "https://www.scsk.jp/news/2026/info/20260902i_2.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "SCSK所属パラアスリート 前川 楓が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
-     "url": "https://www.scsk.jp/news/2026/info/20260902i.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBMとNASA、月面探査を支援するオープンソースAIモデルを公開",
+     "url": "https://jp.newsroom.ibm.com/2026-09-11-ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration",
+     "date": "2026-09-11"
+    },
     {
      "title": "クリーブランド・クリニック、理化学研究所、IBMの研究チームの研究成果が2026 ACMゴードン・ベル賞の最終候補に選出",
      "url": "https://jp.newsroom.ibm.com/2026-09-09-cleveland-clinic,-riken-and-ibm-team-advance-to-finals-for-2026-acm-gordon-bell-prize",
@@ -279,11 +284,6 @@
      "title": "「2026年データ侵害のコストに関する調査レポート」日本語版を公開：悪意あるデータ侵害の4件に1件がAIを活用、企業の平均侵害コストは600万ドル",
      "url": "https://jp.newsroom.ibm.com/2026-08-26-ibm-study-one-in-four-malicious-breaches-are-ai-enabled,-costing-companies-6-million-on-average",
      "date": "2026-08-26"
-    },
-    {
-     "title": "IBMスタディ: AI主権の重要性が高まる中 コントロール不足と依存関係が企業リスクを増大",
-     "url": "https://jp.newsroom.ibm.com/2026-08-24-ibm-study-limited-control-and-rising-dependencies-leave-enterprises-exposed-in-the-age-of-ai",
-     "date": "2026-08-24"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-10T21:00:11Z",
+   "fetched_at": "2026-09-11T04:54:28Z",
    "ok": true,
    "items": [
     {
