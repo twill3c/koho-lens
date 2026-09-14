@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-13T20:58:21Z",
+ "generated_at": "2026-09-14T05:11:14Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "世界トップレベルのAI推論性能を実現する国産次世代CPU「FUJITSU-MONAKA」とソブリンAI基盤を実現する国産サーバ「Fujitsu MONAKA Server」販売開始について",
+     "url": "https://prtimes.jp/main/html/rd/p/000000608.000093942.html",
+     "date": "2026-09-14"
+    },
     {
      "title": "Palantirと富士通、企業のAI活用拡大に向けて戦略的パートナーシップを深化し、富士通はPalantirのGlobal FDE Partnerとして体制を強化",
      "url": "https://prtimes.jp/main/html/rd/p/000000606.000093942.html",
@@ -27,11 +32,6 @@
      "title": "米GA-ASIと富士通、日本における無人航空機システムの整備・運用の体制構築を検討するMOUを締結",
      "url": "https://prtimes.jp/main/html/rd/p/000000602.000093942.html",
      "date": "2026-08-27"
-    },
-    {
-     "title": "AI時代の企業のサイバー防衛ライフサイクルを実現するサイバーセキュリティ戦略を策定",
-     "url": "https://prtimes.jp/main/html/rd/p/000000601.000093942.html",
-     "date": "2026-08-26"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "社会インフラにおけるフィジカルAIの安全運用に向けたガードレール技術を開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0914/",
+     "date": "2026-09-14"
+    },
     {
      "title": "日立、熟練ノウハウを形式知化し、設計業務の効率化と品質向上を支援する「設計ナレッジシステム」をHMAX Industryとして提供開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0910/",
@@ -94,11 +99,6 @@
     {
      "title": "Hitachi Social Innovation Forum 2026 JAPAN 基調講演「フィジカルAIで進化する社会インフラ～日立の『デジタルインフラ』最前線～」",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903a/",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "日立、フィジカルAIの社会実装を加速させる「HMAX」を拡充",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903b/",
      "date": "2026-09-03"
     }
    ]
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-13T20:58:21Z",
+   "fetched_at": "2026-09-14T05:11:14Z",
    "ok": true,
    "items": [
     {
