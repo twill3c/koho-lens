@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-14T05:11:14Z",
+ "generated_at": "2026-09-14T13:05:22Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
+    {
+     "title": "ソニー銀行と富士通、勘定系システムの実開発に生成AIを本格適用",
+     "url": "https://prtimes.jp/main/html/rd/p/000000609.000093942.html",
+     "date": "2026-09-14"
+    },
     {
      "title": "世界トップレベルのAI推論性能を実現する国産次世代CPU「FUJITSU-MONAKA」とソブリンAI基盤を実現する国産サーバ「Fujitsu MONAKA Server」販売開始について",
      "url": "https://prtimes.jp/main/html/rd/p/000000608.000093942.html",
@@ -27,11 +32,6 @@
      "title": "大規模な量子コンピュータの実現に向け、光接続で拡張を期待できるダイヤモンドスピン方式量子コンピュータのプロトタイプを開発",
      "url": "https://prtimes.jp/main/html/rd/p/000000603.000093942.html",
      "date": "2026-09-08"
-    },
-    {
-     "title": "米GA-ASIと富士通、日本における無人航空機システムの整備・運用の体制構築を検討するMOUを締結",
-     "url": "https://prtimes.jp/main/html/rd/p/000000602.000093942.html",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
+    {
+     "title": "かんぽ生命と日本IBM、AI駆動開発による新たなシステム開発の取り組みを開始",
+     "url": "https://jp.newsroom.ibm.com/2026-09-14-Japan-Post-Insurance-and-IBM-Japan-Launch-NewSystem-Development-Initiative",
+     "date": "2026-09-14"
+    },
     {
      "title": "IBMとNASA、月面探査を支援するオープンソースAIモデルを公開",
      "url": "https://jp.newsroom.ibm.com/2026-09-11-ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration",
@@ -279,11 +284,6 @@
      "title": "IBM、IBM ZおよびLinuxONE向け次世代デュアル・アーキテクチャー・プロセッサーを発表",
      "url": "https://jp.newsroom.ibm.com/2026-08-27-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
      "date": "2026-08-27"
-    },
-    {
-     "title": "「2026年データ侵害のコストに関する調査レポート」日本語版を公開：悪意あるデータ侵害の4件に1件がAIを活用、企業の平均侵害コストは600万ドル",
-     "url": "https://jp.newsroom.ibm.com/2026-08-26-ibm-study-one-in-four-malicious-breaches-are-ai-enabled,-costing-companies-6-million-on-average",
-     "date": "2026-08-26"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-14T05:11:14Z",
+   "fetched_at": "2026-09-14T13:05:22Z",
    "ok": true,
    "items": [
     {
