@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-14T21:55:47Z",
+ "generated_at": "2026-09-15T05:04:18Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "量子アプリケーション開発を効率化するソフトウェア「Open Quantum Application Research Package」をオープンソースとして一般公開",
+     "url": "https://prtimes.jp/main/html/rd/p/000000610.000093942.html",
+     "date": "2026-09-15"
+    },
     {
      "title": "ソニー銀行と富士通、勘定系システムの実開発に生成AIを本格適用",
      "url": "https://prtimes.jp/main/html/rd/p/000000609.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通と中性原子型量子コンピュータを手掛けるYaqumo、量子コンピュータの実利用の加速に向け、実機による量子計算アーキテクチャや基本ソフトウェアの検証を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000605.000093942.html",
      "date": "2026-09-10"
-    },
-    {
-     "title": "大規模な量子コンピュータの実現に向け、光接続で拡張を期待できるダイヤモンドスピン方式量子コンピュータのプロトタイプを開発",
-     "url": "https://prtimes.jp/main/html/rd/p/000000603.000093942.html",
-     "date": "2026-09-08"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立とSPACECOOL、社会インフラの安定運用に向けて、追加のエネルギーを必要としない放射冷却技術の適用実証を開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0915/",
+     "date": "2026-09-15"
+    },
     {
      "title": "社会インフラにおけるフィジカルAIの安全運用に向けたガードレール技術を開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0914/",
@@ -94,11 +99,6 @@
     {
      "title": "日立エナジーとダイキン、持続可能な電力網を支えるガスの長期供給に向け覚書を締結",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903e/",
-     "date": "2026-09-03"
-    },
-    {
-     "title": "Hitachi Social Innovation Forum 2026 JAPAN 基調講演「フィジカルAIで進化する社会インフラ～日立の『デジタルインフラ』最前線～」",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903a/",
      "date": "2026-09-03"
     }
    ]
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "ネットワンシステムズ、“社員に寄り添うAI”をコンセプトとした、セキュアな個人向けAIエージェント「NetOne Claw」を独自開発し、全社展開を開始 ～社員・組織・業務の“文脈”をAIに提供する「オントロジー」も構築し、回答精度を向上～（ネットワンシステムズ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260914g.html",
+     "date": "2026-09-14"
+    },
     {
      "title": "SCSKとキンドリルジャパン、国産メインフレームからIBM Zへの自動変換ソリューション「Caravel(TM) zShift」を提供開始",
      "url": "https://www.scsk.jp/news/2026/info/20260911i.html",
@@ -177,11 +182,6 @@
      "title": "SCSK所属パラアスリート齊藤 悠希が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
      "url": "https://www.scsk.jp/news/2026/info/20260902i_3.html",
      "date": "2026-09-02"
-    },
-    {
-     "title": "SCSK所属パラアスリート網本 麻里が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
-     "url": "https://www.scsk.jp/news/2026/info/20260902i_2.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、フロンティアAIを悪用したサイバー攻撃に対応するセキュリティ運用基盤「AI Security Control Plane」の取り組みを開始",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260915_1.html",
+     "date": "2026-09-15"
+    },
     {
      "title": "TISI、ハックルベリーと、コマース領域におけるデータ連携基盤強化に向けた業務提携契約を締結",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260901_1.html",
@@ -211,11 +216,6 @@
      "title": "TISI、地域共創とデータ活用により埼玉県横瀬町の住民参加型森林再生プロジェクトを支援",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260819_1.html",
      "date": "2026-08-27"
-    },
-    {
-     "title": "TISI、経営判断を5営業日から15分に短縮するAIソリューションで「SAP® BTP Hackathon 2026」最優秀賞を受賞",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260807_1.html",
-     "date": "2026-08-14"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-14T21:55:47Z",
+   "fetched_at": "2026-09-15T05:04:18Z",
    "ok": true,
    "items": [
     {
