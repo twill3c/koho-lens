@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-16T05:00:14Z",
+ "generated_at": "2026-09-16T11:51:01Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -24,13 +24,13 @@
      "date": "2026-09-14"
     },
     {
-     "title": "世界トップレベルのAI推論性能を実現する国産次世代CPU「FUJITSU-MONAKA」とソブリンAI基盤を実現する国産サーバ「Fujitsu MONAKA Server」販売開始について",
-     "url": "https://prtimes.jp/main/html/rd/p/000000608.000093942.html",
-     "date": "2026-09-14"
-    },
-    {
      "title": "Palantirと富士通、企業のAI活用拡大に向けて戦略的パートナーシップを深化し、富士通はPalantirのGlobal FDE Partnerとして体制を強化",
      "url": "https://prtimes.jp/main/html/rd/p/000000606.000093942.html",
+     "date": "2026-09-10"
+    },
+    {
+     "title": "富士通と中性原子型量子コンピュータを手掛けるYaqumo、量子コンピュータの実利用の加速に向け、実機による量子計算アーキテクチャや基本ソフトウェアの検証を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000605.000093942.html",
      "date": "2026-09-10"
     }
    ]
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
+    {
+     "title": "ミライロと日立、鉄道の介助申請一元化で基本合意書を締結",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916/",
+     "date": "2026-09-16"
+    },
     {
      "title": "日立ハイテク、インド・ムンバイにバイオ医薬品などの化学・産業分野向け分析装置のデモラボを開設 [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916b/",
@@ -95,11 +100,6 @@
      "title": "社会インフラにおけるフィジカルAIの安全運用に向けたガードレール技術を開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0914/",
      "date": "2026-09-14"
-    },
-    {
-     "title": "日立、熟練ノウハウを形式知化し、設計業務の効率化と品質向上を支援する「設計ナレッジシステム」をHMAX Industryとして提供開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0910/",
-     "date": "2026-09-10"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-16T05:00:14Z",
+   "fetched_at": "2026-09-16T11:51:01Z",
    "ok": true,
    "items": [
     {
