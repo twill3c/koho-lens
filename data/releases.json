@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-15T21:32:33Z",
+ "generated_at": "2026-09-16T05:00:14Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、AI Transformationに向けて事業モデル「Uvance」を進化",
+     "url": "https://prtimes.jp/main/html/rd/p/000000611.000093942.html",
+     "date": "2026-09-16"
+    },
     {
      "title": "量子アプリケーション開発を効率化するソフトウェア「Open Quantum Application Research Package」をオープンソースとして一般公開",
      "url": "https://prtimes.jp/main/html/rd/p/000000610.000093942.html",
@@ -27,11 +32,6 @@
      "title": "Palantirと富士通、企業のAI活用拡大に向けて戦略的パートナーシップを深化し、富士通はPalantirのGlobal FDE Partnerとして体制を強化",
      "url": "https://prtimes.jp/main/html/rd/p/000000606.000093942.html",
      "date": "2026-09-10"
-    },
-    {
-     "title": "富士通と中性原子型量子コンピュータを手掛けるYaqumo、量子コンピュータの実利用の加速に向け、実機による量子計算アーキテクチャや基本ソフトウェアの検証を開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000605.000093942.html",
-     "date": "2026-09-10"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立ハイテク、インド・ムンバイにバイオ医薬品などの化学・産業分野向け分析装置のデモラボを開設 [株式会社日立ハイテク]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916b/",
+     "date": "2026-09-16"
+    },
+    {
+     "title": "日立エナジー、米国での変圧器生産強化に向けて5億2,800万米ドルを投じ、ミシシッピ州に新工場を建設",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916a/",
+     "date": "2026-09-16"
+    },
     {
      "title": "日立とSPACECOOL、社会インフラの安定運用に向けて、追加のエネルギーを必要としない放射冷却技術の適用実証を開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0915/",
@@ -90,16 +100,6 @@
      "title": "日立、熟練ノウハウを形式知化し、設計業務の効率化と品質向上を支援する「設計ナレッジシステム」をHMAX Industryとして提供開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0910/",
      "date": "2026-09-10"
-    },
-    {
-     "title": "自動飛行・遠隔運用に強みを持つNokia ECE製ドローンの国内初の販売権を取得",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0907/",
-     "date": "2026-09-07"
-    },
-    {
-     "title": "日立エナジーとダイキン、持続可能な電力網を支えるガスの長期供給に向け覚書を締結",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0903e/",
-     "date": "2026-09-03"
     }
    ]
   },
@@ -107,13 +107,13 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-01T05:22:30Z",
-   "ok": false,
+   "fetched_at": "2026-09-16T05:00:14Z",
+   "ok": true,
    "items": [
     {
-     "title": "2026年度 第1四半期決算について",
-     "url": "https://www.nttdata.com/global/ja/news/release/2026/080600",
-     "date": "2026-08-06"
+     "title": "社内ベンチャー制度発のCoCo Storyと資本提携",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/091600",
+     "date": "2026-09-16"
     }
    ]
   },
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村総合研究所、三菱重工業とAIを始めとしたデジタル技術を活用した業務プロセス改革への共同検討と実践活動を開始",
+     "url": "https://www.nri.com/jp/news/info/20260916_1.html",
+     "date": "2026-09-16"
+    },
     {
      "title": "組織の一部改正と社員の異動について",
      "url": "https://www.nri.com/jp/news/newsrelease/20260911_1.html",
@@ -143,11 +148,6 @@
      "title": "NRIセキュア、自社のSOC運用知見を組み込んだAIで、セキュリティ監視サービスを強化",
      "url": "https://www.nri.com/jp/news/info/20260806_1.html",
      "date": "2026-08-06"
-    },
-    {
-     "title": "野村総合研究所、AIによる事業変革支援サービス「NRI AFT(AI Field Transformer)」を提供開始",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260803_1.html",
-     "date": "2026-08-03"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
     {
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、コーセーの企業間データ連携基盤刷新を支援",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260916_1.html",
+     "date": "2026-09-16"
+    },
     {
      "title": "TISI、フロンティアAIを悪用したサイバー攻撃に対応するセキュリティ運用基盤「AI Security Control Plane」の取り組みを開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260915_1.html",
@@ -211,11 +216,6 @@
      "title": "TISI、「エネLink」シリーズにおけるアワリーマッチング対応機能実装をUPDATERと開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260828_1.html",
      "date": "2026-08-31"
-    },
-    {
-     "title": "TISI、地域共創とデータ活用により埼玉県横瀬町の住民参加型森林再生プロジェクトを支援",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260819_1.html",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "琉球銀行と日本IBM、金融業務変革と沖縄経済の持続的成長に向けたAIパートナーシップを締結",
+     "url": "https://jp.newsroom.ibm.com/2026-09-16-AI-Partnership-with-Ryukyu-Bank",
+     "date": "2026-09-16"
+    },
     {
      "title": "かんぽ生命と日本IBM、AI駆動開発による新たなシステム開発の取り組みを開始",
      "url": "https://jp.newsroom.ibm.com/2026-09-14-Japan-Post-Insurance-and-IBM-Japan-Launch-NewSystem-Development-Initiative",
@@ -279,11 +284,6 @@
      "title": "IBM、2026年全米オープンにおいてAIを活用した新たなファン体験を提供",
      "url": "https://jp.newsroom.ibm.com/2026-09-04-ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open",
      "date": "2026-09-04"
-    },
-    {
-     "title": "IBM、IBM ZおよびLinuxONE向け次世代デュアル・アーキテクチャー・プロセッサーを発表",
-     "url": "https://jp.newsroom.ibm.com/2026-08-27-ibm-unveils-next-generation-dual-architecture-processor-for-ibm-z-and-linuxone",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-15T21:32:33Z",
+   "fetched_at": "2026-09-16T05:00:14Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-09-08"
+     "date": "2026-09-16"
     }
    ]
   }
