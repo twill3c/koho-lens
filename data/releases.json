@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-16T21:28:40Z",
+ "generated_at": "2026-09-17T05:02:18Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、「再生材マーケットプレイス」を10月1日から運用開始し、三菱UFJ銀行との金融連携による再生材の活用促進を支援",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917b/",
+     "date": "2026-09-17"
+    },
+    {
+     "title": "日立と米・ミッションクリティカルグループ、データセンター向けソリューションの共同開発とグローバル展開加速に向けた戦略的パートナーシップを締結",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917/",
+     "date": "2026-09-17"
+    },
     {
      "title": "ミライロと日立、鉄道の介助申請一元化で基本合意書を締結",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916/",
@@ -90,16 +100,6 @@
      "title": "日立エナジー、米国での変圧器生産強化に向けて5億2,800万米ドルを投じ、ミシシッピ州に新工場を建設",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916a/",
      "date": "2026-09-16"
-    },
-    {
-     "title": "日立とSPACECOOL、社会インフラの安定運用に向けて、追加のエネルギーを必要としない放射冷却技術の適用実証を開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0915/",
-     "date": "2026-09-15"
-    },
-    {
-     "title": "社会インフラにおけるフィジカルAIの安全運用に向けたガードレール技術を開発",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0914/",
-     "date": "2026-09-14"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "NRIセキュア、「フロンティアAI対応プロアクティブ脆弱性診断」のデータ取り扱い体制を強化",
+     "url": "https://www.nri.com/jp/news/info/20260917_1.html",
+     "date": "2026-09-17"
+    },
     {
      "title": "野村総合研究所、三菱重工業とAIを始めとしたデジタル技術を活用した業務プロセス改革への共同検討と実践活動を開始",
      "url": "https://www.nri.com/jp/news/info/20260916_1.html",
@@ -143,11 +148,6 @@
      "title": "令和8年熊本地震被災地への義援金寄付について",
      "url": "https://www.nri.com/jp/news/info/20260825_1.html",
      "date": "2026-08-25"
-    },
-    {
-     "title": "NRIセキュア、自社のSOC運用知見を組み込んだAIで、セキュリティ監視サービスを強化",
-     "url": "https://www.nri.com/jp/news/info/20260806_1.html",
-     "date": "2026-08-06"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
@@ -189,9 +189,19 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、あいち銀行へ法人向けDXプラットフォーム「DX Connect Gate」を導入",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260917_2.html",
+     "date": "2026-09-17"
+    },
+    {
+     "title": "TISI、生成AIを活用した複数自治体による広域データ連携基盤の共同利用に関する実証を実施",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260917_1.html",
+     "date": "2026-09-17"
+    },
     {
      "title": "TISI、コーセーの企業間データ連携基盤刷新を支援",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260916_1.html",
@@ -206,16 +216,6 @@
      "title": "TISI、ハックルベリーと、コマース領域におけるデータ連携基盤強化に向けた業務提携契約を締結",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260901_1.html",
      "date": "2026-09-01"
-    },
-    {
-     "title": "TISI、ADKマーケティング・ソリューションズと、AI活用によるファン形成・事業成長モデルの実現に向け業務提携契約を締結",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260831_1.html",
-     "date": "2026-08-31"
-    },
-    {
-     "title": "TISI、「エネLink」シリーズにおけるアワリーマッチング対応機能実装をUPDATERと開始",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260828_1.html",
-     "date": "2026-08-31"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "横浜FG向け「BM4Iサービスプラットフォーム」導入プロジェクトを開始 ～改正金融商品会計基準への対応に向け、予想信用損失の算定を支援～",
+     "url": "https://digitalpr.jp/r/143836",
+     "date": "2026-09-17"
+    },
     {
      "title": "CX・コンタクトセンター高度化支援サービス「NSRelato」の提供を開始 〜お客様の声を資産に変え、事業成果につなげるコンタクトセンター変革を支援〜",
      "url": "https://digitalpr.jp/r/141667",
@@ -313,11 +318,6 @@
      "title": "バイブコーディングプラットフォーム「Alli Coworker」の販売を開始 ～AIによる業務アプリ構築から活用・定着までを支援～",
      "url": "https://digitalpr.jp/r/140942",
      "date": "2026-08-06"
-    },
-    {
-     "title": "車載ソフトウェア開発を手掛けるiAuto社と資本業務提携を開始 ～AI-Cockpitなど、AIを活用した新たなユーザー体験の創出へ～",
-     "url": "https://digitalpr.jp/r/140826",
-     "date": "2026-08-05"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-16T21:28:40Z",
+   "fetched_at": "2026-09-17T05:02:18Z",
    "ok": true,
    "items": [
     {
