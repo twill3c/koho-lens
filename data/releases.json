@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-17T05:02:18Z",
+ "generated_at": "2026-09-17T11:54:14Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "人事異動について",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917a/",
+     "date": "2026-09-17"
+    },
     {
      "title": "日立、「再生材マーケットプレイス」を10月1日から運用開始し、三菱UFJ銀行との金融連携による再生材の活用促進を支援",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917b/",
@@ -95,11 +100,6 @@
      "title": "日立ハイテク、インド・ムンバイにバイオ医薬品などの化学・産業分野向け分析装置のデモラボを開設 [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916b/",
      "date": "2026-09-16"
-    },
-    {
-     "title": "日立エナジー、米国での変圧器生産強化に向けて5億2,800万米ドルを投じ、ミシシッピ州に新工場を建設",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916a/",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSK、フロンティアAI時代のサイバー脅威に対応する顧客伴走型の統合セキュリティサービスを提供",
+     "url": "https://www.scsk.jp/news/2026/press/product/20260917.html",
+     "date": "2026-09-17"
+    },
     {
      "title": "ネットワンシステムズ、“社員に寄り添うAI”をコンセプトとした、セキュアな個人向けAIエージェント「NetOne Claw」を独自開発し、全社展開を開始 ～社員・組織・業務の“文脈”をAIに提供する「オントロジー」も構築し、回答精度を向上～（ネットワンシステムズ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20260914g.html",
@@ -177,11 +182,6 @@
      "title": "SCSK、Snowflakeのプレミアパートナーに昇格 ～社員3名がSnowflake Partner Championに選出、データ・AI活用支援体制を強化～",
      "url": "https://www.scsk.jp/news/2026/info/20260904i.html",
      "date": "2026-09-04"
-    },
-    {
-     "title": "SCSK所属パラアスリート齊藤 悠希が、アジアパラ競技大会（2026/愛知・名古屋）に出場が決定しました",
-     "url": "https://www.scsk.jp/news/2026/info/20260902i_3.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-17T05:02:18Z",
+   "fetched_at": "2026-09-17T11:54:14Z",
    "ok": true,
    "items": [
     {
