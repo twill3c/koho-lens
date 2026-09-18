@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-18T04:55:20Z",
+ "generated_at": "2026-09-18T11:31:09Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
+    {
+     "title": "社用車のEV導入の意思決定を支援するサービスを開発",
+     "url": "https://prtimes.jp/main/html/rd/p/000000612.000093942.html",
+     "date": "2026-09-18"
+    },
     {
      "title": "富士通、AI Transformationに向けて事業モデル「Uvance」を進化",
      "url": "https://prtimes.jp/main/html/rd/p/000000611.000093942.html",
@@ -27,11 +32,6 @@
      "title": "Palantirと富士通、企業のAI活用拡大に向けて戦略的パートナーシップを深化し、富士通はPalantirのGlobal FDE Partnerとして体制を強化",
      "url": "https://prtimes.jp/main/html/rd/p/000000606.000093942.html",
      "date": "2026-09-10"
-    },
-    {
-     "title": "富士通と中性原子型量子コンピュータを手掛けるYaqumo、量子コンピュータの実利用の加速に向け、実機による量子計算アーキテクチャや基本ソフトウェアの検証を開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000605.000093942.html",
-     "date": "2026-09-10"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
+    {
+     "title": "JSR、IBMとの共同研究成果がNature Computational Scienceに採択",
+     "url": "https://jp.newsroom.ibm.com/2026-09-18-jsr-and-ibms-joint-research-results-accepted-for-publication-in-nature-computational-science",
+     "date": "2026-09-17"
+    },
     {
      "title": "琉球銀行と日本IBM、金融業務変革と沖縄経済の持続的成長に向けたAIパートナーシップを締結",
      "url": "https://jp.newsroom.ibm.com/2026-09-16-AI-Partnership-with-Ryukyu-Bank",
@@ -279,11 +284,6 @@
      "title": "クリーブランド・クリニック、理化学研究所、IBMの研究チームの研究成果が2026 ACMゴードン・ベル賞の最終候補に選出",
      "url": "https://jp.newsroom.ibm.com/2026-09-09-cleveland-clinic,-riken-and-ibm-team-advance-to-finals-for-2026-acm-gordon-bell-prize",
      "date": "2026-09-09"
-    },
-    {
-     "title": "IBM、2026年全米オープンにおいてAIを活用した新たなファン体験を提供",
-     "url": "https://jp.newsroom.ibm.com/2026-09-04-ibm-and-the-usta-introduce-new-ai-powered-fan-experiences-for-2026-us-open",
-     "date": "2026-09-04"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-18T04:55:20Z",
+   "fetched_at": "2026-09-18T11:31:09Z",
    "ok": true,
    "items": [
     {
