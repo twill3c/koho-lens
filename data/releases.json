@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-17T21:32:07Z",
+ "generated_at": "2026-09-18T04:55:20Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -155,33 +155,33 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
-     "title": "SCSK、フロンティアAI時代のサイバー脅威に対応する顧客伴走型の統合セキュリティサービスを提供",
-     "url": "https://www.scsk.jp/news/2026/press/product/20260917.html",
-     "date": "2026-09-17"
+     "title": "SCSK、不動産領域に特化したAIエージェントセットを提供開始 ～業界知見を組み込んだAIエージェントにより、属人化解消と業務変革を実現～",
+     "url": "https://www.scsk.jp/news/2026/press/product/20260918.html",
+     "date": "2026-09-18"
     },
     {
-     "title": "ネットワンシステムズ、“社員に寄り添うAI”をコンセプトとした、セキュアな個人向けAIエージェント「NetOne Claw」を独自開発し、全社展開を開始 ～社員・組織・業務の“文脈”をAIに提供する「オントロジー」も構築し、回答精度を向上～（ネットワンシステムズ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260914g.html",
-     "date": "2026-09-14"
+     "title": "メーカー・専門商社向け「販売パートナー支援プラットフォーム」の提供を開始 ～営業プロセスのデジタル化とAI活用で販売チャネル強化を支援し、事業成長に貢献～",
+     "url": "https://www.scsk.jp/news/2026/info/20260918i.html",
+     "date": "2026-09-18"
     },
     {
-     "title": "SCSKとキンドリルジャパン、国産メインフレームからIBM Zへの自動変換ソリューション「Caravel(TM) zShift」を提供開始",
-     "url": "https://www.scsk.jp/news/2026/info/20260911i.html",
-     "date": "2026-09-11"
+     "title": "SCSK、Snowflakeの「Rising Star Partner of the Year」を初受賞",
+     "url": "https://www.scsk.jp/news/2026/info/20260918i_2.html",
+     "date": "2026-09-18"
     },
     {
-     "title": "Sakana AI、SCSK、住友商事の3社、AI活用による日本の産業変革と社会課題解決に向け包括業務提携 ～日本発の技術力・完遂力を核に、AIの社会実装を加速～",
-     "url": "https://www.scsk.jp/news/2026/press/product/20260910.html",
-     "date": "2026-09-10"
+     "title": "機構改革および人事異動に関するお知らせ（SCSKサービスウェア株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260918g.html",
+     "date": "2026-09-18"
     },
     {
-     "title": "SCSK、Snowflakeのプレミアパートナーに昇格 ～社員3名がSnowflake Partner Championに選出、データ・AI活用支援体制を強化～",
-     "url": "https://www.scsk.jp/news/2026/info/20260904i.html",
-     "date": "2026-09-04"
+     "title": "ネットワンシステムズとSCSK、初の共同ファミリーデーを開催 ～過去最多244組752名が参加～",
+     "url": "https://www.scsk.jp/news/2026/info/20260918i_3.html",
+     "date": "2026-09-18"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-17T21:32:07Z",
+   "fetched_at": "2026-09-18T04:55:20Z",
    "ok": true,
    "items": [
     {
