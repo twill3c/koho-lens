@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-24T05:05:40Z",
+ "generated_at": "2026-09-24T12:00:41Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "Meta、NEC、住友電工、世界初の商用ペタビット級光海底ケーブルシステム「Petal」の構築に向けて協業",
+     "url": "https://jpn.nec.com/press/202609/20260922_01.html",
+     "date": "2026-09-22"
+    },
     {
      "title": "UNDPとNEC、ネイチャーポジティブな社会の実現に向けたAIをはじめとするデジタル技術の活用に関する協力覚書を締結",
      "url": "https://jpn.nec.com/press/202609/20260907_01.html",
@@ -61,11 +66,6 @@
      "title": "Transgene社とNEC、個別化ネオアンチゲンがんワクチンTG4050の第I相臨床試験において16人全員が3年間の無病生存状態を維持したことを確認",
      "url": "https://jpn.nec.com/press/202609/20260903_02.html",
      "date": "2026-09-03"
-    },
-    {
-     "title": "NECと三菱重工、防衛力の一層の強化と変革に向けた戦略的提携へ",
-     "url": "https://jpn.nec.com/press/202609/20260902_04.html",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -73,12 +73,17 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
      "title": "内閣府「戦略的イノベーション創造プログラム(SIP)第3期課題」の「サーキュラーエコノミーシステムの構築」において、AI技術の研究開発を推進",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0924/",
+     "date": "2026-09-24"
+    },
+    {
+     "title": "日立レール、「Enhanced by HMAX」を発表 2027年以降に受注するすべての車両へHMAX技術を標準搭載",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0924a/",
      "date": "2026-09-24"
     },
     {
@@ -95,11 +100,6 @@
      "title": "日立、「再生材マーケットプレイス」を10月1日から運用開始し、三菱UFJ銀行との金融連携による再生材の活用促進を支援",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917b/",
      "date": "2026-09-17"
-    },
-    {
-     "title": "日立と米・ミッションクリティカルグループ、データセンター向けソリューションの共同開発とグローバル展開加速に向けた戦略的パートナーシップを締結",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917/",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
+    {
+     "title": "ネットワンシステムズ、\"独自の技術知見の自動反映\"を可能にする、セキュアなスライド自動生成AIアプリケーション「SlideAgent」を独自開発し、全社展開 ～技術検証・QAデータや標準オファリングメニュー等をAIに組み込み、スライドに自動反映～（ネットワンシステムズ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260924g.html",
+     "date": "2026-09-24"
+    },
     {
      "title": "SCSK、不動産領域に特化したAIエージェントセットを提供開始 ～業界知見を組み込んだAIエージェントにより、属人化解消と業務変革を実現～",
      "url": "https://www.scsk.jp/news/2026/press/product/20260918.html",
@@ -177,11 +182,6 @@
      "title": "機構改革および人事異動に関するお知らせ（SCSKサービスウェア株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20260918g.html",
      "date": "2026-09-18"
-    },
-    {
-     "title": "ネットワンシステムズとSCSK、初の共同ファミリーデーを開催 ～過去最多244組752名が参加～",
-     "url": "https://www.scsk.jp/news/2026/info/20260918i_3.html",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-24T05:05:40Z",
+   "fetched_at": "2026-09-24T12:00:41Z",
    "ok": true,
    "items": [
     {
