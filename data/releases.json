@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-23T21:36:45Z",
+ "generated_at": "2026-09-24T05:05:40Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
+    {
+     "title": "内閣府「戦略的イノベーション創造プログラム(SIP)第3期課題」の「サーキュラーエコノミーシステムの構築」において、AI技術の研究開発を推進",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0924/",
+     "date": "2026-09-24"
+    },
+    {
+     "title": "シントス・グリーン・エナジー、GEベルノバ、日立、サムスンC＆Tが、欧州におけるSMR「BWRX-300」導入拡大に向けた覚書を締結",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0923/",
+     "date": "2026-09-23"
+    },
     {
      "title": "人事異動について",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917a/",
@@ -90,16 +100,6 @@
      "title": "日立と米・ミッションクリティカルグループ、データセンター向けソリューションの共同開発とグローバル展開加速に向けた戦略的パートナーシップを締結",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0917/",
      "date": "2026-09-17"
-    },
-    {
-     "title": "ミライロと日立、鉄道の介助申請一元化で基本合意書を締結",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916/",
-     "date": "2026-09-16"
-    },
-    {
-     "title": "日立ハイテク、インド・ムンバイにバイオ医薬品などの化学・産業分野向け分析装置のデモラボを開設 [株式会社日立ハイテク]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0916b/",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、光世証券に国際標準規格FIDOに準拠した「FIDO・パスキー認証基盤：Capy生体認証ソリューション」を導入",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260924_1.html",
+     "date": "2026-09-24"
+    },
     {
      "title": "TISI、あいち銀行へ法人向けDXプラットフォーム「DX Connect Gate」を導入",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260917_2.html",
@@ -211,11 +216,6 @@
      "title": "TISI、フロンティアAIを悪用したサイバー攻撃に対応するセキュリティ運用基盤「AI Security Control Plane」の取り組みを開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260915_1.html",
      "date": "2026-09-15"
-    },
-    {
-     "title": "TISI、ハックルベリーと、コマース領域におけるデータ連携基盤強化に向けた業務提携契約を締結",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260901_1.html",
-     "date": "2026-09-01"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBMグループ企業のAnderonが、米国拠点の量子専用ファウンドリーの研究開発の加速に向け、米国商務省とCHIPS法に基づく10億ドル資金提供の合意を最終締結",
+     "url": "https://jp.newsroom.ibm.com/2026-09-24-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry",
+     "date": "2026-09-19"
+    },
     {
      "title": "JSR、IBMとの共同研究成果がNature Computational Scienceに採択",
      "url": "https://jp.newsroom.ibm.com/2026-09-18-jsr-and-ibms-joint-research-results-accepted-for-publication-in-nature-computational-science",
@@ -279,11 +284,6 @@
      "title": "IBMとNASA、月面探査を支援するオープンソースAIモデルを公開",
      "url": "https://jp.newsroom.ibm.com/2026-09-11-ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration",
      "date": "2026-09-11"
-    },
-    {
-     "title": "クリーブランド・クリニック、理化学研究所、IBMの研究チームの研究成果が2026 ACMゴードン・ベル賞の最終候補に選出",
-     "url": "https://jp.newsroom.ibm.com/2026-09-09-cleveland-clinic,-riken-and-ibm-team-advance-to-finals-for-2026-acm-gordon-bell-prize",
-     "date": "2026-09-09"
     }
    ]
   },
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
+    {
+     "title": "顧客ID管理プラットフォーム「Auth0」を活用したID基盤ソリューションの提供を開始 ～外部ユーザー向けサービスの認証基盤を統合し、ログイン時の利便性向上とセキュリティ強化を実現～",
+     "url": "https://digitalpr.jp/r/144158",
+     "date": "2026-09-24"
+    },
     {
      "title": "横浜FG向け「BM4Iサービスプラットフォーム」導入プロジェクトを開始 ～改正金融商品会計基準への対応に向け、予想信用損失の算定を支援～",
      "url": "https://digitalpr.jp/r/143836",
@@ -313,11 +318,6 @@
      "title": "最適化モデルのライフサイクル管理プラットフォーム「wisepot」を提供開始 ～計画業務を支える最適化モデルを「個人の職人芸」から「組織の資産」へ～",
      "url": "https://digitalpr.jp/r/141594",
      "date": "2026-08-19"
-    },
-    {
-     "title": "バイブコーディングプラットフォーム「Alli Coworker」の販売を開始 ～AIによる業務アプリ構築から活用・定着までを支援～",
-     "url": "https://digitalpr.jp/r/140942",
-     "date": "2026-08-06"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-23T21:36:45Z",
+   "fetched_at": "2026-09-24T05:05:40Z",
    "ok": true,
    "items": [
     {
