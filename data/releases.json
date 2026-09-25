@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-25T05:07:54Z",
+ "generated_at": "2026-09-25T12:01:09Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立エナジーと仏・エネディス、エネルギーの未来を支える3億5,000万ユーロの包括契約を締結",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0925d/",
+     "date": "2026-09-25"
+    },
     {
      "title": "京都大学と研究・分析装置メーカー等による「先端技術開発アライアンス」を設立",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0925a/",
@@ -95,11 +100,6 @@
      "title": "日立レール、「Enhanced by HMAX」を発表 2027年以降に受注するすべての車両へHMAX技術を標準搭載",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0924a/",
      "date": "2026-09-24"
-    },
-    {
-     "title": "シントス・グリーン・エナジー、GEベルノバ、日立、サムスンC＆Tが、欧州におけるSMR「BWRX-300」導入拡大に向けた覚書を締結",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0923/",
-     "date": "2026-09-23"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-25T05:07:54Z",
+   "fetched_at": "2026-09-25T12:01:09Z",
    "ok": true,
    "items": [
     {
