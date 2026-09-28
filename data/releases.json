@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-27T21:29:01Z",
+ "generated_at": "2026-09-28T05:37:25Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
+    {
+     "title": "人事異動について [株式会社 日立パワーソリューションズ]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0928/",
+     "date": "2026-09-28"
+    },
+    {
+     "title": "日立、AIエージェントを活用した「脆弱性・パッチ探索分析レポートサービス」を提供開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0928a/",
+     "date": "2026-09-28"
+    },
     {
      "title": "日立エナジーと仏・エネディス、エネルギーの未来を支える3億5,000万ユーロの包括契約を締結",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0925d/",
@@ -90,16 +100,6 @@
      "title": "日立レール、オーストリアで欧州最大級の鉄道信号デジタル化プロジェクトに選定",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0925/",
      "date": "2026-09-25"
-    },
-    {
-     "title": "内閣府「戦略的イノベーション創造プログラム(SIP)第3期課題」の「サーキュラーエコノミーシステムの構築」において、AI技術の研究開発を推進",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0924/",
-     "date": "2026-09-24"
-    },
-    {
-     "title": "日立レール、「Enhanced by HMAX」を発表 2027年以降に受注するすべての車両へHMAX技術を標準搭載",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0924a/",
-     "date": "2026-09-24"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,24 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKサービスリンクスとの合併に関するお知らせ（SCSKサービスウェア株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20260928g.html",
+     "date": "2026-09-28"
+    },
+    {
+     "title": "製造業の調達を「全社最適」へ「調達購買オファリングサービス」を提供開始～調達業務・サプライヤー協働・企業間取引を一体化し、調達ガバナンスを高度化～",
+     "url": "https://www.scsk.jp/news/2026/press/product/20260928.html",
+     "date": "2026-09-28"
+    },
+    {
+     "title": "SCSK、フロンティアAI時代の脆弱性対策を支援する「リアルタイムパッチ配信短期導入パッケージ」を提供開始",
+     "url": "https://www.scsk.jp/news/2026/info/20260928i.html",
+     "date": "2026-09-28"
+    },
     {
      "title": "ネットワンシステムズ、\"独自の技術知見の自動反映\"を可能にする、セキュアなスライド自動生成AIアプリケーション「SlideAgent」を独自開発し、全社展開 ～技術検証・QAデータや標準オファリングメニュー等をAIに組み込み、スライドに自動反映～（ネットワンシステムズ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20260924g.html",
@@ -167,21 +182,6 @@
      "title": "SCSK、不動産領域に特化したAIエージェントセットを提供開始 ～業界知見を組み込んだAIエージェントにより、属人化解消と業務変革を実現～",
      "url": "https://www.scsk.jp/news/2026/press/product/20260918.html",
      "date": "2026-09-18"
-    },
-    {
-     "title": "メーカー・専門商社向け「販売パートナー支援プラットフォーム」の提供を開始 ～営業プロセスのデジタル化とAI活用で販売チャネル強化を支援し、事業成長に貢献～",
-     "url": "https://www.scsk.jp/news/2026/info/20260918i.html",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "SCSK、Snowflakeの「Rising Star Partner of the Year」を初受賞",
-     "url": "https://www.scsk.jp/news/2026/info/20260918i_2.html",
-     "date": "2026-09-18"
-    },
-    {
-     "title": "機構改革および人事異動に関するお知らせ（SCSKサービスウェア株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260918g.html",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -189,13 +189,18 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
+     "title": "TISI、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260928_1.html",
+     "date": "2026-09-28"
+    },
+    {
      "title": "TISI、「Xenlon～神龍 モダナイゼーションサービス」にてAIで保守業務の効率化と属人化解消を支援する新サービスを提供開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260925_1.html",
-     "date": "2026-09-25"
+     "date": "2026-09-28"
     },
     {
      "title": "TISI、光世証券に国際標準規格FIDOに準拠した「FIDO・パスキー認証基盤：Capy生体認証ソリューション」を導入",
@@ -211,11 +216,6 @@
      "title": "TISI、生成AIを活用した複数自治体による広域データ連携基盤の共同利用に関する実証を実施",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260917_1.html",
      "date": "2026-09-17"
-    },
-    {
-     "title": "TISI、コーセーの企業間データ連携基盤刷新を支援",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260916_1.html",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM、Swift連携とIBM Digital Asset Havenオンプレミス版により、デジタル決済インフラストラクチャーを拡充",
+     "url": "https://jp.newsroom.ibm.com/2026-09-28-ibm-expands-its-digital-banking-infrastructure-with-swift-integration-and-digital-asset-haven-on-prem",
+     "date": "2026-09-28"
+    },
     {
      "title": "IBMグループ企業のAnderonが、米国拠点の量子専用ファウンドリーの研究開発の加速に向け、米国商務省とCHIPS法に基づく10億ドル資金提供の合意を最終締結",
      "url": "https://jp.newsroom.ibm.com/2026-09-24-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry",
@@ -279,11 +284,6 @@
      "title": "かんぽ生命と日本IBM、AI駆動開発による新たなシステム開発の取り組みを開始",
      "url": "https://jp.newsroom.ibm.com/2026-09-14-Japan-Post-Insurance-and-IBM-Japan-Launch-NewSystem-Development-Initiative",
      "date": "2026-09-14"
-    },
-    {
-     "title": "IBMとNASA、月面探査を支援するオープンソースAIモデルを公開",
-     "url": "https://jp.newsroom.ibm.com/2026-09-11-ibm-and-nasa-release-open-source-ai-model-to-support-lunar-exploration",
-     "date": "2026-09-11"
     }
    ]
   },
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
+    {
+     "title": "NSSOL、Anthropicと戦略的パートナーシップ契約を締結 ～日本の産業競争力の強化にむけて、AnthropicのAI技術とNSSOLの業務知見・システム構築力を融合～",
+     "url": "https://digitalpr.jp/r/144423",
+     "date": "2026-09-28"
+    },
     {
      "title": "顧客ID管理プラットフォーム「Auth0」を活用したID基盤ソリューションの提供を開始 ～外部ユーザー向けサービスの認証基盤を統合し、ログイン時の利便性向上とセキュリティ強化を実現～",
      "url": "https://digitalpr.jp/r/144158",
@@ -313,11 +318,6 @@
      "title": "株式会社千葉銀行は日鉄ソリューションズ株式会社とSalesforceを活用し、新営業支援システムを構築",
      "url": "https://digitalpr.jp/r/140945",
      "date": "2026-08-19"
-    },
-    {
-     "title": "最適化モデルのライフサイクル管理プラットフォーム「wisepot」を提供開始 ～計画業務を支える最適化モデルを「個人の職人芸」から「組織の資産」へ～",
-     "url": "https://digitalpr.jp/r/141594",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-27T21:29:01Z",
+   "fetched_at": "2026-09-28T05:37:25Z",
    "ok": true,
    "items": [
     {
