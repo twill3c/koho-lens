@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-28T23:24:04Z",
+ "generated_at": "2026-09-29T05:54:49Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "トモシアホールディングスと富士通、基幹システム刷新プロジェクト「TO-One」を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000614.000093942.html",
+     "date": "2026-09-29"
+    },
     {
      "title": "企業や組織における能動的サイバー防御の実践を包括的に支援するセキュリティサービスを提供開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000613.000093942.html",
@@ -27,11 +32,6 @@
      "title": "量子アプリケーション開発を効率化するソフトウェア「Open Quantum Application Research Package」をオープンソースとして一般公開",
      "url": "https://prtimes.jp/main/html/rd/p/000000610.000093942.html",
      "date": "2026-09-15"
-    },
-    {
-     "title": "ソニー銀行と富士通、勘定系システムの実開発に生成AIを本格適用",
-     "url": "https://prtimes.jp/main/html/rd/p/000000609.000093942.html",
-     "date": "2026-09-14"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、Agile Robots社とAIロボティクスの頭脳を開発する協創パートナーシップに合意",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0929/",
+     "date": "2026-09-29"
+    },
     {
      "title": "人事異動について [株式会社 日立パワーソリューションズ]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0928/",
@@ -95,11 +100,6 @@
      "title": "京都大学と研究・分析装置メーカー等による「先端技術開発アライアンス」を設立",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0925a/",
      "date": "2026-09-25"
-    },
-    {
-     "title": "日立レール、オーストリアで欧州最大級の鉄道信号デジタル化プロジェクトに選定",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0925/",
-     "date": "2026-09-25"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "NRIセキュア、欧州連合のサイバーセキュリティ規制「NIS2指令」への準拠支援サービスを提供開始",
+     "url": "https://www.nri.com/jp/news/newsrelease/20260929_1.html",
+     "date": "2026-09-29"
+    },
     {
      "title": "NRIセキュア、「フロンティアAI対応プロアクティブ脆弱性診断」のデータ取り扱い体制を強化",
      "url": "https://www.nri.com/jp/news/info/20260917_1.html",
@@ -143,11 +148,6 @@
      "title": "NRIセキュア、AIをはじめとするエマージングテクノロジーの利活用を支えるセキュリティガバナンス構築支援サービスを提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20260827_1.html",
      "date": "2026-08-27"
-    },
-    {
-     "title": "令和8年熊本地震被災地への義援金寄付について",
-     "url": "https://www.nri.com/jp/news/info/20260825_1.html",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -155,9 +155,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "人事異動に関するお知らせ（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20260929g.html",
+     "date": "2026-09-29"
+    },
+    {
+     "title": "SCSK、Shopifyを活用したEC構築・運用支援サービスを提供開始 ～エンタープライズECで培った知見を活かし、成長企業のEC事業を支援～",
+     "url": "https://www.scsk.jp/news/2026/info/20260929i.html",
+     "date": "2026-09-29"
+    },
     {
      "title": "SCSKサービスリンクスとの合併に関するお知らせ（SCSKサービスウェア株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20260928g.html",
@@ -172,16 +182,6 @@
      "title": "SCSK、フロンティアAI時代の脆弱性対策を支援する「リアルタイムパッチ配信短期導入パッケージ」を提供開始",
      "url": "https://www.scsk.jp/news/2026/info/20260928i.html",
      "date": "2026-09-28"
-    },
-    {
-     "title": "ネットワンシステムズ、\"独自の技術知見の自動反映\"を可能にする、セキュアなスライド自動生成AIアプリケーション「SlideAgent」を独自開発し、全社展開 ～技術検証・QAデータや標準オファリングメニュー等をAIに組み込み、スライドに自動反映～（ネットワンシステムズ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260924g.html",
-     "date": "2026-09-24"
-    },
-    {
-     "title": "SCSK、不動産領域に特化したAIエージェントセットを提供開始 ～業界知見を組み込んだAIエージェントにより、属人化解消と業務変革を実現～",
-     "url": "https://www.scsk.jp/news/2026/press/product/20260918.html",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISIと竹富町観光協会、AI活用で観光案内のデジタル化を推進し、多言語対応サービスを沖縄県竹富町全域で運用開始",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20260929_1.html",
+     "date": "2026-09-29"
+    },
     {
      "title": "TISI、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260928_1.html",
@@ -211,11 +216,6 @@
      "title": "TISI、あいち銀行へ法人向けDXプラットフォーム「DX Connect Gate」を導入",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260917_2.html",
      "date": "2026-09-17"
-    },
-    {
-     "title": "TISI、生成AIを活用した複数自治体による広域データ連携基盤の共同利用に関する実証を実施",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260917_1.html",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-28T23:24:04Z",
+   "fetched_at": "2026-09-29T05:54:49Z",
    "ok": true,
    "items": [
     {
