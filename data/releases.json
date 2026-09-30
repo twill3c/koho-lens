@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-30T05:45:09Z",
+ "generated_at": "2026-09-30T12:49:46Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
+    {
+     "title": "監査役人事について [株式会社日立ハイテク]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0930b/",
+     "date": "2026-09-30"
+    },
     {
      "title": "日立ハイテクとZEISS社が次世代マルチビーム電子線検査装置の共同開発を加速 [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0930/",
@@ -95,11 +100,6 @@
      "title": "日立、Agile Robots社とAIロボティクスの頭脳を開発する協創パートナーシップに合意",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0929/",
      "date": "2026-09-29"
-    },
-    {
-     "title": "人事異動について [株式会社 日立パワーソリューションズ]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0928/",
-     "date": "2026-09-28"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKとVector、エッジECU向けソフトウェアについての共創を開始",
+     "url": "https://www.scsk.jp/news/2026/press/product/20260930_2.html",
+     "date": "2026-09-30"
+    },
     {
      "title": "製造業の調達リスク管理を支援する「SuccessChain for Procurement」を提供開始～設計から調達までの情報をつなぎ、製品の安定供給と競争力強化を実現～",
      "url": "https://www.scsk.jp/news/2026/press/product/20260930.html",
@@ -177,11 +182,6 @@
      "title": "SCSK、Shopifyを活用したEC構築・運用支援サービスを提供開始 ～エンタープライズECで培った知見を活かし、成長企業のEC事業を支援～",
      "url": "https://www.scsk.jp/news/2026/info/20260929i.html",
      "date": "2026-09-29"
-    },
-    {
-     "title": "SCSKサービスリンクスとの合併に関するお知らせ（SCSKサービスウェア株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20260928g.html",
-     "date": "2026-09-28"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-30T05:45:09Z",
+   "fetched_at": "2026-09-30T12:49:46Z",
    "ok": true,
    "items": [
     {
