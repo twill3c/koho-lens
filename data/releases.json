@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-09-30T22:25:46Z",
+ "generated_at": "2026-10-01T06:12:06Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、「CEATEC 2026」に出展し、レジリエントな社会を実現するテクノロジーを紹介",
+     "url": "https://prtimes.jp/main/html/rd/p/000000616.000093942.html",
+     "date": "2026-10-01"
+    },
     {
      "title": "トモシアホールディングスと富士通、基幹システム刷新プロジェクト「TO-One」を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000614.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、AI Transformationに向けて事業モデル「Uvance」を進化",
      "url": "https://prtimes.jp/main/html/rd/p/000000611.000093942.html",
      "date": "2026-09-16"
-    },
-    {
-     "title": "量子アプリケーション開発を効率化するソフトウェア「Open Quantum Application Research Package」をオープンソースとして一般公開",
-     "url": "https://prtimes.jp/main/html/rd/p/000000610.000093942.html",
-     "date": "2026-09-15"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "人事異動について",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1001a/",
+     "date": "2026-10-01"
+    },
     {
      "title": "監査役人事について [株式会社日立ハイテク]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0930b/",
@@ -95,11 +100,6 @@
      "title": "日立、日本銀行が実施する中央銀行デジタル通貨のパイロット実験に業務委託先として参画",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0929a/",
      "date": "2026-09-29"
-    },
-    {
-     "title": "日立、Agile Robots社とAIロボティクスの頭脳を開発する協創パートナーシップに合意",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/09/0929/",
-     "date": "2026-09-29"
     }
    ]
   },
@@ -107,9 +107,14 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "製品含有化学物質・資源循環情報プラットフォーム「CMP」のサービス提供を開始",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/100101",
+     "date": "2026-10-01"
+    },
     {
      "title": "社内ベンチャー制度発のCoCo Storyと資本提携",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/091600",
@@ -121,7 +126,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +160,24 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKグループ、マネージドサービス事業を大幅強化 ～ネットワンのマネージドサービス事業などを再編・強化し、AIを活用した次世代運用モデルで2030年度売上高2,300億円を目指す～",
+     "url": "https://www.scsk.jp/news/2026/press/management/20261001_2.html",
+     "date": "2026-10-01"
+    },
+    {
+     "title": "人事異動に関するお知らせ",
+     "url": "https://www.scsk.jp/news/2026/press/management/20261001.html",
+     "date": "2026-10-01"
+    },
+    {
+     "title": "AIで解析業務を自動化するCAEソフト「ADVENTURECluster2026」リリース ～「誰が解析するか」問題解消の一手～（株式会社アライドエンジニアリング）",
+     "url": "https://www.scsk.jp/news/2026/group/20261001g.html",
+     "date": "2026-10-01"
+    },
     {
      "title": "SCSKとVector、エッジECU向けソフトウェアについての共創を開始",
      "url": "https://www.scsk.jp/news/2026/press/product/20260930_2.html",
@@ -167,21 +187,6 @@
      "title": "製造業の調達リスク管理を支援する「SuccessChain for Procurement」を提供開始～設計から調達までの情報をつなぎ、製品の安定供給と競争力強化を実現～",
      "url": "https://www.scsk.jp/news/2026/press/product/20260930.html",
      "date": "2026-09-30"
-    },
-    {
-     "title": "高度AI人材育成に向けた社員研修の第3弾 AI駆動開発の品質保証を学ぶ研修を開始 ～お客様のAI駆動開発を支援する品質保証体制を構築へ～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20260930g.html",
-     "date": "2026-09-30"
-    },
-    {
-     "title": "人事異動に関するお知らせ（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20260929g.html",
-     "date": "2026-09-29"
-    },
-    {
-     "title": "SCSK、Shopifyを活用したEC構築・運用支援サービスを提供開始 ～エンタープライズECで培った知見を活かし、成長企業のEC事業を支援～",
-     "url": "https://www.scsk.jp/news/2026/info/20260929i.html",
-     "date": "2026-09-29"
     }
    ]
   },
@@ -189,13 +194,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
     {
      "title": "TISIと竹富町観光協会、AI活用で観光案内のデジタル化を推進し、多言語対応サービスを沖縄県竹富町全域で運用開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260929_1.html",
-     "date": "2026-09-29"
+     "date": "2026-10-01"
     },
     {
      "title": "TISI、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与",
@@ -223,7 +228,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +262,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
     {
@@ -291,9 +296,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
+    {
+     "title": "BoxとDatabricksの連携により、企業データを横断的に活用するAIソリューションを提供開始 ～企業文書に蓄積された知見と業務データを結び付け、情報資産の価値を引き出す～",
+     "url": "https://digitalpr.jp/r/144805",
+     "date": "2026-10-01"
+    },
     {
      "title": "NSSOL、Anthropicと戦略的パートナーシップ契約を締結 ～日本の産業競争力の強化にむけて、AnthropicのAI技術とNSSOLの業務知見・システム構築力を融合～",
      "url": "https://digitalpr.jp/r/144423",
@@ -313,11 +323,6 @@
      "title": "CX・コンタクトセンター高度化支援サービス「NSRelato」の提供を開始 〜お客様の声を資産に変え、事業成果につなげるコンタクトセンター変革を支援〜",
      "url": "https://digitalpr.jp/r/141667",
      "date": "2026-08-25"
-    },
-    {
-     "title": "株式会社千葉銀行は日鉄ソリューションズ株式会社とSalesforceを活用し、新営業支援システムを構築",
-     "url": "https://digitalpr.jp/r/140945",
-     "date": "2026-08-19"
     }
    ]
   },
@@ -325,7 +330,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-09-30T22:25:46Z",
+   "fetched_at": "2026-10-01T06:12:06Z",
    "ok": true,
    "items": [
     {
