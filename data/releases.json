@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-05T05:57:54Z",
+ "generated_at": "2026-10-05T15:02:39Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -39,12 +39,17 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
      "title": "NEC、次世代サイバーセキュリティサービス「CyIOC」を強化し、新たな法制度への対応支援とグローバル運用体制を拡充",
      "url": "https://jpn.nec.com/press/202610/20261005_01.html",
+     "date": "2026-10-05"
+    },
+    {
+     "title": "NECネクサソリューションズ、クラウド環境で企業独自の業務プロセスに対応する基幹業務システム「EXPLANNER/Ax SaaS」を販売開始～日本オラクルと協調設計しAI活用を見据えたセキュアな基盤で、会計・給与業務の法改正に柔軟に対応～[NECネクサソリューションズ]",
+     "url": "https://www.nec-nexs.com/news/press/2026/1005.html",
      "date": "2026-10-05"
     },
     {
@@ -61,11 +66,6 @@
      "title": "NECなど5社、総務省の令和8年度「ワット・ビット連携関連実証」に採択",
      "url": "https://jpn.nec.com/press/202609/20260930_01.html",
      "date": "2026-09-30"
-    },
-    {
-     "title": "Meta、NEC、住友電工、世界初の商用ペタビット級光海底ケーブルシステム「Petal」の構築に向けて協業",
-     "url": "https://jpn.nec.com/press/202609/20260922_01.html",
-     "date": "2026-09-22"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -107,18 +107,13 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
      "title": "製品含有化学物質・資源循環情報プラットフォーム「CMP」のサービス提供を開始",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/100101",
      "date": "2026-10-01"
-    },
-    {
-     "title": "社内ベンチャー制度発のCoCo Storyと資本提携",
-     "url": "https://www.nttdata.com/global/ja/news/release/2026/091600",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -126,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -160,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -194,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -228,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -262,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -296,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
@@ -330,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-05T05:57:54Z",
+   "fetched_at": "2026-10-05T15:02:39Z",
    "ok": true,
    "items": [
     {
