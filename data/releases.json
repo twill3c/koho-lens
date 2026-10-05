@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-04T21:41:45Z",
+ "generated_at": "2026-10-05T05:57:54Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、次世代サイバーセキュリティサービス「CyIOC」を強化し、新たな法制度への対応支援とグローバル運用体制を拡充",
+     "url": "https://jpn.nec.com/press/202610/20261005_01.html",
+     "date": "2026-10-05"
+    },
     {
      "title": "NEC、大鵬薬品、がん研究会、産総研、早稲田大学による量子計算技術を活用した次世代がん免疫療法に関する共同研究開発プロジェクトがNEDO実証事業に採択",
      "url": "https://jpn.nec.com/press/202610/20261002_01.html",
@@ -61,11 +66,6 @@
      "title": "Meta、NEC、住友電工、世界初の商用ペタビット級光海底ケーブルシステム「Petal」の構築に向けて協業",
      "url": "https://jpn.nec.com/press/202609/20260922_01.html",
      "date": "2026-09-22"
-    },
-    {
-     "title": "UNDPとNEC、ネイチャーポジティブな社会の実現に向けたAIをはじめとするデジタル技術の活用に関する協力覚書を締結",
-     "url": "https://jpn.nec.com/press/202609/20260907_01.html",
-     "date": "2026-09-07"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -126,7 +126,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -160,7 +160,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -194,7 +194,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -228,9 +228,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "アクセンチュアとAnthropic、AIの安全性評価を担う「組み込み型評価者」専門チームのAnthropicでの社内設立に向け提携",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
+     "date": "2026-10-05"
+    },
     {
      "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
      "url": "https://newsroom.accenture.jp/jp/news/2026/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
@@ -250,11 +255,6 @@
      "title": "アクセンチュア、成長企業のAI活用と全社変革を支援する「Accenture Edge」を設立",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-launches-accenture-edge-to-help-mid-market-companies-harness-ai-and-reinvent-how-they-operate",
      "date": "2026-07-03"
-    },
-    {
-     "title": "アクセンチュア、OpenAIとの国内における協業を拡充",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-expands-collaboration-with-openai-in-japan-companies-drive-enterprise-reinvention-with-agentic-ai",
-     "date": "2026-07-09"
     }
    ]
   },
@@ -262,7 +262,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -296,7 +296,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
@@ -330,7 +330,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-04T21:41:45Z",
+   "fetched_at": "2026-10-05T05:57:54Z",
    "ok": true,
    "items": [
     {
