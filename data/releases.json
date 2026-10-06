@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-06T00:11:47Z",
+ "generated_at": "2026-10-06T06:35:48Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
+    {
+     "title": "NECネクサソリューションズ、生成AIを活用し自然な電話応答を実現する「対話型音声AIエージェント Powered by DEN.Ai」を提供開始～電話応対業務の負荷軽減と顧客対応品質の向上を支援～[NECネクサソリューションズ]",
+     "url": "https://www.nec-nexs.com/news/press/2026/1006.html",
+     "date": "2026-10-06"
+    },
     {
      "title": "NEC、次世代サイバーセキュリティサービス「CyIOC」を強化し、新たな法制度への対応支援とグローバル運用体制を拡充",
      "url": "https://jpn.nec.com/press/202610/20261005_01.html",
@@ -61,11 +66,6 @@
      "title": "疾患発症リスク予測検査「フォーネスビジュアス」に5 年以内の胃がん発症リスクの項目を追加[フォーネスライフ株式会社]",
      "url": "https://foneslife.com/news/20261001-2/",
      "date": "2026-10-01"
-    },
-    {
-     "title": "NECなど5社、総務省の令和8年度「ワット・ビット連携関連実証」に採択",
-     "url": "https://jpn.nec.com/press/202609/20260930_01.html",
-     "date": "2026-09-30"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、「CEATEC 2026」に「デジタル大臣賞」受賞のHMAXなどを出展し、フィジカルAIで描く社会インフラの進化を提案",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1006/",
+     "date": "2026-10-06"
+    },
     {
      "title": "自己株式の取得状況に関するお知らせ",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1002/",
@@ -95,11 +100,6 @@
      "title": "OKIと日立が、ATM等の自動化機器事業を担う合弁会社として、OHチャネルイノベーションズ株式会社を発足",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1001/",
      "date": "2026-10-01"
-    },
-    {
-     "title": "人事異動について",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1001a/",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-06T00:11:47Z",
+   "fetched_at": "2026-10-06T06:35:48Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-09-25"
+     "date": "2026-10-06"
     }
    ]
   }
