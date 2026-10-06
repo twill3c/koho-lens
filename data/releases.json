@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-10-06T06:35:48Z",
+ "generated_at": "2026-10-06T18:30:10Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、店舗運営と経営判断を高度化する小売業向けAIエージェントのトライアル環境を提供開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000617.000093942.html",
+     "date": "2026-10-06"
+    },
     {
      "title": "富士通、「CEATEC 2026」に出展し、レジリエントな社会を実現するテクノロジーを紹介",
      "url": "https://prtimes.jp/main/html/rd/p/000000616.000093942.html",
@@ -27,11 +32,6 @@
      "title": "社用車のEV導入の意思決定を支援するサービスを開発",
      "url": "https://prtimes.jp/main/html/rd/p/000000612.000093942.html",
      "date": "2026-09-18"
-    },
-    {
-     "title": "富士通、AI Transformationに向けて事業モデル「Uvance」を進化",
-     "url": "https://prtimes.jp/main/html/rd/p/000000611.000093942.html",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-06T06:35:48Z",
+   "fetched_at": "2026-10-06T18:30:10Z",
    "ok": true,
    "items": [
     {
