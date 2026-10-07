@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-10-07T06:13:27Z",
+ "generated_at": "2026-10-07T13:39:24Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
+    {
+     "title": "通信・電力・計算資源を統合制御する「高度なワークロードシフトの実現に向けた社会実証」を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000619.000093942.html",
+     "date": "2026-10-07"
+    },
     {
      "title": "富士通、店舗運営と経営判断を高度化する小売業向けAIエージェントのトライアル環境を提供開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000617.000093942.html",
@@ -27,11 +32,6 @@
      "title": "企業や組織における能動的サイバー防御の実践を包括的に支援するセキュリティサービスを提供開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000613.000093942.html",
      "date": "2026-09-25"
-    },
-    {
-     "title": "社用車のEV導入の意思決定を支援するサービスを開発",
-     "url": "https://prtimes.jp/main/html/rd/p/000000612.000093942.html",
-     "date": "2026-09-18"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -257,13 +257,13 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
      "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始",
      "url": "https://jp.newsroom.ibm.com/2026-10-07-NTT-DOCOMO-BUSINESS-and-IBM-Japan-Launch-Collaboration-in-AI-Governance",
-     "date": "2026-10-06"
+     "date": "2026-10-07"
     },
     {
      "title": "IBM、企業のAI主権とガバナンス強化を支援するため、オンプレミスやソブリンクラウドなどの環境で運用可能な「IBM Bob」のセルフホステッド型を発表",
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-07T06:13:27Z",
+   "fetched_at": "2026-10-07T13:39:24Z",
    "ok": true,
    "items": [
     {
