@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-06T18:30:10Z",
+ "generated_at": "2026-10-07T06:13:27Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、広島県資源循環協会が実施する産業廃棄物由来の再生プラスチック製造に向けた実証に参画",
+     "url": "https://jpn.nec.com/press/202610/20261007_02.html",
+     "date": "2026-10-07"
+    },
     {
      "title": "NECネクサソリューションズ、生成AIを活用し自然な電話応答を実現する「対話型音声AIエージェント Powered by DEN.Ai」を提供開始～電話応対業務の負荷軽減と顧客対応品質の向上を支援～[NECネクサソリューションズ]",
      "url": "https://www.nec-nexs.com/news/press/2026/1006.html",
@@ -61,11 +66,6 @@
      "title": "NEC、大鵬薬品、がん研究会、産総研、早稲田大学による量子計算技術を活用した次世代がん免疫療法に関する共同研究開発プロジェクトがNEDO実証事業に採択",
      "url": "https://jpn.nec.com/press/202610/20261002_01.html",
      "date": "2026-10-02"
-    },
-    {
-     "title": "疾患発症リスク予測検査「フォーネスビジュアス」に5 年以内の胃がん発症リスクの項目を追加[フォーネスライフ株式会社]",
-     "url": "https://foneslife.com/news/20261001-2/",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立と東北電力ネットワークが共同開発した電力品質管理システムを活用し、青森県内の配電系統で電圧集中制御を開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1007a/",
+     "date": "2026-10-07"
+    },
     {
      "title": "日立、「CEATEC 2026」に「デジタル大臣賞」受賞のHMAXなどを出展し、フィジカルAIで描く社会インフラの進化を提案",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1006/",
@@ -95,11 +100,6 @@
      "title": "日立グループの選手が「第48回技能五輪国際大会」にて銀メダルを獲得",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1002b/",
      "date": "2026-10-02"
-    },
-    {
-     "title": "OKIと日立が、ATM等の自動化機器事業を担う合弁会社として、OHチャネルイノベーションズ株式会社を発足",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1001/",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村総合研究所、「IDC FinTech Rankings」で10位にランクイン",
+     "url": "https://www.nri.com/jp/news/info/20261007_1.html",
+     "date": "2026-10-07"
+    },
     {
      "title": "野村総合研究所と日本経済新聞社、金融犯罪対策に向けたサービス連携に関する基本合意書を締結",
      "url": "https://www.nri.com/jp/news/info/20261002_1.html",
@@ -143,11 +148,6 @@
      "title": "野村総合研究所、三菱重工業とAIを始めとしたデジタル技術を活用した業務プロセス改革への共同検討と実践活動を開始",
      "url": "https://www.nri.com/jp/news/info/20260916_1.html",
      "date": "2026-09-16"
-    },
-    {
-     "title": "組織の一部改正と社員の異動について",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260911_1.html",
-     "date": "2026-09-11"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
+    {
+     "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始",
+     "url": "https://jp.newsroom.ibm.com/2026-10-07-NTT-DOCOMO-BUSINESS-and-IBM-Japan-Launch-Collaboration-in-AI-Governance",
+     "date": "2026-10-06"
+    },
     {
      "title": "IBM、企業のAI主権とガバナンス強化を支援するため、オンプレミスやソブリンクラウドなどの環境で運用可能な「IBM Bob」のセルフホステッド型を発表",
      "url": "https://jp.newsroom.ibm.com/2026-10-02-ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance",
@@ -279,11 +284,6 @@
      "title": "JSR、IBMとの共同研究成果がNature Computational Scienceに採択",
      "url": "https://jp.newsroom.ibm.com/2026-09-18-jsr-and-ibms-joint-research-results-accepted-for-publication-in-nature-computational-science",
      "date": "2026-09-17"
-    },
-    {
-     "title": "琉球銀行と日本IBM、金融業務変革と沖縄経済の持続的成長に向けたAIパートナーシップを締結",
-     "url": "https://jp.newsroom.ibm.com/2026-09-16-AI-Partnership-with-Ryukyu-Bank",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-06T18:30:10Z",
+   "fetched_at": "2026-10-07T06:13:27Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-10-06"
+     "date": "2026-10-07"
     }
    ]
   }
