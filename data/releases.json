@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-07T23:12:38Z",
+ "generated_at": "2026-10-08T06:21:51Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
+    {
+     "title": "総務省の令和8年度「ワット・ビット連携関連実証」に着手しました",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1008/",
+     "date": "2026-10-08"
+    },
+    {
+     "title": "企業を取り巻く競争環境を構造化するAI「競争世界モデル」を提供開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1008a/",
+     "date": "2026-10-08"
+    },
     {
      "title": "日立と東北電力ネットワークが共同開発した電力品質管理システムを活用し、青森県内の配電系統で電圧集中制御を開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1007a/",
@@ -90,16 +100,6 @@
      "title": "自己株式の取得状況に関するお知らせ",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1002/",
      "date": "2026-10-02"
-    },
-    {
-     "title": "日立ハイテク、省スペース化と運用効率向上を実現した細胞自動培養装置「iACE3」を販売開始 [株式会社日立ハイテク]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1002a/",
-     "date": "2026-10-02"
-    },
-    {
-     "title": "日立グループの選手が「第48回技能五輪国際大会」にて銀メダルを獲得",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1002b/",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
+    {
+     "title": "ネットワンシステムズ、岐阜県庁の全職員が利用するテレワーク環境を、ゼロトラストセキュリティで構築（ネットワンシステムズ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261008g.html",
+     "date": "2026-10-08"
+    },
     {
      "title": "社外取締役の逝去および退任に関するお知らせ",
      "url": "https://www.scsk.jp/news/2026/info/20261002i_2.html",
@@ -177,11 +182,6 @@
      "title": "人事異動に関するお知らせ",
      "url": "https://www.scsk.jp/news/2026/press/management/20261001.html",
      "date": "2026-10-01"
-    },
-    {
-     "title": "AIで解析業務を自動化するCAEソフト「ADVENTURECluster2026」リリース ～「誰が解析するか」問題解消の一手～（株式会社アライドエンジニアリング）",
-     "url": "https://www.scsk.jp/news/2026/group/20261001g.html",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-07T23:12:38Z",
+   "fetched_at": "2026-10-08T06:21:51Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-10-07"
+     "date": "2026-10-08"
     }
    ]
   }
