@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-13T22:57:07Z",
+ "generated_at": "2026-10-14T05:06:43Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、現場画像に小さく写る被害を高精度に把握し、新たな被災事象にも対応できるVLM技術を開発",
+     "url": "https://jpn.nec.com/press/202610/20261014_01.html",
+     "date": "2026-10-14"
+    },
     {
      "title": "日本車両とNEC、鉄道車両の設計の効率化とさらなる設計品質の向上、鉄道事業者の業務支援を実現するVRアプリケーションを共同開発",
      "url": "https://jpn.nec.com/press/202610/20261013_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、次世代サイバーセキュリティサービス「CyIOC」を強化し、新たな法制度への対応支援とグローバル運用体制を拡充",
      "url": "https://jpn.nec.com/press/202610/20261005_01.html",
      "date": "2026-10-05"
-    },
-    {
-     "title": "NECネクサソリューションズ、クラウド環境で企業独自の業務プロセスに対応する基幹業務システム「EXPLANNER/Ax SaaS」を販売開始～日本オラクルと協調設計しAI活用を見据えたセキュアな基盤で、会計・給与業務の法改正に柔軟に対応～[NECネクサソリューションズ]",
-     "url": "https://www.nec-nexs.com/news/press/2026/1005.html",
-     "date": "2026-10-05"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "CELF、Excel業務のAI-ready化を支援する「AI開発エージェント」を提供～生成AIとの対話で業務アプリ開発を効率化、β版参加企業を募集～",
+     "url": "https://www.scsk.jp/news/2026/press/product/20261014.html",
+     "date": "2026-10-14"
+    },
     {
      "title": "SCSKセキュリティとネットワンシステムズ、大阪工業大学との産学連携で次世代セキュリティ人財育成を推進 ～「攻撃者の視点」を取り入れた演習と現役セキュリティ担当者の知見により、学生が攻撃から防御までを実践的に学習～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261013g.html",
@@ -177,11 +182,6 @@
      "title": "社外取締役の逝去および退任に関するお知らせ",
      "url": "https://www.scsk.jp/news/2026/info/20261002i_2.html",
      "date": "2026-10-02"
-    },
-    {
-     "title": "SCSK所属パラアスリート 保田 明日美、ワールドトライアスロン世界選手権（2026/ポンテべドラ） 銅メダル",
-     "url": "https://www.scsk.jp/news/2026/info/20261002i.html",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM、DARPAの量子ベンチマーキング・イニシアチブのステージCに選定",
+     "url": "https://jp.newsroom.ibm.com/2026-10-14-ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative",
+     "date": "2026-10-14"
+    },
     {
      "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始",
      "url": "https://jp.newsroom.ibm.com/2026-10-07-NTT-DOCOMO-BUSINESS-and-IBM-Japan-Launch-Collaboration-in-AI-Governance",
@@ -279,11 +284,6 @@
      "title": "IBMグループ企業のAnderonが、米国拠点の量子専用ファウンドリーの研究開発の加速に向け、米国商務省とCHIPS法に基づく10億ドル資金提供の合意を最終締結",
      "url": "https://jp.newsroom.ibm.com/2026-09-24-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry",
      "date": "2026-09-19"
-    },
-    {
-     "title": "JSR、IBMとの共同研究成果がNature Computational Scienceに採択",
-     "url": "https://jp.newsroom.ibm.com/2026-09-18-jsr-and-ibms-joint-research-results-accepted-for-publication-in-nature-computational-science",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
     {
@@ -325,9 +325,14 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-13T22:57:07Z",
+   "fetched_at": "2026-10-14T05:06:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "「SuperStream-NX Cloud」がSOC1 Type1およびSOC2 Type1保証報告書を受領 財務報告に係る内部統制とセキュリティ管理体制を第三者機関が評価",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1014",
+     "date": "2026-10-14"
+    },
     {
      "title": "キヤノンITSとメディアフォース、EDIを起点としたシステム連携を共同支援 システム刷新やクラウド移行に伴うEDIデータ連携の課題解決を推進",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1013",
@@ -337,11 +342,6 @@
      "title": "契約書のリース該当性判定をAIで支援し2027年の新リース会計基準対応 キヤノンITSが「SuperStream-NX 固定資産管理」のオプションとして提供開始",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0930",
      "date": "2026-09-30"
-    },
-    {
-     "title": "キヤノンITソリューションズがERP「FutureStage」の提供を開始 日立システムズとのパートナー契約により基幹業務システムをワンストップで提供",
-     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0821",
-     "date": "2026-08-21"
     },
     {
      "title": "2025年",
