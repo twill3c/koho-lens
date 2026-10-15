@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-14T21:49:41Z",
+ "generated_at": "2026-10-15T04:54:54Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "2026年度「C&C賞」受賞者の決定",
+     "url": "https://jpn.nec.com/press/202610/20261015_01.html",
+     "date": "2026-10-15"
+    },
     {
      "title": "NEC、現場画像に小さく写る被害を高精度に把握し、新たな被災事象にも対応できるVLM技術を開発",
      "url": "https://jpn.nec.com/press/202610/20261014_01.html",
@@ -61,11 +66,6 @@
      "title": "NECネクサソリューションズ、生成AIを活用し自然な電話応答を実現する「対話型音声AIエージェント Powered by DEN.Ai」を提供開始～電話応対業務の負荷軽減と顧客対応品質の向上を支援～[NECネクサソリューションズ]",
      "url": "https://www.nec-nexs.com/news/press/2026/1006.html",
      "date": "2026-10-06"
-    },
-    {
-     "title": "NEC、次世代サイバーセキュリティサービス「CyIOC」を強化し、新たな法制度への対応支援とグローバル運用体制を拡充",
-     "url": "https://jpn.nec.com/press/202610/20261005_01.html",
-     "date": "2026-10-05"
     }
    ]
   },
@@ -73,33 +73,33 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
-     "title": "データセンターの高効率化と安定稼働を支援する空冷式チラーユニット「AIXROSS(アイクロス)」を2027年4月より受注開始 [日立グローバルライフソリューションズ株式会社]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1009/",
-     "date": "2026-10-09"
+     "title": "鉄道車両向けオンラインモニタリングシステムが「2026年度グッドデザイン賞」を受賞",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015d/",
+     "date": "2026-10-15"
     },
     {
-     "title": "日立、Anthropicの重要インフラ向けサイバー防衛プログラム「Critical Infrastructure Defense Program」に参画",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1009a/",
-     "date": "2026-10-09"
+     "title": "東武東上線 新型車両９００００系が「２０２６年度グッドデザイン・ベスト１００」を受賞！！",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015c/",
+     "date": "2026-10-15"
     },
     {
-     "title": "総務省の令和8年度「ワット・ビット連携関連実証」に着手しました",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1008/",
-     "date": "2026-10-08"
+     "title": "標準型エレベーター「アーバンエース HF Mirai」が「2026年度グッドデザイン賞」を受賞",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015b/",
+     "date": "2026-10-15"
     },
     {
-     "title": "企業を取り巻く競争環境を構造化するAI「競争世界モデル」を提供開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1008a/",
-     "date": "2026-10-08"
+     "title": "多様な駅業務をデジタルで支援する「駅業務アプリケーションスイート」、2026年度グッドデザイン賞を受賞",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015a/",
+     "date": "2026-10-15"
     },
     {
-     "title": "日立と東北電力ネットワークが共同開発した電力品質管理システムを活用し、青森県内の配電系統で電圧集中制御を開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1007a/",
-     "date": "2026-10-07"
+     "title": "日立グリルレスIHクッキングヒーターが「2026年度グッドデザイン賞」を受賞 [日立グローバルライフソリューションズ株式会社]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015/",
+     "date": "2026-10-15"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "NRIセキュア、AI駆動開発のセキュリティ対策を支援するサービスを提供開始",
+     "url": "https://www.nri.com/jp/news/newsrelease/20261015_1.html",
+     "date": "2026-10-15"
+    },
     {
      "title": "野村総合研究所、「IDC FinTech Rankings」で10位にランクイン",
      "url": "https://www.nri.com/jp/news/info/20261007_1.html",
@@ -143,11 +148,6 @@
      "title": "NRIセキュア、「フロンティアAI対応プロアクティブ脆弱性診断」のデータ取り扱い体制を強化",
      "url": "https://www.nri.com/jp/news/info/20260917_1.html",
      "date": "2026-09-17"
-    },
-    {
-     "title": "野村総合研究所、三菱重工業とAIを始めとしたデジタル技術を活用した業務プロセス改革への共同検討と実践活動を開始",
-     "url": "https://www.nri.com/jp/news/info/20260916_1.html",
-     "date": "2026-09-16"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "CTCと日本IBM、IBM Bobを活用したAI駆動開発サービス「A-Native」で協業",
+     "url": "https://jp.newsroom.ibm.com/2026-10-15-CTC-and-IBM-Japan-Collaborate-On-A-Native-by-IBM-Bob",
+     "date": "2026-10-15"
+    },
     {
      "title": "IBM、DARPAの量子ベンチマーキング・イニシアチブのステージCに選定",
      "url": "https://jp.newsroom.ibm.com/2026-10-14-ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative",
@@ -279,11 +284,6 @@
      "title": "IBM、Swift連携とIBM Digital Asset Havenオンプレミス版により、デジタル決済インフラストラクチャーを拡充",
      "url": "https://jp.newsroom.ibm.com/2026-09-28-ibm-expands-its-digital-banking-infrastructure-with-swift-integration-and-digital-asset-haven-on-prem",
      "date": "2026-09-28"
-    },
-    {
-     "title": "IBMグループ企業のAnderonが、米国拠点の量子専用ファウンドリーの研究開発の加速に向け、米国商務省とCHIPS法に基づく10億ドル資金提供の合意を最終締結",
-     "url": "https://jp.newsroom.ibm.com/2026-09-24-anderon,-an-ibm-company,-finalizes-agreement-with-the-u-s-department-of-commerce-for-a-1-billion-chips-award-to-accelerate-r-d-for-u-s-based-pure-play-quantum-foundry",
-     "date": "2026-09-19"
     }
    ]
   },
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "NSSOL、ロックウェル オートメーションのクラウド型MES「PLEX」の販売を開始 ～製造現場の見える化と業務標準化を実現し、短期間・低コストで工場DXを加速～",
+     "url": "https://digitalpr.jp/r/145973",
+     "date": "2026-10-15"
+    },
     {
      "title": "BoxとDatabricksの連携により、企業データを横断的に活用するAIソリューションを提供開始 ～企業文書に蓄積された知見と業務データを結び付け、情報資産の価値を引き出す～",
      "url": "https://digitalpr.jp/r/144805",
@@ -313,11 +318,6 @@
      "title": "横浜FG向け「BM4Iサービスプラットフォーム」導入プロジェクトを開始 ～改正金融商品会計基準への対応に向け、予想信用損失の算定を支援～",
      "url": "https://digitalpr.jp/r/143836",
      "date": "2026-09-17"
-    },
-    {
-     "title": "CX・コンタクトセンター高度化支援サービス「NSRelato」の提供を開始 〜お客様の声を資産に変え、事業成果につなげるコンタクトセンター変革を支援〜",
-     "url": "https://digitalpr.jp/r/141667",
-     "date": "2026-08-25"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-14T21:49:41Z",
+   "fetched_at": "2026-10-15T04:54:54Z",
    "ok": true,
    "items": [
     {
