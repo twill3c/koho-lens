@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-16T04:45:19Z",
+ "generated_at": "2026-10-16T11:41:17Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立エナジーとアンサルド・エネルジア、発電から送配電までの包括的ソリューションの開発に向け覚書を締結",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016a/",
+     "date": "2026-10-16"
+    },
     {
      "title": "日立エナジーと米・ロックウェル・オートメーション、電力とオートメーションを統合し、産業分野の電化加速に向け協業",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016/",
@@ -95,11 +100,6 @@
      "title": "標準型エレベーター「アーバンエース HF Mirai」が「2026年度グッドデザイン賞」を受賞",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015b/",
      "date": "2026-10-15"
-    },
-    {
-     "title": "多様な駅業務をデジタルで支援する「駅業務アプリケーションスイート」、2026年度グッドデザイン賞を受賞",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1015a/",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
+    {
+     "title": "NRIセキュアテクノロジーズを名乗る偽サイトへのご注意",
+     "url": "https://www.nri.com/jp/news/info/20261016_1.html",
+     "date": "2026-10-16"
+    },
     {
      "title": "NRIセキュア、AI駆動開発のセキュリティ対策を支援するサービスを提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20261015_1.html",
@@ -143,11 +148,6 @@
      "title": "NRIセキュア、欧州連合のサイバーセキュリティ規制「NIS2指令」への準拠支援サービスを提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20260929_1.html",
      "date": "2026-09-29"
-    },
-    {
-     "title": "NRIセキュア、「フロンティアAI対応プロアクティブ脆弱性診断」のデータ取り扱い体制を強化",
-     "url": "https://www.nri.com/jp/news/info/20260917_1.html",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
+    {
+     "title": "複数銀行によるステーブルコイン共同発行およびクロスボーダー決済高度化に関する実証実験を実施",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261016_2.html",
+     "date": "2026-10-16"
+    },
     {
      "title": "ゼンリングループ、沖縄都市モノレール、琉球銀行、TISIが連携 観光DXを推進し、地域交通の利用促進・観光周遊の活性化を目指す",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261001_2.html",
@@ -211,11 +216,6 @@
      "title": "TISI、「Xenlon～神龍 モダナイゼーションサービス」にてAIで保守業務の効率化と属人化解消を支援する新サービスを提供開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260925_1.html",
      "date": "2026-09-28"
-    },
-    {
-     "title": "TISI、光世証券に国際標準規格FIDOに準拠した「FIDO・パスキー認証基盤：Capy生体認証ソリューション」を導入",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260924_1.html",
-     "date": "2026-09-24"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-16T04:45:19Z",
+   "fetched_at": "2026-10-16T11:41:17Z",
    "ok": true,
    "items": [
     {
