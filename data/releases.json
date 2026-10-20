@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-19T22:30:28Z",
+ "generated_at": "2026-10-20T05:03:00Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、新たな価値をかつてない速さで生み出す「BluStellar Studio」をオープン",
+     "url": "https://jpn.nec.com/press/202610/20261020_01.html",
+     "date": "2026-10-20"
+    },
     {
      "title": "NECネクサソリューションズとマイクロニティ、自治体向け住民情報システムにおいて業務提携～自治体向け住民情報システム「COKAS-R for Gov-Cloud」で「srest」を活用したクラウドコスト最適化機能の実証提供を開始～[NECネクサソリューションズ]",
      "url": "https://www.nec-nexs.com/news/press/2026/1016.html",
@@ -61,11 +66,6 @@
      "title": "NEC、現場画像に小さく写る被害を高精度に把握し、新たな被災事象にも対応できるVLM技術を開発",
      "url": "https://jpn.nec.com/press/202610/20261014_01.html",
      "date": "2026-10-14"
-    },
-    {
-     "title": "日本車両とNEC、鉄道車両の設計の効率化とさらなる設計品質の向上、鉄道事業者の業務支援を実現するVRアプリケーションを共同開発",
-     "url": "https://jpn.nec.com/press/202610/20261013_01.html",
-     "date": "2026-10-13"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
+    {
+     "title": "JPXと日立、金融市場の取引システムにおいて、運用監視業務にAIを本格適用開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1020/",
+     "date": "2026-10-20"
+    },
     {
      "title": "日立グループがゴルフトーナメント｢Hitachi 3Tours Championship 2026｣に特別協賛",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1019a/",
@@ -95,11 +100,6 @@
      "title": "日立エナジーとアンサルド・エネルジア、発電から送配電までの包括的ソリューションの開発に向け覚書を締結",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016a/",
      "date": "2026-10-16"
-    },
-    {
-     "title": "日立エナジーと米・ロックウェル・オートメーション、電力とオートメーションを統合し、産業分野の電化加速に向け協業",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016/",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKセキュリティがK-SECと連携し、全国12高専の学生24名を対象に実践型「サイバーセキュリティ演習」を初実施 ～現役セキュリティアナリストが指導、高専生が攻撃者の視点に立ち、マルウェア感染に至る流れやWebアプリへの模擬攻撃を体験～（SCSKセキュリティ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261020g.html",
+     "date": "2026-10-20"
+    },
     {
      "title": "AIエージェント活用による企業変革を支援する「NebulaCore」をリリース",
      "url": "https://www.scsk.jp/news/2026/press/product/20261019.html",
@@ -177,11 +182,6 @@
      "title": "SCSK所属パラアスリート 保田 明日美、ワールドトライアスロンパラカップ（2026千葉）金メダル",
      "url": "https://www.scsk.jp/news/2026/info/20261016i.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "ステーブルコイン市場向け「統合品質保証基盤ソリューション」提供開始 ～暗号資産やブロックチェーン技術への品質保証実績を活かし、市場開拓～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20261016g.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -189,13 +189,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
     {
      "title": "複数銀行によるステーブルコイン共同発行およびクロスボーダー決済高度化に関する実証実験を実施",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261016_2.html",
-     "date": "2026-10-16"
+     "date": "2026-10-20"
     },
     {
      "title": "ゼンリングループ、沖縄都市モノレール、琉球銀行、TISIが連携 観光DXを推進し、地域交通の利用促進・観光周遊の活性化を目指す",
@@ -223,9 +223,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
+    {
+     "title": "アクセンチュアとGoogle Cloud、「アクセンチュア Gemini Enterprise ビジネスグループ」を新設し、パートナーシップをさらに強化",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
+     "date": "2026-10-20"
+    },
     {
      "title": "アクセンチュアとAnthropic、AIの安全性評価を担う「組み込み型評価者」専門チームのAnthropicでの社内設立に向け提携",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
@@ -245,11 +250,6 @@
      "title": "ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表",
      "url": "https://newsroom.accenture.jp/jp/news/2026/servicenow-and-accenture-launch-ai-powered-services-to-accelerate-the-shift-from-legacy-risk-platforms-to-agentic-ai",
      "date": "2026-08-04"
-    },
-    {
-     "title": "アクセンチュア、成長企業のAI活用と全社変革を支援する「Accenture Edge」を設立",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-launches-accenture-edge-to-help-mid-market-companies-harness-ai-and-reinvent-how-they-operate",
-     "date": "2026-07-03"
     }
    ]
   },
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
+    {
+     "title": "日東工業、日本IBMの支援のもと設備図面から分電盤見積情報を抽出する生成AIアプリを開発",
+     "url": "https://jp.newsroom.ibm.com/2026-10-20-NittoKogyo-Develops-GenAI-Application-to-Extract-Distribution-Board-Quotation-Information-with-Support-from-IBM-Japan",
+     "date": "2026-10-20"
+    },
     {
      "title": "CTCと日本IBM、IBM Bobを活用したAI駆動開発サービス「A-Native」で協業",
      "url": "https://jp.newsroom.ibm.com/2026-10-15-CTC-and-IBM-Japan-Collaborate-On-A-Native-by-IBM-Bob",
@@ -279,11 +284,6 @@
      "title": "IBM、企業のAI主権とガバナンス強化を支援するため、オンプレミスやソブリンクラウドなどの環境で運用可能な「IBM Bob」のセルフホステッド型を発表",
      "url": "https://jp.newsroom.ibm.com/2026-10-02-ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance",
      "date": "2026-10-02"
-    },
-    {
-     "title": "IBM、Swift連携とIBM Digital Asset Havenオンプレミス版により、デジタル決済インフラストラクチャーを拡充",
-     "url": "https://jp.newsroom.ibm.com/2026-09-28-ibm-expands-its-digital-banking-infrastructure-with-swift-integration-and-digital-asset-haven-on-prem",
-     "date": "2026-09-28"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-19T22:30:28Z",
+   "fetched_at": "2026-10-20T05:03:00Z",
    "ok": true,
    "items": [
     {
