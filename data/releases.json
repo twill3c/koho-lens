@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-20T21:45:18Z",
+ "generated_at": "2026-10-21T05:03:57Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021a/",
+     "date": "2026-10-21"
+    },
     {
      "title": "JPXと日立、金融市場の取引システムにおいて、運用監視業務にAIを本格適用開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1020/",
@@ -95,11 +100,6 @@
      "title": "日立エナジー、カナダで変圧器用絶縁材の製造能力強化に向け4億7,900万カナダドルを投資",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016b/",
      "date": "2026-10-16"
-    },
-    {
-     "title": "日立エナジーとアンサルド・エネルジア、発電から送配電までの包括的ソリューションの開発に向け覚書を締結",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016a/",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "COBOL PARK、約20問でレガシーシステムの 『5つの負債』を可視化する無償診断を提供開始 ～簡単な回答でレガシーシステムのリスクを可視化し、次の意思決定を支援～（COBOL PARK株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261021g.html",
+     "date": "2026-10-21"
+    },
+    {
+     "title": "SCSK、AWS AI コンピテンシー認定を取得～NebulaShiftを支える生成AIの専門性と顧客支援実績をAWSが認定～",
+     "url": "https://www.scsk.jp/news/2026/info/20261021i.html",
+     "date": "2026-10-21"
+    },
     {
      "title": "SCSKセキュリティがK-SECと連携し、全国12高専の学生24名を対象に実践型「サイバーセキュリティ演習」を初実施 ～現役セキュリティアナリストが指導、高専生が攻撃者の視点に立ち、マルウェア感染に至る流れやWebアプリへの模擬攻撃を体験～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261020g.html",
@@ -172,16 +182,6 @@
      "title": "従来のCOBOL技術者による保守を継続可能とするAI活用型のCOBOLモダナイゼーションソリューションを開発 ～業務ロジックを維持したCOBOL資産のオープン環境移行により、移行後の保守体制確保を支援～（COBOL PARK株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261019g_2.html",
      "date": "2026-10-19"
-    },
-    {
-     "title": "COBOL資産から基本設計書・詳細設計書を生成する ドキュメントリバースソリューションを開発 ～設計情報が不足したCOBOL資産を可視化し、保守開発の高度化と知識継承を支援～（COBOL PARK株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261019g.html",
-     "date": "2026-10-19"
-    },
-    {
-     "title": "SCSK所属パラアスリート 保田 明日美、ワールドトライアスロンパラカップ（2026千葉）金メダル",
-     "url": "https://www.scsk.jp/news/2026/info/20261016i.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "三島信用金庫、信用金庫として初めて金融機関向け電子契約サービス「FINCHUB」を採用",
+     "url": "https://digitalpr.jp/r/146416",
+     "date": "2026-10-21"
+    },
     {
      "title": "NSSOL、ロックウェル オートメーションのクラウド型MES「PLEX」の販売を開始 ～製造現場の見える化と業務標準化を実現し、短期間・低コストで工場DXを加速～",
      "url": "https://digitalpr.jp/r/145973",
@@ -313,11 +318,6 @@
      "title": "顧客ID管理プラットフォーム「Auth0」を活用したID基盤ソリューションの提供を開始 ～外部ユーザー向けサービスの認証基盤を統合し、ログイン時の利便性向上とセキュリティ強化を実現～",
      "url": "https://digitalpr.jp/r/144158",
      "date": "2026-09-24"
-    },
-    {
-     "title": "横浜FG向け「BM4Iサービスプラットフォーム」導入プロジェクトを開始 ～改正金融商品会計基準への対応に向け、予想信用損失の算定を支援～",
-     "url": "https://digitalpr.jp/r/143836",
-     "date": "2026-09-17"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-20T21:45:18Z",
+   "fetched_at": "2026-10-21T05:03:57Z",
    "ok": true,
    "items": [
     {
