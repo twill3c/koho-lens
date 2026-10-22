@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-10-22T05:05:55Z",
+ "generated_at": "2026-10-22T12:09:45Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、ミスミ様のECサイト向け商品情報管理にマルチAIエージェントを導入",
+     "url": "https://prtimes.jp/main/html/rd/p/000000625.000093942.html",
+     "date": "2026-10-22"
+    },
     {
      "title": "富士通、名古屋大学、JAMSTEC、NICTら、太陽高エネルギー粒子シミュレーションの精度を高めるパラメータを、数理最適化で自動決定する技術を開発",
      "url": "https://prtimes.jp/main/html/rd/p/000000624.000093942.html",
@@ -27,11 +32,6 @@
      "title": "通信・電力・計算資源を統合制御する「高度なワークロードシフトの実現に向けた社会実証」を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000619.000093942.html",
      "date": "2026-10-07"
-    },
-    {
-     "title": "富士通、店舗運営と経営判断を高度化する小売業向けAIエージェントのトライアル環境を提供開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000617.000093942.html",
-     "date": "2026-10-06"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、経口投与型の個別化ネオアンチゲン療法「NECVAX-NEO1」の第Ⅰ/Ⅱ相臨床試験における新たなデータをESMO Congress 2026で発表",
+     "url": "https://jpn.nec.com/press/202610/20261022_01.html",
+     "date": "2026-10-22"
+    },
     {
      "title": "NEC、新たな価値をかつてない速さで生み出す「BluStellar Studio」をオープン",
      "url": "https://jpn.nec.com/press/202610/20261020_01.html",
@@ -61,11 +66,6 @@
      "title": "NECネクサソリューションズ、印刷物の組版・編集業務の生産性向上と多様な紙面表現を支援する「SUPER DIGITORIAL/EW」を機能強化し販売開始[NECネクサソリューションズ]",
      "url": "https://www.nec-nexs.com/news/press/2026/1015.html",
      "date": "2026-10-15"
-    },
-    {
-     "title": "NEC、現場画像に小さく写る被害を高精度に把握し、新たな被災事象にも対応できるVLM技術を開発",
-     "url": "https://jpn.nec.com/press/202610/20261014_01.html",
-     "date": "2026-10-14"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -87,6 +87,11 @@
      "date": "2026-10-22"
     },
     {
+     "title": "日立エナジー、NVIDIA Omniverseライブラリを活用した電力系統シミュレーションを開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021b/",
+     "date": "2026-10-22"
+    },
+    {
      "title": "日立、次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021a/",
      "date": "2026-10-21"
@@ -95,11 +100,6 @@
      "title": "JPXと日立、金融市場の取引システムにおいて、運用監視業務にAIを本格適用開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1020/",
      "date": "2026-10-20"
-    },
-    {
-     "title": "日立グループがゴルフトーナメント｢Hitachi 3Tours Championship 2026｣に特別協賛",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1019a/",
-     "date": "2026-10-19"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-22T05:05:55Z",
+   "fetched_at": "2026-10-22T12:09:45Z",
    "ok": true,
    "items": [
     {
