@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-21T21:51:33Z",
+ "generated_at": "2026-10-22T05:05:55Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立ブランドの家電事業を担う新会社の商号を「KADENOVA(カデノヴァ)株式会社」に内定 [日立グローバルライフソリューションズ株式会社]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1022/",
+     "date": "2026-10-22"
+    },
+    {
+     "title": "日立とケーエスケー、医薬品配送DXの実証を完了、急な状況変化にも対応する「Hitachi Digital Solution for Logistics」の配送ルート自動編成機能を11月より展開",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1022a/",
+     "date": "2026-10-22"
+    },
     {
      "title": "日立、次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021a/",
@@ -90,16 +100,6 @@
      "title": "日立グループがゴルフトーナメント｢Hitachi 3Tours Championship 2026｣に特別協賛",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1019a/",
      "date": "2026-10-19"
-    },
-    {
-     "title": "AI需要を支える電源併設型グリーンデータセンター実現に向けた協業開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1019/",
-     "date": "2026-10-19"
-    },
-    {
-     "title": "日立エナジー、カナダで変圧器用絶縁材の製造能力強化に向け4億7,900万カナダドルを投資",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1016b/",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村総合研究所とNRIセキュア、AI駆動型サイバー攻撃への経営層の対応力強化を支援",
+     "url": "https://www.nri.com/jp/news/newsrelease/20261022_1.html",
+     "date": "2026-10-22"
+    },
     {
      "title": "NRIセキュアテクノロジーズを名乗る偽サイトへのご注意",
      "url": "https://www.nri.com/jp/news/info/20261016_1.html",
@@ -143,11 +148,6 @@
      "title": "野村総合研究所と日本経済新聞社、金融犯罪対策に向けたサービス連携に関する基本合意書を締結",
      "url": "https://www.nri.com/jp/news/info/20261002_1.html",
      "date": "2026-10-02"
-    },
-    {
-     "title": "NRIセキュア、欧州連合のサイバーセキュリティ規制「NIS2指令」への準拠支援サービスを提供開始",
-     "url": "https://www.nri.com/jp/news/newsrelease/20260929_1.html",
-     "date": "2026-09-29"
     }
    ]
   },
@@ -155,13 +155,18 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
     {
-     "title": "メンテナンスによるお問い合わせフォーム一部停止のご案内：2026年10月21日（水）23:00 ～ 10月22日（木）05:00",
-     "url": "https://www.scsk.jp/news/2026/info/maintenance20261021.html",
-     "date": "2026-10-21"
+     "title": "「統合報告書2026」発行のお知らせ",
+     "url": "https://www.scsk.jp/news/2026/info/20261022i.html",
+     "date": "2026-10-22"
+    },
+    {
+     "title": "国のガイドライン策定や業界活動に参画した経験・知見を集約し、サービス化 製造業向け「工場/OTセキュリティサービス」を提供開始 ～製造現場のサイバー攻撃リスクを侵入試験で可視化～（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261022g.html",
+     "date": "2026-10-22"
     },
     {
      "title": "COBOL PARK、約20問でレガシーシステムの 『5つの負債』を可視化する無償診断を提供開始 ～簡単な回答でレガシーシステムのリスクを可視化し、次の意思決定を支援～（COBOL PARK株式会社）",
@@ -177,11 +182,6 @@
      "title": "SCSKセキュリティがK-SECと連携し、全国12高専の学生24名を対象に実践型「サイバーセキュリティ演習」を初実施 ～現役セキュリティアナリストが指導、高専生が攻撃者の視点に立ち、マルウェア感染に至る流れやWebアプリへの模擬攻撃を体験～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261020g.html",
      "date": "2026-10-20"
-    },
-    {
-     "title": "AIエージェント活用による企業変革を支援する「NebulaCore」をリリース",
-     "url": "https://www.scsk.jp/news/2026/press/product/20261019.html",
-     "date": "2026-10-19"
     }
    ]
   },
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
+    {
+     "title": "岡三証券とTISIがJICAと実施した共同研究「ブロックチェーン技術を活用した資金調達に関する研究・実証実験」のレポートが公開",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261022_1.html",
+     "date": "2026-10-22"
+    },
     {
      "title": "複数銀行によるステーブルコイン共同発行およびクロスボーダー決済高度化に関する実証実験を実施",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261016_2.html",
@@ -211,11 +216,6 @@
      "title": "TISI、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260928_1.html",
      "date": "2026-09-28"
-    },
-    {
-     "title": "TISI、「Xenlon～神龍 モダナイゼーションサービス」にてAIで保守業務の効率化と属人化解消を支援する新サービスを提供開始",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260925_1.html",
-     "date": "2026-09-28"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM、2026年度第3四半期の連結決算を発表",
+     "url": "https://jp.newsroom.ibm.com/2026-10-22-IBM-RELEASES-THIRD-QUARTER-RESULTS",
+     "date": "2026-10-22"
+    },
     {
      "title": "日東工業、日本IBMの支援のもと設備図面から分電盤見積情報を抽出する生成AIアプリを開発",
      "url": "https://jp.newsroom.ibm.com/2026-10-20-NittoKogyo-Develops-GenAI-Application-to-Extract-Distribution-Board-Quotation-Information-with-Support-from-IBM-Japan",
@@ -279,11 +284,6 @@
      "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始",
      "url": "https://jp.newsroom.ibm.com/2026-10-07-NTT-DOCOMO-BUSINESS-and-IBM-Japan-Launch-Collaboration-in-AI-Governance",
      "date": "2026-10-07"
-    },
-    {
-     "title": "IBM、企業のAI主権とガバナンス強化を支援するため、オンプレミスやソブリンクラウドなどの環境で運用可能な「IBM Bob」のセルフホステッド型を発表",
-     "url": "https://jp.newsroom.ibm.com/2026-10-02-ibm-introduces-self-hosted-deployment-for-ibm-bob-to-help-enterprises-advance-ai-sovereignty-and-governance",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
+    {
+     "title": "群馬銀行と第四北越銀行、「BM4Iサービスプラットフォーム」を共通採用 ～経営統合を見据え、統合前から同一の標準基盤を採用し、統合準備と制度改正対応を並行して推進～",
+     "url": "https://digitalpr.jp/r/146419",
+     "date": "2026-10-22"
+    },
     {
      "title": "三島信用金庫、信用金庫として初めて金融機関向け電子契約サービス「FINCHUB」を採用",
      "url": "https://digitalpr.jp/r/146416",
@@ -313,11 +318,6 @@
      "title": "NSSOL、Anthropicと戦略的パートナーシップ契約を締結 ～日本の産業競争力の強化にむけて、AnthropicのAI技術とNSSOLの業務知見・システム構築力を融合～",
      "url": "https://digitalpr.jp/r/144423",
      "date": "2026-09-28"
-    },
-    {
-     "title": "顧客ID管理プラットフォーム「Auth0」を活用したID基盤ソリューションの提供を開始 ～外部ユーザー向けサービスの認証基盤を統合し、ログイン時の利便性向上とセキュリティ強化を実現～",
-     "url": "https://digitalpr.jp/r/144158",
-     "date": "2026-09-24"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-21T21:51:33Z",
+   "fetched_at": "2026-10-22T05:05:55Z",
    "ok": true,
    "items": [
     {
