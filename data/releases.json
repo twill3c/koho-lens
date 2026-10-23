@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-22T21:46:57Z",
+ "generated_at": "2026-10-23T05:05:33Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,19 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発",
+     "url": "https://jpn.nec.com/press/202610/20261023_02.html",
+     "date": "2026-10-23"
+    },
+    {
+     "title": "NEC、北おおさか信用金庫に「NEC APIサービス for しんきん」の金庫業務APIオプションを導入",
+     "url": "https://jpn.nec.com/press/202610/20261023_01.html",
+     "date": "2026-10-23"
+    },
     {
      "title": "NEC、経口投与型の個別化ネオアンチゲン療法「NECVAX-NEO1」の第Ⅰ/Ⅱ相臨床試験における新たなデータをESMO Congress 2026で発表",
      "url": "https://jpn.nec.com/press/202610/20261022_01.html",
@@ -56,16 +66,6 @@
      "title": "NECネクサソリューションズとマイクロニティ、自治体向け住民情報システムにおいて業務提携～自治体向け住民情報システム「COKAS-R for Gov-Cloud」で「srest」を活用したクラウドコスト最適化機能の実証提供を開始～[NECネクサソリューションズ]",
      "url": "https://www.nec-nexs.com/news/press/2026/1016.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "2026年度「C&C賞」受賞者の決定",
-     "url": "https://jpn.nec.com/press/202610/20261015_01.html",
-     "date": "2026-10-15"
-    },
-    {
-     "title": "NECネクサソリューションズ、印刷物の組版・編集業務の生産性向上と多様な紙面表現を支援する「SUPER DIGITORIAL/EW」を機能強化し販売開始[NECネクサソリューションズ]",
-     "url": "https://www.nec-nexs.com/news/press/2026/1015.html",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立製作所とＪＸ金属、日立工業専修学校における人財育成の連携を開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1023/",
+     "date": "2026-10-23"
+    },
     {
      "title": "日立ブランドの家電事業を担う新会社の商号を「KADENOVA(カデノヴァ)株式会社」に内定 [日立グローバルライフソリューションズ株式会社]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1022/",
@@ -95,11 +100,6 @@
      "title": "日立、次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021a/",
      "date": "2026-10-21"
-    },
-    {
-     "title": "JPXと日立、金融市場の取引システムにおいて、運用監視業務にAIを本格適用開始",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1020/",
-     "date": "2026-10-20"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKセキュリティがリスクと事業影響を整理し投資判断を明確化する「ゼロトラストアーキテクチャ設計サービス」を提供開始 ～攻撃者視点のリスク分析から将来アーキテクチャを設計、個別製品の導入に先立ち実行ロードマップ策定までを一貫支援～（SCSKセキュリティ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261023g.html",
+     "date": "2026-10-23"
+    },
+    {
+     "title": "AIと品質保証に精通したエンジニアが導入・定着を伴走支援 テスト設計エージェント「TESTRA」を正式提供開始 ～人とAIの協調により、テスト分析・設計工数を従来比60%削減～（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261023g_2.html",
+     "date": "2026-10-23"
+    },
     {
      "title": "「統合報告書2026」発行のお知らせ",
      "url": "https://www.scsk.jp/news/2026/info/20261022i.html",
@@ -172,16 +182,6 @@
      "title": "COBOL PARK、約20問でレガシーシステムの 『5つの負債』を可視化する無償診断を提供開始 ～簡単な回答でレガシーシステムのリスクを可視化し、次の意思決定を支援～（COBOL PARK株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261021g.html",
      "date": "2026-10-21"
-    },
-    {
-     "title": "SCSK、AWS AI コンピテンシー認定を取得～NebulaShiftを支える生成AIの専門性と顧客支援実績をAWSが認定～",
-     "url": "https://www.scsk.jp/news/2026/info/20261021i.html",
-     "date": "2026-10-21"
-    },
-    {
-     "title": "SCSKセキュリティがK-SECと連携し、全国12高専の学生24名を対象に実践型「サイバーセキュリティ演習」を初実施 ～現役セキュリティアナリストが指導、高専生が攻撃者の視点に立ち、マルウェア感染に至る流れやWebアプリへの模擬攻撃を体験～（SCSKセキュリティ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261020g.html",
-     "date": "2026-10-20"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBMおよびRed Hat、これまで発見されていなかった400件超のオープンソースの脆弱性を修正",
+     "url": "https://jp.newsroom.ibm.com/2026-10-23-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities",
+     "date": "2026-10-23"
+    },
     {
      "title": "IBM、2026年度第3四半期の連結決算を発表",
      "url": "https://jp.newsroom.ibm.com/2026-10-22-IBM-RELEASES-THIRD-QUARTER-RESULTS",
@@ -279,11 +284,6 @@
      "title": "IBM、DARPAの量子ベンチマーキング・イニシアチブのステージCに選定",
      "url": "https://jp.newsroom.ibm.com/2026-10-14-ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative",
      "date": "2026-10-14"
-    },
-    {
-     "title": "NTTドコモビジネスと日本IBM、AIガバナンス領域で協業を開始",
-     "url": "https://jp.newsroom.ibm.com/2026-10-07-NTT-DOCOMO-BUSINESS-and-IBM-Japan-Launch-Collaboration-in-AI-Governance",
-     "date": "2026-10-07"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-22T21:46:57Z",
+   "fetched_at": "2026-10-23T05:05:33Z",
    "ok": true,
    "items": [
     {
