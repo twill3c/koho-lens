@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-26T05:03:15Z",
+ "generated_at": "2026-10-26T13:21:38Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、AIを活用した迅速なワクチン開発パイプラインの構築を目指す「PREPAIR-VAC」プロジェクトに参画",
+     "url": "https://jpn.nec.com/press/202610/20261026_01.html",
+     "date": "2026-10-26"
+    },
     {
      "title": "NEC、VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発",
      "url": "https://jpn.nec.com/press/202610/20261023_02.html",
@@ -61,11 +66,6 @@
      "title": "NEC、新たな価値をかつてない速さで生み出す「BluStellar Studio」をオープン",
      "url": "https://jpn.nec.com/press/202610/20261020_01.html",
      "date": "2026-10-20"
-    },
-    {
-     "title": "NECネクサソリューションズとマイクロニティ、自治体向け住民情報システムにおいて業務提携～自治体向け住民情報システム「COKAS-R for Gov-Cloud」で「srest」を活用したクラウドコスト最適化機能の実証提供を開始～[NECネクサソリューションズ]",
-     "url": "https://www.nec-nexs.com/news/press/2026/1016.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-26T05:03:15Z",
+   "fetched_at": "2026-10-26T13:21:38Z",
    "ok": true,
    "items": [
     {
