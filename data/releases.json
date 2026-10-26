@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-25T21:00:08Z",
+ "generated_at": "2026-10-26T05:03:15Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、沖縄県中南部地域と和歌山県熊野地域で、旅行計画時の検討データを活用した観光DX推進に向けた実証を開始",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1026/",
+     "date": "2026-10-26"
+    },
+    {
+     "title": "職制改正・人事異動について [株式会社日立インダストリアルプロダクツ]",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1026a/",
+     "date": "2026-10-26"
+    },
     {
      "title": "日立製作所とＪＸ金属、日立工業専修学校における人財育成の連携を開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1023/",
@@ -90,16 +100,6 @@
      "title": "日立とケーエスケー、医薬品配送DXの実証を完了、急な状況変化にも対応する「Hitachi Digital Solution for Logistics」の配送ルート自動編成機能を11月より展開",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1022a/",
      "date": "2026-10-22"
-    },
-    {
-     "title": "日立エナジー、NVIDIA Omniverseライブラリを活用した電力系統シミュレーションを開発",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021b/",
-     "date": "2026-10-22"
-    },
-    {
-     "title": "日立、次世代AIデータセンターの電力消費量を低減するGPU冷却用コールドプレートを開発",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1021a/",
-     "date": "2026-10-21"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -121,9 +121,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村総合研究所の本人確認サービス「e-NINSHO」、「Android™ のマイナンバーカード」による本人確認に対応",
+     "url": "https://www.nri.com/jp/news/info/20261026_1.html",
+     "date": "2026-10-26"
+    },
     {
      "title": "野村総合研究所とNRIセキュア、AI駆動型サイバー攻撃への経営層の対応力強化を支援",
      "url": "https://www.nri.com/jp/news/newsrelease/20261022_1.html",
@@ -143,11 +148,6 @@
      "title": "野村総合研究所、「IDC FinTech Rankings」で10位にランクイン",
      "url": "https://www.nri.com/jp/news/info/20261007_1.html",
      "date": "2026-10-07"
-    },
-    {
-     "title": "野村総合研究所と日本経済新聞社、金融犯罪対策に向けたサービス連携に関する基本合意書を締結",
-     "url": "https://www.nri.com/jp/news/info/20261002_1.html",
-     "date": "2026-10-02"
     }
    ]
   },
@@ -155,9 +155,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKとInsight Edgeが、AWSジャパンのフィジカルAI開発支援プログラム最終成果発表会に登壇",
+     "url": "https://www.scsk.jp/news/2026/info/20261026i.html",
+     "date": "2026-10-26"
+    },
     {
      "title": "SCSKセキュリティがリスクと事業影響を整理し投資判断を明確化する「ゼロトラストアーキテクチャ設計サービス」を提供開始 ～攻撃者視点のリスク分析から将来アーキテクチャを設計、個別製品の導入に先立ち実行ロードマップ策定までを一貫支援～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261023g.html",
@@ -177,11 +182,6 @@
      "title": "国のガイドライン策定や業界活動に参画した経験・知見を集約し、サービス化 製造業向け「工場/OTセキュリティサービス」を提供開始 ～製造現場のサイバー攻撃リスクを侵入試験で可視化～（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261022g.html",
      "date": "2026-10-22"
-    },
-    {
-     "title": "COBOL PARK、約20問でレガシーシステムの 『5つの負債』を可視化する無償診断を提供開始 ～簡単な回答でレガシーシステムのリスクを可視化し、次の意思決定を支援～（COBOL PARK株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261021g.html",
-     "date": "2026-10-21"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-25T21:00:08Z",
+   "fetched_at": "2026-10-26T05:03:15Z",
    "ok": true,
    "items": [
     {
