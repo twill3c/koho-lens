@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-27T22:26:35Z",
+ "generated_at": "2026-10-28T05:58:12Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "クラウド・データ・AIを事業成果につなげるグローバルデジタルサービス企業「Hitachi Digital」が発足",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028c/",
+     "date": "2026-10-28"
+    },
     {
      "title": "日立エナジーとCelonis、AIを活用した業務変革に向けて協業を拡大",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1027/",
@@ -95,11 +100,6 @@
      "title": "日立製作所とＪＸ金属、日立工業専修学校における人財育成の連携を開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1023/",
      "date": "2026-10-23"
-    },
-    {
-     "title": "日立ブランドの家電事業を担う新会社の商号を「KADENOVA(カデノヴァ)株式会社」に内定 [日立グローバルライフソリューションズ株式会社]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1022/",
-     "date": "2026-10-22"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
     {
@@ -155,33 +155,33 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKセキュリティ、AIを活用した次世代SOCサービス「AI SOCサービス」を提供開始 ～自社環境で平均2分の一次分析、約95％のアラートを自動クローズ～（SCSKセキュリティ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261028g.html",
+     "date": "2026-10-28"
+    },
+    {
+     "title": "SCSK所属の前川 楓が、アジアパラ競技大会（2026/愛知・名古屋）でパラ陸上競技（女子T63クラス）走り幅跳び銀メダル・100m3位獲得",
+     "url": "https://www.scsk.jp/news/2026/info/20261028i.html",
+     "date": "2026-10-28"
+    },
+    {
+     "title": "SCSK所属の網本 麻里が、アジアパラ競技大会（2026/愛知・名古屋）で車いすバスケットボール女子 銀メダル獲得",
+     "url": "https://www.scsk.jp/news/2026/info/20261028i_2.html",
+     "date": "2026-10-28"
+    },
+    {
+     "title": "SCSK所属の齊藤 悠希が、アジアパラ競技大会（2026/愛知・名古屋）でブラインドフットボール 銀メダル獲得",
+     "url": "https://www.scsk.jp/news/2026/info/20261028i_3.html",
+     "date": "2026-10-28"
+    },
     {
      "title": "SCSK、au じぶん銀行「じぶん銀行アプリ」のリファクタリング対応を完了～Flutter を活用したアプリ基盤の刷新により、保守・開発効率とUI/UX 改善への対応力・スピードを向上～",
      "url": "https://www.scsk.jp/news/2026/press/product/20261027.html",
      "date": "2026-10-27"
-    },
-    {
-     "title": "SCSKとInsight Edgeが、AWSジャパンのフィジカルAI開発支援プログラム最終成果発表会に登壇",
-     "url": "https://www.scsk.jp/news/2026/info/20261026i.html",
-     "date": "2026-10-26"
-    },
-    {
-     "title": "SCSKセキュリティがリスクと事業影響を整理し投資判断を明確化する「ゼロトラストアーキテクチャ設計サービス」を提供開始 ～攻撃者視点のリスク分析から将来アーキテクチャを設計、個別製品の導入に先立ち実行ロードマップ策定までを一貫支援～（SCSKセキュリティ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261023g.html",
-     "date": "2026-10-23"
-    },
-    {
-     "title": "AIと品質保証に精通したエンジニアが導入・定着を伴走支援 テスト設計エージェント「TESTRA」を正式提供開始 ～人とAIの協調により、テスト分析・設計工数を従来比60%削減～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20261023g_2.html",
-     "date": "2026-10-23"
-    },
-    {
-     "title": "「統合報告書2026」発行のお知らせ",
-     "url": "https://www.scsk.jp/news/2026/info/20261022i.html",
-     "date": "2026-10-22"
     }
    ]
   },
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISインテックグループ新テレビCM「その願い、ほっとけない。最適なAI」篇が11月1日（日）より放映開始",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261028_1.html",
+     "date": "2026-10-28"
+    },
     {
      "title": "岡三証券とTISIがJICAと実施した共同研究「ブロックチェーン技術を活用した資金調達に関する研究・実証実験」のレポートが公開",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261022_1.html",
@@ -211,11 +216,6 @@
      "title": "TISIと竹富町観光協会、AI活用で観光案内のデジタル化を推進し、多言語対応サービスを沖縄県竹富町全域で運用開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20260929_1.html",
      "date": "2026-10-01"
-    },
-    {
-     "title": "TISI、生成AIでJR西日本のAPI開発プロセス高度化を支援し、鉄道・MaaS領域の業務効率化に寄与",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260928_1.html",
-     "date": "2026-09-28"
     }
    ]
   },
@@ -223,9 +223,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "村田製作所とアクセンチュア、AI・データを活用したモノづくり変革に向け戦略的パートナーシップを締結",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/murata-and-accenture-collaborate-to-reinvent-manufacturing-with-ai-and-data",
+     "date": "2026-10-28"
+    },
     {
      "title": "アクセンチュアとGoogle Cloud、「アクセンチュア Gemini Enterprise ビジネスグループ」を新設し、パートナーシップをさらに強化",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
@@ -245,11 +250,6 @@
      "title": "アクセンチュア、コムウェアの買収に合意",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-acquire-comware-to-strengthen-accenture-edge-and-accelerate-digital-core-reinvention-for-mid-market-companies-in-japan",
      "date": "2026-08-27"
-    },
-    {
-     "title": "ServiceNowとアクセンチュア、レガシーリスク管理基盤から、エージェント型AIを活用したリスク管理基盤への移行を加速する共同サービスを発表",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/servicenow-and-accenture-launch-ai-powered-services-to-accelerate-the-shift-from-legacy-risk-platforms-to-agentic-ai",
-     "date": "2026-08-04"
     }
    ]
   },
@@ -257,9 +257,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM、AIエージェントにアイデンティティーと制御を導入し、企業におけるフロンティアAIのセキュリティーを強化",
+     "url": "https://jp.newsroom.ibm.com/2026-10-28-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
+     "date": "2026-10-28"
+    },
     {
      "title": "IBMおよびRed Hat、これまで発見されていなかった400件超のオープンソースの脆弱性を修正",
      "url": "https://jp.newsroom.ibm.com/2026-10-23-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities",
@@ -279,11 +284,6 @@
      "title": "CTCと日本IBM、IBM Bobを活用したAI駆動開発サービス「A-Native」で協業",
      "url": "https://jp.newsroom.ibm.com/2026-10-15-CTC-and-IBM-Japan-Collaborate-On-A-Native-by-IBM-Bob",
      "date": "2026-10-15"
-    },
-    {
-     "title": "IBM、DARPAの量子ベンチマーキング・イニシアチブのステージCに選定",
-     "url": "https://jp.newsroom.ibm.com/2026-10-14-ibm-advances-to-stage-c-of-darpa-quantum-benchmarking-initiative",
-     "date": "2026-10-14"
     }
    ]
   },
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-27T22:26:35Z",
+   "fetched_at": "2026-10-28T05:58:12Z",
    "ok": true,
    "items": [
     {
@@ -346,7 +346,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-10-27"
+     "date": "2026-10-28"
     }
    ]
   }
