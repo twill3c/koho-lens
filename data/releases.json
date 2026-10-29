@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-28T22:43:26Z",
+ "generated_at": "2026-10-29T06:04:43Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "「変電設備状態管理システム」の機能追加について",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1029/",
+     "date": "2026-10-29"
+    },
     {
      "title": "2027年3月期 第2四半期 連結決算の概要",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028/",
@@ -95,11 +100,6 @@
      "title": "クラウド・データ・AIを事業成果につなげるグローバルデジタルサービス企業「Hitachi Digital」が発足",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028c/",
      "date": "2026-10-28"
-    },
-    {
-     "title": "日立エナジーとCelonis、AIを活用した業務変革に向けて協業を拡大",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1027/",
-     "date": "2026-10-27"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -189,9 +189,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、WelbyおよびWelbyヘルスケアソリューションズ、地域医療連携事業の拡大に向け業務提携",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261029_1.html",
+     "date": "2026-10-29"
+    },
     {
      "title": "TISインテックグループ新テレビCM「その願い、ほっとけない。最適なAI」篇が11月1日（日）より放映開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261028_1.html",
@@ -211,11 +216,6 @@
      "title": "ゼンリングループ、沖縄都市モノレール、琉球銀行、TISIが連携 観光DXを推進し、地域交通の利用促進・観光周遊の活性化を目指す",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261001_2.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "TISIと竹富町観光協会、AI活用で観光案内のデジタル化を推進し、多言語対応サービスを沖縄県竹富町全域で運用開始",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20260929_1.html",
-     "date": "2026-10-01"
     }
    ]
   },
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
     {
@@ -325,9 +325,14 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-28T22:43:26Z",
+   "fetched_at": "2026-10-29T06:04:43Z",
    "ok": true,
    "items": [
+    {
+     "title": "キヤノンITSが日本オペレーションズ・リサーチ学会「第46回事例研究賞」を受賞 20銀行・全国約3万台のATMへの現金装填計画を自動立案する数理技術が評価",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1029",
+     "date": "2026-10-29"
+    },
     {
      "title": "「SuperStream-NX Cloud」がSOC1 Type1およびSOC2 Type1保証報告書を受領 財務報告に係る内部統制とセキュリティ管理体制を第三者機関が評価",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1014",
@@ -337,11 +342,6 @@
      "title": "キヤノンITSとメディアフォース、EDIを起点としたシステム連携を共同支援 システム刷新やクラウド移行に伴うEDIデータ連携の課題解決を推進",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1013",
      "date": "2026-10-13"
-    },
-    {
-     "title": "契約書のリース該当性判定をAIで支援し2027年の新リース会計基準対応 キヤノンITSが「SuperStream-NX 固定資産管理」のオプションとして提供開始",
-     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-0930",
-     "date": "2026-09-30"
     },
     {
      "title": "2025年",
