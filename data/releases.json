@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T06:04:43Z",
+ "generated_at": "2026-10-29T13:24:49Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -108,7 +108,7 @@
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
    "fetched_at": "2026-10-29T06:04:43Z",
-   "ok": true,
+   "ok": false,
    "items": [
     {
      "title": "製品含有化学物質・資源循環情報プラットフォーム「CMP」のサービス提供を開始",
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "優先対応すべきソフトウェアの脆弱性を迅速に可視化 自社開発「SBOM.JP」、SSVCに準拠する新機能追加 ～企業・事業特性に応じたリスクを踏まえた効率的な脆弱性対応を支援～（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261029g.html",
+     "date": "2026-10-29"
+    },
+    {
+     "title": "ネットワンシステムズ、所沢市役所の全職員が利用する、全庁ネットワーク・統合仮想基盤を構築 ～グランドデザインから全面的に支援し、職員の利便性向上・災害対策の強化を実現。ネットワークの可観測性（オブザーバビリティ）技術も導入し、運用を高度化～（ネットワンシステムズ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261029g_2.html",
+     "date": "2026-10-29"
+    },
     {
      "title": "SCSKセキュリティ、AIを活用した次世代SOCサービス「AI SOCサービス」を提供開始 ～自社環境で平均2分の一次分析、約95％のアラートを自動クローズ～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261028g.html",
@@ -172,16 +182,6 @@
      "title": "SCSK所属の網本 麻里が、アジアパラ競技大会（2026/愛知・名古屋）で車いすバスケットボール女子 銀メダル獲得",
      "url": "https://www.scsk.jp/news/2026/info/20261028i_2.html",
      "date": "2026-10-28"
-    },
-    {
-     "title": "SCSK所属の齊藤 悠希が、アジアパラ競技大会（2026/愛知・名古屋）でブラインドフットボール 銀メダル獲得",
-     "url": "https://www.scsk.jp/news/2026/info/20261028i_3.html",
-     "date": "2026-10-28"
-    },
-    {
-     "title": "SCSK、au じぶん銀行「じぶん銀行アプリ」のリファクタリング対応を完了～Flutter を活用したアプリ基盤の刷新により、保守・開発効率とUI/UX 改善への対応力・スピードを向上～",
-     "url": "https://www.scsk.jp/news/2026/press/product/20261027.html",
-     "date": "2026-10-27"
     }
    ]
   },
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-29T06:04:43Z",
+   "fetched_at": "2026-10-29T13:24:49Z",
    "ok": true,
    "items": [
     {
