@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-10-30T06:05:40Z",
+ "generated_at": "2026-10-30T13:14:21Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、AIと専門家による迅速なインシデント調査と対応支援を組み合わせたサービスを提供開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000629.000093942.html",
+     "date": "2026-10-30"
+    },
     {
      "title": "富士通、企業のサイバー防衛能力の向上を支援するソリューションを提供",
      "url": "https://prtimes.jp/main/html/rd/p/000000628.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、名古屋大学、JAMSTEC、NICTら、太陽高エネルギー粒子シミュレーションの精度を高めるパラメータを、数理最適化で自動決定する技術を開発",
      "url": "https://prtimes.jp/main/html/rd/p/000000624.000093942.html",
      "date": "2026-10-21"
-    },
-    {
-     "title": "厚生労働省の電子カルテ標準仕様および認証制度に対応したクラウドネイティブ型電子カルテシステムの提供について",
-     "url": "https://prtimes.jp/main/html/rd/p/000000623.000093942.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -189,7 +189,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -223,9 +223,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
+    {
+     "title": "グローバルセキュリティエキスパートの完全子会社化に向けた公開買付けの開始を決定",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-launch-tender-offer-for-global-security-experts",
+     "date": "2026-10-30"
+    },
     {
      "title": "村田製作所とアクセンチュア、AI・データを活用したモノづくり変革に向け戦略的パートナーシップを締結",
      "url": "https://newsroom.accenture.jp/jp/news/2026/murata-and-accenture-collaborate-to-reinvent-manufacturing-with-ai-and-data",
@@ -245,11 +250,6 @@
      "title": "アクセンチュアとAnthropic、AIの安全性評価を担う「組み込み型評価者」専門チームのAnthropicでの社内設立に向け提携",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
      "date": "2026-10-05"
-    },
-    {
-     "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
-     "date": "2026-09-02"
     }
    ]
   },
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-30T06:05:40Z",
+   "fetched_at": "2026-10-30T13:14:21Z",
    "ok": true,
    "items": [
     {
