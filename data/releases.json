@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-29T22:52:38Z",
+ "generated_at": "2026-10-30T06:05:40Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
@@ -155,7 +155,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
@@ -189,9 +189,19 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISIと北海道中央バス、持続可能な観光サービスの実現に向け、AIを活用したモビリティ型音声ガイドを共同開発",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_2.html",
+     "date": "2026-10-30"
+    },
+    {
+     "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_1.html",
+     "date": "2026-10-30"
+    },
     {
      "title": "TISI、WelbyおよびWelbyヘルスケアソリューションズ、地域医療連携事業の拡大に向け業務提携",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261029_1.html",
@@ -206,16 +216,6 @@
      "title": "岡三証券とTISIがJICAと実施した共同研究「ブロックチェーン技術を活用した資金調達に関する研究・実証実験」のレポートが公開",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261022_1.html",
      "date": "2026-10-22"
-    },
-    {
-     "title": "複数銀行によるステーブルコイン共同発行およびクロスボーダー決済高度化に関する実証実験を実施",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20261016_2.html",
-     "date": "2026-10-20"
-    },
-    {
-     "title": "ゼンリングループ、沖縄都市モノレール、琉球銀行、TISIが連携 観光DXを推進し、地域交通の利用促進・観光周遊の活性化を目指す",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20261001_2.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -223,13 +223,18 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
      "title": "村田製作所とアクセンチュア、AI・データを活用したモノづくり変革に向け戦略的パートナーシップを締結",
      "url": "https://newsroom.accenture.jp/jp/news/2026/murata-and-accenture-collaborate-to-reinvent-manufacturing-with-ai-and-data",
      "date": "2026-10-28"
+    },
+    {
+     "title": "アクセンチュアとGoogle Cloud、ボルボ・カーズとともにソフトウエア開発を変革",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-google-cloud-transform-software-development-with-volvo-cars",
+     "date": "2026-10-30"
     },
     {
      "title": "アクセンチュアとGoogle Cloud、「アクセンチュア Gemini Enterprise ビジネスグループ」を新設し、パートナーシップをさらに強化",
@@ -245,11 +250,6 @@
      "title": "ラディソン ホテル グループとアクセンチュア、ChatGPT上で100か国1,000軒以上のホテルを検索できる新たな体験を提供開始",
      "url": "https://newsroom.accenture.jp/jp/news/2026/radisson-hotel-group-and-accenture-redefine-travel-discovery-on-chatgpt",
      "date": "2026-09-02"
-    },
-    {
-     "title": "アクセンチュア、コムウェアの買収に合意",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-acquire-comware-to-strengthen-accenture-edge-and-accelerate-digital-core-reinvention-for-mid-market-companies-in-japan",
-     "date": "2026-08-27"
     }
    ]
   },
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
@@ -291,9 +291,14 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
+    {
+     "title": "株式会社HelpfeelとAI時代のCX変革に向けた戦略的アライアンスで基本合意〜ナレッジをAI-Ready化して基幹システムとつなぎ、AIエージェントが申込・解約などの手続きまで完了する顧客対応へ〜",
+     "url": "https://digitalpr.jp/r/147252",
+     "date": "2026-10-30"
+    },
     {
      "title": "群馬銀行と第四北越銀行、「BM4Iサービスプラットフォーム」を共通採用 ～経営統合を見据え、統合前から同一の標準基盤を採用し、統合準備と制度改正対応を並行して推進～",
      "url": "https://digitalpr.jp/r/146419",
@@ -313,11 +318,6 @@
      "title": "BoxとDatabricksの連携により、企業データを横断的に活用するAIソリューションを提供開始 ～企業文書に蓄積された知見と業務データを結び付け、情報資産の価値を引き出す～",
      "url": "https://digitalpr.jp/r/144805",
      "date": "2026-10-01"
-    },
-    {
-     "title": "NSSOL、Anthropicと戦略的パートナーシップ契約を締結 ～日本の産業競争力の強化にむけて、AnthropicのAI技術とNSSOLの業務知見・システム構築力を融合～",
-     "url": "https://digitalpr.jp/r/144423",
-     "date": "2026-09-28"
     }
    ]
   },
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-10-29T22:52:38Z",
+   "fetched_at": "2026-10-30T06:05:40Z",
    "ok": true,
    "items": [
     {
