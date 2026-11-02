@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-01T22:13:27Z",
+ "generated_at": "2026-11-02T06:30:11Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
+    {
+     "title": "家電業界全体の外装汚破損基準の明確化・標準化とAIを活用した外装汚破損判定実現による持ち戻り削減に向けた実証実験を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000630.000093942.html",
+     "date": "2026-11-02"
+    },
     {
      "title": "富士通、AIと専門家による迅速なインシデント調査と対応支援を組み合わせたサービスを提供開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000629.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、ミスミ様のECサイト向け商品情報管理にマルチAIエージェントを導入",
      "url": "https://prtimes.jp/main/html/rd/p/000000625.000093942.html",
      "date": "2026-10-22"
-    },
-    {
-     "title": "富士通、名古屋大学、JAMSTEC、NICTら、太陽高エネルギー粒子シミュレーションの精度を高めるパラメータを、数理最適化で自動決定する技術を開発",
-     "url": "https://prtimes.jp/main/html/rd/p/000000624.000093942.html",
-     "date": "2026-10-21"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -121,7 +121,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -155,9 +155,24 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
+    {
+     "title": "2027年3月期 第2四半期決算を発表",
+     "url": "https://www.scsk.jp/news/2026/info/20261102i.html",
+     "date": "2026-11-02"
+    },
+    {
+     "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 ～住友商事グループのケーパビリティを集結しSDV車両の一括開発に対応～",
+     "url": "https://www.scsk.jp/news/2026/press/product/20261102_2.html",
+     "date": "2026-11-02"
+    },
+    {
+     "title": "人事異動に関するお知らせ",
+     "url": "https://www.scsk.jp/news/2026/press/management/20261102.html",
+     "date": "2026-11-02"
+    },
     {
      "title": "優先対応すべきソフトウェアの脆弱性を迅速に可視化 自社開発「SBOM.JP」、SSVCに準拠する新機能追加 ～企業・事業特性に応じたリスクを踏まえた効率的な脆弱性対応を支援～（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261029g.html",
@@ -167,21 +182,6 @@
      "title": "ネットワンシステムズ、所沢市役所の全職員が利用する、全庁ネットワーク・統合仮想基盤を構築 ～グランドデザインから全面的に支援し、職員の利便性向上・災害対策の強化を実現。ネットワークの可観測性（オブザーバビリティ）技術も導入し、運用を高度化～（ネットワンシステムズ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261029g_2.html",
      "date": "2026-10-29"
-    },
-    {
-     "title": "SCSKセキュリティ、AIを活用した次世代SOCサービス「AI SOCサービス」を提供開始 ～自社環境で平均2分の一次分析、約95％のアラートを自動クローズ～（SCSKセキュリティ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261028g.html",
-     "date": "2026-10-28"
-    },
-    {
-     "title": "SCSK所属の前川 楓が、アジアパラ競技大会（2026/愛知・名古屋）でパラ陸上競技（女子T63クラス）走り幅跳び銀メダル・100m3位獲得",
-     "url": "https://www.scsk.jp/news/2026/info/20261028i.html",
-     "date": "2026-10-28"
-    },
-    {
-     "title": "SCSK所属の網本 麻里が、アジアパラ競技大会（2026/愛知・名古屋）で車いすバスケットボール女子 銀メダル獲得",
-     "url": "https://www.scsk.jp/news/2026/info/20261028i_2.html",
-     "date": "2026-10-28"
     }
    ]
   },
@@ -189,13 +189,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
      "title": "TISIと北海道中央バス、持続可能な観光サービスの実現に向け、AIを活用したモビリティ型音声ガイドを共同開発",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_2.html",
-     "date": "2026-10-30"
+     "date": "2026-11-02"
     },
     {
      "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
@@ -223,7 +223,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -257,7 +257,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -291,7 +291,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
@@ -325,7 +325,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-01T22:13:27Z",
+   "fetched_at": "2026-11-02T06:30:11Z",
    "ok": true,
    "items": [
     {
