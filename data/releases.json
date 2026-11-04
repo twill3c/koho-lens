@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-03T19:39:43Z",
+ "generated_at": "2026-11-04T06:45:04Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "自己株式の取得状況に関するお知らせ",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1104/",
+     "date": "2026-11-04"
+    },
+    {
+     "title": "【日立市と日立製作所による共創プロジェクト】未来の暮らしを体験し市民との対話を生み出すメタバース「未来のまちヒタチ」を公開",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1104a/",
+     "date": "2026-11-04"
+    },
     {
      "title": "Hitachi Energy Investor Day",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1103/",
@@ -90,16 +100,6 @@
      "title": "2027年3月期 第2四半期 連結決算の概要",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028/",
      "date": "2026-10-28"
-    },
-    {
-     "title": "剰余金の配当(中間配当)に関するお知らせ",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028a/",
-     "date": "2026-10-28"
-    },
-    {
-     "title": "役員向け株式報酬制度に係る「役員報酬BIP信託」の導入に関するお知らせ",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028b/",
-     "date": "2026-10-28"
     }
    ]
   },
@@ -107,9 +107,14 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "2026年度 第2四半期決算について",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/110400",
+     "date": "2026-11-04"
+    },
     {
      "title": "STdirectServicesのサービス停止についてのお知らせ（第2報）",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/110200",
@@ -126,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -160,9 +165,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
+    {
+     "title": "量子コンピューティングの社会実装を見据え東京都市大学とソフトウェア品質保証技術の研究開発を開始 ～第一弾としてQuemixの協力を得て、テストケースの生成を量子コンピュータの実機で検証～（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261104g.html",
+     "date": "2026-11-04"
+    },
     {
      "title": "2027年3月期 第2四半期決算を発表",
      "url": "https://www.scsk.jp/news/2026/info/20261102i.html",
@@ -182,11 +192,6 @@
      "title": "優先対応すべきソフトウェアの脆弱性を迅速に可視化 自社開発「SBOM.JP」、SSVCに準拠する新機能追加 ～企業・事業特性に応じたリスクを踏まえた効率的な脆弱性対応を支援～（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261029g.html",
      "date": "2026-10-29"
-    },
-    {
-     "title": "ネットワンシステムズ、所沢市役所の全職員が利用する、全庁ネットワーク・統合仮想基盤を構築 ～グランドデザインから全面的に支援し、職員の利便性向上・災害対策の強化を実現。ネットワークの可観測性（オブザーバビリティ）技術も導入し、運用を高度化～（ネットワンシステムズ株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261029g_2.html",
-     "date": "2026-10-29"
     }
    ]
   },
@@ -194,13 +199,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
      "title": "TISIと北海道中央バス、持続可能な観光サービスの実現に向け、AIを活用したモビリティ型音声ガイドを共同開発",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_2.html",
-     "date": "2026-11-02"
+     "date": "2026-11-04"
     },
     {
      "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
@@ -228,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -262,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -296,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -330,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-03T19:39:43Z",
+   "fetched_at": "2026-11-04T06:45:04Z",
    "ok": true,
    "items": [
     {
@@ -351,7 +356,7 @@
     {
      "title": "2025年",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2025",
-     "date": "2026-10-28"
+     "date": "2026-11-04"
     }
    ]
   }
