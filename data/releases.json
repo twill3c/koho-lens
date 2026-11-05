@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-04T19:55:25Z",
+ "generated_at": "2026-11-05T07:05:21Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通のシンガポール共和国／次世代デジタルインフラ事業体制構築に向けた調査事業が、経済産業省の「令和7年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択",
+     "url": "https://prtimes.jp/main/html/rd/p/000000634.000093942.html",
+     "date": "2026-11-05"
+    },
     {
      "title": "COP31で気候変動への取り組みを支えるテクノロジーとオファリングを紹介",
      "url": "https://prtimes.jp/main/html/rd/p/000000633.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、企業のサイバー防衛能力の向上を支援するソリューションを提供",
      "url": "https://prtimes.jp/main/html/rd/p/000000628.000093942.html",
      "date": "2026-10-27"
-    },
-    {
-     "title": "富士通、ドローン配送に関する社会受容性の研究成果を起点に、次世代ロジスティクスの社会実装を加速",
-     "url": "https://prtimes.jp/main/html/rd/p/000000627.000093942.html",
-     "date": "2026-10-27"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、機密情報を保護しながらAIのトークンコスト最適化を実現する「cotomi Gateway」を提供開始",
+     "url": "https://jpn.nec.com/press/202611/20261105_01.html",
+     "date": "2026-11-05"
+    },
     {
      "title": "2027年3月期 第2四半期(中間期)決算短信[IFRS](連結)",
      "url": "https://jpn.nec.com/press/202610/20261028_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、北おおさか信用金庫に「NEC APIサービス for しんきん」の金庫業務APIオプションを導入",
      "url": "https://jpn.nec.com/press/202610/20261023_01.html",
      "date": "2026-10-23"
-    },
-    {
-     "title": "NEC、経口投与型の個別化ネオアンチゲン療法「NECVAX-NEO1」の第Ⅰ/Ⅱ相臨床試験における新たなデータをESMO Congress 2026で発表",
-     "url": "https://jpn.nec.com/press/202610/20261022_01.html",
-     "date": "2026-10-22"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立エナジー、ARC MarketMapの企業資産管理分野で「リーダー」に認定",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1105/",
+     "date": "2026-11-05"
+    },
     {
      "title": "自己株式の取得状況に関するお知らせ",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1104/",
@@ -95,11 +100,6 @@
      "title": "「変電設備状態管理システム」の機能追加について",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1029/",
      "date": "2026-10-29"
-    },
-    {
-     "title": "2027年3月期 第2四半期 連結決算の概要",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/10/1028/",
-     "date": "2026-10-28"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
@@ -199,9 +199,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
+    {
+     "title": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261105_1.html",
+     "date": "2026-11-05"
+    },
     {
      "title": "TISIと北海道中央バス、持続可能な観光サービスの実現に向け、AIを活用したモビリティ型音声ガイドを共同開発",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_2.html",
@@ -221,11 +226,6 @@
      "title": "TISインテックグループ新テレビCM「その願い、ほっとけない。最適なAI」篇が11月1日（日）より放映開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261028_1.html",
      "date": "2026-10-28"
-    },
-    {
-     "title": "岡三証券とTISIがJICAと実施した共同研究「ブロックチェーン技術を活用した資金調達に関する研究・実証実験」のレポートが公開",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20261022_1.html",
-     "date": "2026-10-22"
     }
    ]
   },
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-04T19:55:25Z",
+   "fetched_at": "2026-11-05T07:05:21Z",
    "ok": true,
    "items": [
     {
