@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-05T20:08:50Z",
+ "generated_at": "2026-11-06T07:04:50Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、大阪市と介護予防等の推進で連携",
+     "url": "https://jpn.nec.com/press/202611/20261106_01.html",
+     "date": "2026-11-06"
+    },
     {
      "title": "NEC、機密情報を保護しながらAIのトークンコスト最適化を実現する「cotomi Gateway」を提供開始",
      "url": "https://jpn.nec.com/press/202611/20261105_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発",
      "url": "https://jpn.nec.com/press/202610/20261023_02.html",
      "date": "2026-10-23"
-    },
-    {
-     "title": "NEC、北おおさか信用金庫に「NEC APIサービス for しんきん」の金庫業務APIオプションを導入",
-     "url": "https://jpn.nec.com/press/202610/20261023_01.html",
-     "date": "2026-10-23"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -199,9 +199,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、顔映像から心拍数などのバイタルデータを測定可能なAI 技術を有する FaceHeart に出資",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261106_1.html",
+     "date": "2026-11-06"
+    },
     {
      "title": "ナッジとTISI、「クレカ as a Service （略称：CCaaS）」を活用したカード事業における協業を開始し、地域金融機関向けに専用メニューを提供",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261105_1.html",
@@ -221,11 +226,6 @@
      "title": "TISI、WelbyおよびWelbyヘルスケアソリューションズ、地域医療連携事業の拡大に向け業務提携",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261029_1.html",
      "date": "2026-10-29"
-    },
-    {
-     "title": "TISインテックグループ新テレビCM「その願い、ほっとけない。最適なAI」篇が11月1日（日）より放映開始",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20261028_1.html",
-     "date": "2026-10-28"
     }
    ]
   },
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-05T20:08:50Z",
+   "fetched_at": "2026-11-06T07:04:50Z",
    "ok": true,
    "items": [
     {
