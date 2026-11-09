@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-09T06:55:54Z",
+ "generated_at": "2026-11-09T22:33:51Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
+    {
+     "title": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
+     "url": "https://jpn.nec.com/press/202611/20261109_01.html",
+     "date": "2026-11-09"
+    },
     {
      "title": "NEC、大阪市と介護予防等の推進で連携",
      "url": "https://jpn.nec.com/press/202611/20261106_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、AIを活用した迅速なワクチン開発パイプラインの構築を目指す「PREPAIR-VAC」プロジェクトに参画",
      "url": "https://jpn.nec.com/press/202610/20261026_01.html",
      "date": "2026-10-26"
-    },
-    {
-     "title": "NEC、VLMでライブカメラ映像から現場状況をスコア化し、災害予兆を早期に発見できるAIを新たに開発",
-     "url": "https://jpn.nec.com/press/202610/20261023_02.html",
-     "date": "2026-10-23"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -136,7 +136,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -170,9 +170,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
+    {
+     "title": "TSUBASAアライアンス共同施策におけるFIDO認証導入・基盤構築を支援 ～共同認証基盤と連携し、安心・安全な金融取引を実現～",
+     "url": "https://www.scsk.jp/news/2026/press/product/20261109.html",
+     "date": "2026-11-09"
+    },
     {
      "title": "量子コンピューティングの社会実装を見据え東京都市大学とソフトウェア品質保証技術の研究開発を開始 ～第一弾としてQuemixの協力を得て、テストケースの生成を量子コンピュータの実機で検証～（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261104g.html",
@@ -192,11 +197,6 @@
      "title": "人事異動に関するお知らせ",
      "url": "https://www.scsk.jp/news/2026/press/management/20261102.html",
      "date": "2026-11-02"
-    },
-    {
-     "title": "優先対応すべきソフトウェアの脆弱性を迅速に可視化 自社開発「SBOM.JP」、SSVCに準拠する新機能追加 ～企業・事業特性に応じたリスクを踏まえた効率的な脆弱性対応を支援～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20261029g.html",
-     "date": "2026-10-29"
     }
    ]
   },
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-09T06:55:54Z",
+   "fetched_at": "2026-11-09T22:33:51Z",
    "ok": true,
    "items": [
     {
