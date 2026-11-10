@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-09T22:33:51Z",
+ "generated_at": "2026-11-10T07:32:47Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -136,7 +136,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -170,9 +170,24 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSK社員が「2026 OCI Top Partner Engineers」を2年連続で受賞",
+     "url": "https://www.scsk.jp/news/2026/info/20261110i.html",
+     "date": "2026-11-10"
+    },
+    {
+     "title": "SCSK Consulting、AIを前提に企業の業務・組織・意思決定を再設計するエンタープライズAI戦略「AI-EVOLVA」を発表 ～ECM・経営管理領域の具体的な改革アプローチを公開。構想から実行・定着まで、製造業の企業価値向上を支援～（SCSK Consulting株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261110g.html",
+     "date": "2026-11-10"
+    },
+    {
+     "title": "「SCSKグループ札幌センター」開所について～グループ総合力を結集し、北海道における新たな価値の創出へ～",
+     "url": "https://www.scsk.jp/news/2026/press/management/20261110.html",
+     "date": "2026-11-10"
+    },
     {
      "title": "TSUBASAアライアンス共同施策におけるFIDO認証導入・基盤構築を支援 ～共同認証基盤と連携し、安心・安全な金融取引を実現～",
      "url": "https://www.scsk.jp/news/2026/press/product/20261109.html",
@@ -182,21 +197,6 @@
      "title": "量子コンピューティングの社会実装を見据え東京都市大学とソフトウェア品質保証技術の研究開発を開始 ～第一弾としてQuemixの協力を得て、テストケースの生成を量子コンピュータの実機で検証～（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261104g.html",
      "date": "2026-11-04"
-    },
-    {
-     "title": "2027年3月期 第2四半期決算を発表",
-     "url": "https://www.scsk.jp/news/2026/info/20261102i.html",
-     "date": "2026-11-02"
-    },
-    {
-     "title": "住友商事とSCSK、SDVデジタルエンジニアリングサービスの提供を開始 ～住友商事グループのケーパビリティを集結しSDV車両の一括開発に対応～",
-     "url": "https://www.scsk.jp/news/2026/press/product/20261102_2.html",
-     "date": "2026-11-02"
-    },
-    {
-     "title": "人事異動に関するお知らせ",
-     "url": "https://www.scsk.jp/news/2026/press/management/20261102.html",
-     "date": "2026-11-02"
     }
    ]
   },
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-09T22:33:51Z",
+   "fetched_at": "2026-11-10T07:32:47Z",
    "ok": true,
    "items": [
     {
