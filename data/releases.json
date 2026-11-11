@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-10T19:52:51Z",
+ "generated_at": "2026-11-11T06:50:19Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,19 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、日本企業初、重要なOSSの脆弱性に業界横断で取り組むプロジェクト「Akrites」に参画",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1111/",
+     "date": "2026-11-11"
+    },
+    {
+     "title": "日立エナジー、HVDCなどを活用した国際連系によるエネルギー転換の加速に向けて、連携強化を提言",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1111a/",
+     "date": "2026-11-11"
+    },
     {
      "title": "戦略的な調達・サプライチェーンマネジメントへの転換を加速する「TWX-21 調達AIサービス」をHMAX Industryとして提供開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1109/",
@@ -90,16 +100,6 @@
      "title": "自己株式の取得状況に関するお知らせ",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1104/",
      "date": "2026-11-04"
-    },
-    {
-     "title": "【日立市と日立製作所による共創プロジェクト】未来の暮らしを体験し市民との対話を生み出すメタバース「未来のまちヒタチ」を公開",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1104a/",
-     "date": "2026-11-04"
-    },
-    {
-     "title": "Hitachi Energy Investor Day",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1103/",
-     "date": "2026-11-03"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -136,9 +136,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村総合研究所、保険業務向けAI開発フレームワーク「AIsure/CORE」を提供開始",
+     "url": "https://www.nri.com/jp/news/newsrelease/20261111_1.html",
+     "date": "2026-11-11"
+    },
     {
      "title": "野村総合研究所の本人確認サービス「e-NINSHO」、「Android™ のマイナンバーカード」による本人確認に対応",
      "url": "https://www.nri.com/jp/news/info/20261026_1.html",
@@ -158,11 +163,6 @@
      "title": "NRIセキュア、AI駆動開発のセキュリティ対策を支援するサービスを提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20261015_1.html",
      "date": "2026-10-15"
-    },
-    {
-     "title": "野村総合研究所、「IDC FinTech Rankings」で10位にランクイン",
-     "url": "https://www.nri.com/jp/news/info/20261007_1.html",
-     "date": "2026-10-07"
     }
    ]
   },
@@ -170,7 +170,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-10T19:52:51Z",
+   "fetched_at": "2026-11-11T06:50:19Z",
    "ok": true,
    "items": [
     {
