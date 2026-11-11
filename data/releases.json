@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-11T06:50:19Z",
+ "generated_at": "2026-11-11T19:44:56Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -136,9 +136,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
+    {
+     "title": "残業減による収入減を理由に「もっと働きたい」正社員は14.2%、労働時間の上限規制緩和による労働供給拡大効果は限定的",
+     "url": "https://www.nri.com/jp/news/newsrelease/20261111_2.html",
+     "date": "2026-11-11"
+    },
     {
      "title": "野村総合研究所、保険業務向けAI開発フレームワーク「AIsure/CORE」を提供開始",
      "url": "https://www.nri.com/jp/news/newsrelease/20261111_1.html",
@@ -158,11 +163,6 @@
      "title": "NRIセキュアテクノロジーズを名乗る偽サイトへのご注意",
      "url": "https://www.nri.com/jp/news/info/20261016_1.html",
      "date": "2026-10-16"
-    },
-    {
-     "title": "NRIセキュア、AI駆動開発のセキュリティ対策を支援するサービスを提供開始",
-     "url": "https://www.nri.com/jp/news/newsrelease/20261015_1.html",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -170,7 +170,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -272,9 +272,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM Quantum Nighthawkプロセッサーが速度と品質の新たな水準を実証、2027年には1,000量子ビット超への拡張を計画",
+     "url": "https://jp.newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
+     "date": "2026-11-11"
+    },
     {
      "title": "IBM、AIエージェントにアイデンティティーと制御を導入し、企業におけるフロンティアAIのセキュリティーを強化",
      "url": "https://jp.newsroom.ibm.com/2026-10-28-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
@@ -294,11 +299,6 @@
      "title": "日東工業、日本IBMの支援のもと設備図面から分電盤見積情報を抽出する生成AIアプリを開発",
      "url": "https://jp.newsroom.ibm.com/2026-10-20-NittoKogyo-Develops-GenAI-Application-to-Extract-Distribution-Board-Quotation-Information-with-Support-from-IBM-Japan",
      "date": "2026-10-20"
-    },
-    {
-     "title": "CTCと日本IBM、IBM Bobを活用したAI駆動開発サービス「A-Native」で協業",
-     "url": "https://jp.newsroom.ibm.com/2026-10-15-CTC-and-IBM-Japan-Collaborate-On-A-Native-by-IBM-Bob",
-     "date": "2026-10-15"
     }
    ]
   },
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-11T06:50:19Z",
+   "fetched_at": "2026-11-11T19:44:56Z",
    "ok": true,
    "items": [
     {
