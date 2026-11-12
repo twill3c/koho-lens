@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-11T19:44:56Z",
+ "generated_at": "2026-11-12T07:27:45Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "自己株式の公開買付け開始に関するお知らせ",
+     "url": "https://jpn.nec.com/press/202611/20261112_01.html",
+     "date": "2026-11-12"
+    },
     {
      "title": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
      "url": "https://jpn.nec.com/press/202611/20261109_01.html",
@@ -61,11 +66,6 @@
      "title": "2027年3月期 第2四半期(中間期)決算短信[IFRS](連結)",
      "url": "https://jpn.nec.com/press/202610/20261028_01.html",
      "date": "2026-10-28"
-    },
-    {
-     "title": "NEC、AIを活用した迅速なワクチン開発パイプラインの構築を目指す「PREPAIR-VAC」プロジェクトに参画",
-     "url": "https://jpn.nec.com/press/202610/20261026_01.html",
-     "date": "2026-10-26"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立エナジー、2026年IDC MarketScapeの高度配電管理システム分野で「リーダー」に選出",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1112/",
+     "date": "2026-11-12"
+    },
     {
      "title": "日立、日本企業初、重要なOSSの脆弱性に業界横断で取り組むプロジェクト「Akrites」に参画",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1111/",
@@ -95,11 +100,6 @@
      "title": "日立エナジー、ARC MarketMapの企業資産管理分野で「リーダー」に認定",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1105/",
      "date": "2026-11-05"
-    },
-    {
-     "title": "自己株式の取得状況に関するお知らせ",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1104/",
-     "date": "2026-11-04"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
     {
@@ -136,9 +136,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村総合研究所、IR優良企業賞2026において「IR優良企業大賞」を受賞",
+     "url": "https://www.nri.com/jp/news/info/20261112_1.html",
+     "date": "2026-11-12"
+    },
     {
      "title": "残業減による収入減を理由に「もっと働きたい」正社員は14.2%、労働時間の上限規制緩和による労働供給拡大効果は限定的",
      "url": "https://www.nri.com/jp/news/newsrelease/20261111_2.html",
@@ -158,11 +163,6 @@
      "title": "野村総合研究所とNRIセキュア、AI駆動型サイバー攻撃への経営層の対応力強化を支援",
      "url": "https://www.nri.com/jp/news/newsrelease/20261022_1.html",
      "date": "2026-10-22"
-    },
-    {
-     "title": "NRIセキュアテクノロジーズを名乗る偽サイトへのご注意",
-     "url": "https://www.nri.com/jp/news/info/20261016_1.html",
-     "date": "2026-10-16"
     }
    ]
   },
@@ -170,9 +170,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "「マネーフォワード クラウド会計Plus」と「CO×COカルテ」がAPI連携 ～会計データとのシームレスな連携により、CO2排出量算定の効率化を実現～",
+     "url": "https://www.scsk.jp/news/2026/info/20261112i.html",
+     "date": "2026-11-12"
+    },
+    {
+     "title": "フロンティアAI時代のサイバー攻撃に、脆弱性対応から復旧体制整備まで一貫支援「サイバーセキュリティ強化ソリューション」を提供開始（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261112g.html",
+     "date": "2026-11-12"
+    },
     {
      "title": "SCSK社員が「2026 OCI Top Partner Engineers」を2年連続で受賞",
      "url": "https://www.scsk.jp/news/2026/info/20261110i.html",
@@ -187,16 +197,6 @@
      "title": "「SCSKグループ札幌センター」開所について～グループ総合力を結集し、北海道における新たな価値の創出へ～",
      "url": "https://www.scsk.jp/news/2026/press/management/20261110.html",
      "date": "2026-11-10"
-    },
-    {
-     "title": "TSUBASAアライアンス共同施策におけるFIDO認証導入・基盤構築を支援 ～共同認証基盤と連携し、安心・安全な金融取引を実現～",
-     "url": "https://www.scsk.jp/news/2026/press/product/20261109.html",
-     "date": "2026-11-09"
-    },
-    {
-     "title": "量子コンピューティングの社会実装を見据え東京都市大学とソフトウェア品質保証技術の研究開発を開始 ～第一弾としてQuemixの協力を得て、テストケースの生成を量子コンピュータの実機で検証～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20261104g.html",
-     "date": "2026-11-04"
     }
    ]
   },
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
     {
@@ -272,9 +272,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "日本IBM、AIを活用してSAP® Cloud ERP（SAP S/4HANA® Cloud Public Edition）への移行を支援する導入サービスを提供開始",
+     "url": "https://jp.newsroom.ibm.com/2026-11-12-IBM-Japan-Launches-Implementation-Services-to-Support-Migration-to-SAP-Cloud-ERP-SAP-S4HANA-Cloud-Public-Edition-Using-AI",
+     "date": "2026-11-12"
+    },
     {
      "title": "IBM Quantum Nighthawkプロセッサーが速度と品質の新たな水準を実証、2027年には1,000量子ビット超への拡張を計画",
      "url": "https://jp.newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
@@ -294,11 +299,6 @@
      "title": "IBM、2026年度第3四半期の連結決算を発表",
      "url": "https://jp.newsroom.ibm.com/2026-10-22-IBM-RELEASES-THIRD-QUARTER-RESULTS",
      "date": "2026-10-22"
-    },
-    {
-     "title": "日東工業、日本IBMの支援のもと設備図面から分電盤見積情報を抽出する生成AIアプリを開発",
-     "url": "https://jp.newsroom.ibm.com/2026-10-20-NittoKogyo-Develops-GenAI-Application-to-Extract-Distribution-Board-Quotation-Information-with-Support-from-IBM-Japan",
-     "date": "2026-10-20"
     }
    ]
   },
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
     {
@@ -340,9 +340,14 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-11T19:44:56Z",
+   "fetched_at": "2026-11-12T07:27:45Z",
    "ok": true,
    "items": [
+    {
+     "title": "ホテルシステム「PREVAIL」がキャンセル料請求・回収業務を自動化する「Payn」と連携 キャンセル料の請求・回収業務の省力化と回収率向上を支援",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1112",
+     "date": "2026-11-12"
+    },
     {
      "title": "キヤノンITSが日本オペレーションズ・リサーチ学会「第46回事例研究賞」を受賞 20銀行・全国約3万台のATMへの現金装填計画を自動立案する数理技術が評価",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1029",
@@ -352,11 +357,6 @@
      "title": "「SuperStream-NX Cloud」がSOC1 Type1およびSOC2 Type1保証報告書を受領 財務報告に係る内部統制とセキュリティ管理体制を第三者機関が評価",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1014",
      "date": "2026-10-14"
-    },
-    {
-     "title": "キヤノンITSとメディアフォース、EDIを起点としたシステム連携を共同支援 システム刷新やクラウド移行に伴うEDIデータ連携の課題解決を推進",
-     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1013",
-     "date": "2026-10-13"
     },
     {
      "title": "2025年",
