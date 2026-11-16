@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-15T18:59:14Z",
+ "generated_at": "2026-11-16T06:54:23Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、炭素除去クレジットとVPPAを活用し、事業拠点の2030年度GHG排出量実質ゼロに向けた取り組みを加速",
+     "url": "https://prtimes.jp/main/html/rd/p/000000636.000093942.html",
+     "date": "2026-11-16"
+    },
     {
      "title": "防衛分野におけるスタートアップ企業とのエコシステム形成に向けた検討開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000635.000093942.html",
@@ -27,11 +32,6 @@
      "title": "家電業界全体の外装汚破損基準の明確化・標準化とAIを活用した外装汚破損判定実現による持ち戻り削減に向けた実証実験を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000630.000093942.html",
      "date": "2026-11-02"
-    },
-    {
-     "title": "富士通、AIと専門家による迅速なインシデント調査と対応支援を組み合わせたサービスを提供開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000629.000093942.html",
-     "date": "2026-10-30"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
+    {
+     "title": "航空のレジリエンス向上を目指す社会連携研究部門「未来スカイ・ネクサス」を発足",
+     "url": "https://jpn.nec.com/press/202611/20261116_01.html",
+     "date": "2026-11-16"
+    },
     {
      "title": "NECとdotD、AI事業の強化に向けて、連続的な新規サービスを創出する共創体制を発足",
      "url": "https://jpn.nec.com/press/202611/20261113_01.html",
@@ -61,11 +66,6 @@
      "title": "NEC、大阪市と介護予防等の推進で連携",
      "url": "https://jpn.nec.com/press/202611/20261106_01.html",
      "date": "2026-11-06"
-    },
-    {
-     "title": "NEC、機密情報を保護しながらAIのトークンコスト最適化を実現する「cotomi Gateway」を提供開始",
-     "url": "https://jpn.nec.com/press/202611/20261105_01.html",
-     "date": "2026-11-05"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
+    {
+     "title": "量子インスパイアード技術「CMOSアニーリング」を活用し、電力の安定供給を支える大規模電力計画の高速作成技術を開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1116/",
+     "date": "2026-11-16"
+    },
     {
      "title": "国内鉄道事業者で初となるフルデジタル変電所システムを小岩交流変電所で使用開始",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1113/",
@@ -95,11 +100,6 @@
      "title": "日立、日本企業初、重要なOSSの脆弱性に業界横断で取り組むプロジェクト「Akrites」に参画",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1111/",
      "date": "2026-11-11"
-    },
-    {
-     "title": "日立エナジー、HVDCなどを活用した国際連系によるエネルギー転換の加速に向けて、連携強化を提言",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1111a/",
-     "date": "2026-11-11"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
     {
@@ -136,7 +136,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
     {
@@ -170,9 +170,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
+    {
+     "title": "SCSKセキュリティ、日本最大級の国際セキュリティカンファレンス「CODE BLUE 2026」に3年連続で協賛 ～エバンジェリスト武井が、AIによる攻撃コストの変化と国際標準の活用を解説～（SCSKセキュリティ株式会社）",
+     "url": "https://www.scsk.jp/news/2026/group/20261116g_2.html",
+     "date": "2026-11-16"
+    },
+    {
+     "title": "ソフトウェア品質保証の専門技術をAI領域で生かす「AIエージェント向け品質保証ソリューション」を提供開始 ～企業に求められるAIエージェントの品質・安全性を、継続的に評価・分析・改善～（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261116g.html",
+     "date": "2026-11-16"
+    },
     {
      "title": "「専門商社向けAI エージェント」を提供開始～営業・見積・需給調整などに熟練者のノウハウを活用し、商社の「調整力」を組織の競争力へ～",
      "url": "https://www.scsk.jp/news/2026/press/product/20261113.html",
@@ -187,16 +197,6 @@
      "title": "フロンティアAI時代のサイバー攻撃に、脆弱性対応から復旧体制整備まで一貫支援「サイバーセキュリティ強化ソリューション」を提供開始（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261112g.html",
      "date": "2026-11-12"
-    },
-    {
-     "title": "SCSK社員が「2026 OCI Top Partner Engineers」を2年連続で受賞",
-     "url": "https://www.scsk.jp/news/2026/info/20261110i.html",
-     "date": "2026-11-10"
-    },
-    {
-     "title": "SCSK Consulting、AIを前提に企業の業務・組織・意思決定を再設計するエンタープライズAI戦略「AI-EVOLVA」を発表 ～ECM・経営管理領域の具体的な改革アプローチを公開。構想から実行・定着まで、製造業の企業価値向上を支援～（SCSK Consulting株式会社）",
-     "url": "https://www.scsk.jp/news/2026/group/20261110g.html",
-     "date": "2026-11-10"
     }
    ]
   },
@@ -204,9 +204,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、Bリーグの全国統合データ基盤を構築",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261116_1.html",
+     "date": "2026-11-16"
+    },
     {
      "title": "TISI、顔映像から心拍数などのバイタルデータを測定可能なAI 技術を有する FaceHeart に出資",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261106_1.html",
@@ -226,11 +231,6 @@
      "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_1.html",
      "date": "2026-10-30"
-    },
-    {
-     "title": "TISI、WelbyおよびWelbyヘルスケアソリューションズ、地域医療連携事業の拡大に向け業務提携",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20261029_1.html",
-     "date": "2026-10-29"
     }
    ]
   },
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
     {
@@ -272,9 +272,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
+    {
+     "title": "Apptio、企業がAI支出とビジネス価値を結び付けられるよう、ポートフォリオを拡張",
+     "url": "https://jp.newsroom.ibm.com/2026-11-16-apptio-expands-portfolio-to-help-enterprises-connect-ai-spending-to-business-value",
+     "date": "2026-11-16"
+    },
     {
      "title": "Confluent、リアルタイムな今のビジネス・コンテキストでAIを強化する「ストリームハウス」アーキテクチャーを発表",
      "url": "https://jp.newsroom.ibm.com/2026-11-13-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context",
@@ -294,11 +299,6 @@
      "title": "IBM、AIエージェントにアイデンティティーと制御を導入し、企業におけるフロンティアAIのセキュリティーを強化",
      "url": "https://jp.newsroom.ibm.com/2026-10-28-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
      "date": "2026-10-28"
-    },
-    {
-     "title": "IBMおよびRed Hat、これまで発見されていなかった400件超のオープンソースの脆弱性を修正",
-     "url": "https://jp.newsroom.ibm.com/2026-10-23-ibm-and-red-hat-remediate-more-than-400-previously-unknown-open-source-vulnerabilities",
-     "date": "2026-10-23"
     }
    ]
   },
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-15T18:59:14Z",
+   "fetched_at": "2026-11-16T06:54:23Z",
    "ok": true,
    "items": [
     {
