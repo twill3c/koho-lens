@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-16T06:54:23Z",
+ "generated_at": "2026-11-16T22:23:14Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -136,9 +136,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
+    {
+     "title": "野村ホールディングス・野村総合研究所・BOOSTRY、オンチェーン金融の社会実装に向け協業",
+     "url": "https://www.nri.com/jp/news/info/20261116_1.html",
+     "date": "2026-11-16"
+    },
     {
      "title": "野村総合研究所、IR優良企業賞2026において「IR優良企業大賞」を受賞",
      "url": "https://www.nri.com/jp/news/info/20261112_1.html",
@@ -158,11 +163,6 @@
      "title": "野村総合研究所の本人確認サービス「e-NINSHO」、「Android™ のマイナンバーカード」による本人確認に対応",
      "url": "https://www.nri.com/jp/news/info/20261026_1.html",
      "date": "2026-10-26"
-    },
-    {
-     "title": "野村総合研究所とNRIセキュア、AI駆動型サイバー攻撃への経営層の対応力強化を支援",
-     "url": "https://www.nri.com/jp/news/newsrelease/20261022_1.html",
-     "date": "2026-10-22"
     }
    ]
   },
@@ -170,7 +170,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +204,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +272,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-16T06:54:23Z",
+   "fetched_at": "2026-11-16T22:23:14Z",
    "ok": true,
    "items": [
     {
