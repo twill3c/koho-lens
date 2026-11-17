@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-16T22:23:14Z",
+ "generated_at": "2026-11-17T08:11:49Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "NECと日本IBM、国内初方式のハイブリッド型量子安全通信技術の実証に成功",
+     "url": "https://jpn.nec.com/press/202611/20261117_01.html",
+     "date": "2026-11-17"
+    },
     {
      "title": "航空のレジリエンス向上を目指す社会連携研究部門「未来スカイ・ネクサス」を発足",
      "url": "https://jpn.nec.com/press/202611/20261116_01.html",
@@ -61,11 +66,6 @@
      "title": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
      "url": "https://jpn.nec.com/press/202611/20261109_01.html",
      "date": "2026-11-09"
-    },
-    {
-     "title": "NEC、大阪市と介護予防等の推進で連携",
-     "url": "https://jpn.nec.com/press/202611/20261106_01.html",
-     "date": "2026-11-06"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、AIエージェントへの「本人の委任」を証明する委任証明技術を開発",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1117b/",
+     "date": "2026-11-17"
+    },
     {
      "title": "量子インスパイアード技術「CMOSアニーリング」を活用し、電力の安定供給を支える大規模電力計画の高速作成技術を開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1116/",
@@ -95,11 +100,6 @@
      "title": "日立エナジー、2026年IDC MarketScapeの高度配電管理システム分野で「リーダー」に選出",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1112/",
      "date": "2026-11-12"
-    },
-    {
-     "title": "日立、日本企業初、重要なOSSの脆弱性に業界横断で取り組むプロジェクト「Akrites」に参画",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1111/",
-     "date": "2026-11-11"
     }
    ]
   },
@@ -107,9 +107,14 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "生成AIでCOBOLの基幹システムを保守性の高いJavaへ再設計する「クリーンモダナイゼーション™」を提供開始",
+     "url": "https://www.nttdata.com/global/ja/news/release/2026/111700",
+     "date": "2026-11-17"
+    },
     {
      "title": "当社受託システムにおける個人情報漏えいについて",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/110900",
@@ -136,7 +141,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
@@ -170,7 +175,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
@@ -204,7 +209,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
@@ -238,7 +243,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
@@ -272,9 +277,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
+    {
+     "title": "NECと日本IBM、国内初方式のハイブリッド型量子安全通信技術の実証に成功",
+     "url": "https://jp.newsroom.ibm.com/2026-11-17-nec-and-ibm-japan-demonstrate-japans-first-hybrid-quantum-safe-communication-technology",
+     "date": "2026-11-17"
+    },
     {
      "title": "Apptio、企業がAI支出とビジネス価値を結び付けられるよう、ポートフォリオを拡張",
      "url": "https://jp.newsroom.ibm.com/2026-11-16-apptio-expands-portfolio-to-help-enterprises-connect-ai-spending-to-business-value",
@@ -294,11 +304,6 @@
      "title": "IBM Quantum Nighthawkプロセッサーが速度と品質の新たな水準を実証、2027年には1,000量子ビット超への拡張を計画",
      "url": "https://jp.newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
      "date": "2026-11-11"
-    },
-    {
-     "title": "IBM、AIエージェントにアイデンティティーと制御を導入し、企業におけるフロンティアAIのセキュリティーを強化",
-     "url": "https://jp.newsroom.ibm.com/2026-10-28-ibm-introduces-identity-and-control-for-ai-agents,-securing-frontier-intelligence-for-the-enterprise",
-     "date": "2026-10-28"
     }
    ]
   },
@@ -306,7 +311,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +345,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-16T22:23:14Z",
+   "fetched_at": "2026-11-17T08:11:49Z",
    "ok": true,
    "items": [
     {
