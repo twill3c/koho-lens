@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-17T21:08:07Z",
+ "generated_at": "2026-11-18T07:45:57Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "BPORTUS・プラリタウン・SMBCバリュークリエーション3社の合併について",
+     "url": "https://jpn.nec.com/press/202611/20261118_01.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "NECと日本IBM、国内初方式のハイブリッド型量子安全通信技術の実証に成功",
      "url": "https://jpn.nec.com/press/202611/20261117_01.html",
@@ -61,11 +66,6 @@
      "title": "自己株式の公開買付け開始に関するお知らせ",
      "url": "https://jpn.nec.com/press/202611/20261112_01.html",
      "date": "2026-11-12"
-    },
-    {
-     "title": "自己株式取得及び自己株式の公開買付けに関するお知らせ",
-     "url": "https://jpn.nec.com/press/202611/20261109_01.html",
-     "date": "2026-11-09"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立グループの従業員3名が、令和8年秋の褒章において黄綬褒章を受章",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1118a/",
+     "date": "2026-11-18"
+    },
     {
      "title": "日立、AIエージェントへの「本人の委任」を証明する委任証明技術を開発",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1117b/",
@@ -95,11 +100,6 @@
      "title": "日立製作所 取締役会長 代表執行役 東原敏昭がエストニア共和国からテッラ・マリアナ十字勲章(4等)を受章",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1113a/",
      "date": "2026-11-13"
-    },
-    {
-     "title": "日立エナジー、2026年IDC MarketScapeの高度配電管理システム分野で「リーダー」に選出",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1112/",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
@@ -209,9 +209,14 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "TISI、API・セキュリティ・データの統合管理を実現するAI活用基盤の提供に向けた取り組みを開始",
+     "url": "https://www.tisi.jp/news/2026/tisi_news/20261118_1.html",
+     "date": "2026-11-18"
+    },
     {
      "title": "TISI、Bリーグの全国統合データ基盤を構築",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261116_1.html",
@@ -231,11 +236,6 @@
      "title": "TISIと北海道中央バス、持続可能な観光サービスの実現に向け、AIを活用したモビリティ型音声ガイドを共同開発",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_2.html",
      "date": "2026-11-04"
-    },
-    {
-     "title": "TISIとCARDNET、ステーブルコインによる店頭決済を実証、加盟店精算・経理業務を含む一連の運用性を確認",
-     "url": "https://www.tisi.jp/news/2026/tisi_news/20261030_1.html",
-     "date": "2026-10-30"
     }
    ]
   },
@@ -243,9 +243,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
+    {
+     "title": "アクセンチュア、WorkdayとFDEプログラムを開始し、エージェント型AI時代の業務のあり方を変革",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-launches-forward-deployed-engineering-program-with-workday-to-reinvent-work-for-the-agentic-ai-era",
+     "date": "2026-11-18"
+    },
     {
      "title": "グローバルセキュリティエキスパートの完全子会社化に向けた公開買付けの開始を決定",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-launch-tender-offer-for-global-security-experts",
@@ -265,11 +270,6 @@
      "title": "アクセンチュアとGoogle Cloud、「アクセンチュア Gemini Enterprise ビジネスグループ」を新設し、パートナーシップをさらに強化",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
      "date": "2026-10-20"
-    },
-    {
-     "title": "アクセンチュアとAnthropic、AIの安全性評価を担う「組み込み型評価者」専門チームのAnthropicでの社内設立に向け提携",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-anthropic-partner-to-build-team-of-embedded-evaluators-at-anthropic",
-     "date": "2026-10-05"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-17T21:08:07Z",
+   "fetched_at": "2026-11-18T07:45:57Z",
    "ok": true,
    "items": [
     {
