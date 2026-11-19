@@ -1,13 +1,23 @@
 {
- "generated_at": "2026-11-19T07:41:14Z",
+ "generated_at": "2026-11-19T20:50:42Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通Japan、AIと米国Paradigmのプラットフォームを活用し、治験候補患者探索の業務効率化の有用性を確認",
+     "url": "https://prtimes.jp/main/html/rd/p/000000638.000093942.html",
+     "date": "2026-11-19"
+    },
+    {
+     "title": "富士通、Google Cloudと戦略的パートナーシップを拡大し、お客様のAIトランスフォーメーションを幅広く支援",
+     "url": "https://prtimes.jp/main/html/rd/p/000000639.000093942.html",
+     "date": "2026-11-19"
+    },
     {
      "title": "日本スポーツ振興センターと富士通、体操選手の国際競技力向上に向けて、骨格認識AIを活用した先進的な共同研究を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000637.000093942.html",
@@ -22,16 +32,6 @@
      "title": "防衛分野におけるスタートアップ企業とのエコシステム形成に向けた検討開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000635.000093942.html",
      "date": "2026-11-09"
-    },
-    {
-     "title": "富士通のシンガポール共和国／次世代デジタルインフラ事業体制構築に向けた調査事業が、経済産業省の「令和7年度補正グローバルサウス未来志向型共創等事業費補助金（小規模実証・FS事業）」に採択",
-     "url": "https://prtimes.jp/main/html/rd/p/000000634.000093942.html",
-     "date": "2026-11-05"
-    },
-    {
-     "title": "COP31で気候変動への取り組みを支えるテクノロジーとオファリングを紹介",
-     "url": "https://prtimes.jp/main/html/rd/p/000000633.000093942.html",
-     "date": "2026-11-04"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -175,7 +175,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -209,7 +209,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -243,9 +243,14 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
+    {
+     "title": "アクセンチュア、AI時代のサイバー脅威と地政学リスクに対応し、重要インフラの防御を支える統合サイバーセキュリティプラットフォームを強化",
+     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-to-strengthen-critical-infrastructure-defense-with-end-to-end-cybersecurity-platform-in-age-of-ai-driven-cyber-threats-and-geopolitical-risk",
+     "date": "2026-07-01"
+    },
     {
      "title": "アクセンチュア、WorkdayとFDEプログラムを開始し、エージェント型AI時代の業務のあり方を変革",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-launches-forward-deployed-engineering-program-with-workday-to-reinvent-work-for-the-agentic-ai-era",
@@ -265,11 +270,6 @@
      "title": "アクセンチュアとGoogle Cloud、ボルボ・カーズとともにソフトウエア開発を変革",
      "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-google-cloud-transform-software-development-with-volvo-cars",
      "date": "2026-10-30"
-    },
-    {
-     "title": "アクセンチュアとGoogle Cloud、「アクセンチュア Gemini Enterprise ビジネスグループ」を新設し、パートナーシップをさらに強化",
-     "url": "https://newsroom.accenture.jp/jp/news/2026/accenture-and-google-cloud-deepen-partnership-with-formation-of-new-accenture-gemini-enterprise-business-group",
-     "date": "2026-10-20"
     }
    ]
   },
@@ -277,7 +277,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-19T07:41:14Z",
+   "fetched_at": "2026-11-19T20:50:42Z",
    "ok": true,
    "items": [
     {
