@@ -1,21 +1,26 @@
 {
- "generated_at": "2026-11-19T20:50:42Z",
+ "generated_at": "2026-11-20T07:32:52Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
     {
-     "title": "富士通Japan、AIと米国Paradigmのプラットフォームを活用し、治験候補患者探索の業務効率化の有用性を確認",
-     "url": "https://prtimes.jp/main/html/rd/p/000000638.000093942.html",
-     "date": "2026-11-19"
+     "title": "富士通、ファミリーマート様と因果AIを活用した脱炭素製品の購買行動分析と需要創出を目指した実証実験を開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000641.000093942.html",
+     "date": "2026-11-20"
     },
     {
      "title": "富士通、Google Cloudと戦略的パートナーシップを拡大し、お客様のAIトランスフォーメーションを幅広く支援",
      "url": "https://prtimes.jp/main/html/rd/p/000000639.000093942.html",
+     "date": "2026-11-19"
+    },
+    {
+     "title": "富士通Japan、AIと米国Paradigmのプラットフォームを活用し、治験候補患者探索の業務効率化の有用性を確認",
+     "url": "https://prtimes.jp/main/html/rd/p/000000638.000093942.html",
      "date": "2026-11-19"
     },
     {
@@ -27,11 +32,6 @@
      "title": "富士通、炭素除去クレジットとVPPAを活用し、事業拠点の2030年度GHG排出量実質ゼロに向けた取り組みを加速",
      "url": "https://prtimes.jp/main/html/rd/p/000000636.000093942.html",
      "date": "2026-11-16"
-    },
-    {
-     "title": "防衛分野におけるスタートアップ企業とのエコシステム形成に向けた検討開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000635.000093942.html",
-     "date": "2026-11-09"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "AIと糖ペプチド解析により、血液で複数のがんを早期に見つける新しいがんスクリーニング法を開発",
+     "url": "https://jpn.nec.com/press/202611/20261120_01.html",
+     "date": "2026-11-20"
+    },
     {
      "title": "BPORTUS・プラリタウン・SMBCバリュークリエーション3社の合併について",
      "url": "https://jpn.nec.com/press/202611/20261118_01.html",
@@ -61,11 +66,6 @@
      "title": "NECとdotD、AI事業の強化に向けて、連続的な新規サービスを創出する共創体制を発足",
      "url": "https://jpn.nec.com/press/202611/20261113_01.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "自己株式の公開買付け開始に関するお知らせ",
-     "url": "https://jpn.nec.com/press/202611/20261112_01.html",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、OpenAIのサイバー防御パートナープログラム「Daybreak Defense Network」に参画",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1120a/",
+     "date": "2026-11-20"
+    },
     {
      "title": "Ｊパワー、日立、マクニカが重要社会インフラ分野におけるフィジカルAIの社会実装をめざし、フィジカルAI開発基盤の構築に向けた共同検討に合意",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1119/",
@@ -95,11 +100,6 @@
      "title": "日立グループの従業員3名が、令和8年秋の褒章において黄綬褒章を受章",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1118a/",
      "date": "2026-11-18"
-    },
-    {
-     "title": "日立、AIエージェントへの「本人の委任」を証明する委任証明技術を開発",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1117b/",
-     "date": "2026-11-17"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
     {
@@ -141,9 +141,19 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "社員の異動について",
+     "url": "https://www.nri.com/jp/news/newsrelease/20261120_2.html",
+     "date": "2026-11-20"
+    },
+    {
+     "title": "野村総合研究所、日本企業を対象に「IT活用実態調査（2026年）」を実施",
+     "url": "https://www.nri.com/jp/news/newsrelease/20261120_1.html",
+     "date": "2026-11-20"
+    },
     {
      "title": "野村ホールディングス・野村総合研究所・BOOSTRY、オンチェーン金融の社会実装に向け協業",
      "url": "https://www.nri.com/jp/news/info/20261116_1.html",
@@ -158,16 +168,6 @@
      "title": "残業減による収入減を理由に「もっと働きたい」正社員は14.2%、労働時間の上限規制緩和による労働供給拡大効果は限定的",
      "url": "https://www.nri.com/jp/news/newsrelease/20261111_2.html",
      "date": "2026-11-11"
-    },
-    {
-     "title": "野村総合研究所、保険業務向けAI開発フレームワーク「AIsure/CORE」を提供開始",
-     "url": "https://www.nri.com/jp/news/newsrelease/20261111_1.html",
-     "date": "2026-11-11"
-    },
-    {
-     "title": "野村総合研究所の本人確認サービス「e-NINSHO」、「Android™ のマイナンバーカード」による本人確認に対応",
-     "url": "https://www.nri.com/jp/news/info/20261026_1.html",
-     "date": "2026-10-26"
     }
    ]
   },
@@ -175,14 +175,9 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
-    {
-     "title": "メンテナンスによるお問い合わせフォーム一部停止のご案内：2026年11月19日（木）22:00 ～ 11月20日（金）08:00",
-     "url": "https://www.scsk.jp/news/2026/info/maintenance20261119.html",
-     "date": "2026-11-19"
-    },
     {
      "title": "SCSKセキュリティ、日本最大級の国際セキュリティカンファレンス「CODE BLUE 2026」に3年連続で協賛 ～エバンジェリスト武井が、AIによる攻撃コストの変化と国際標準の活用を解説～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261116g_2.html",
@@ -202,6 +197,11 @@
      "title": "「マネーフォワード クラウド会計Plus」と「CO×COカルテ」がAPI連携 ～会計データとのシームレスな連携により、CO2排出量算定の効率化を実現～",
      "url": "https://www.scsk.jp/news/2026/info/20261112i.html",
      "date": "2026-11-12"
+    },
+    {
+     "title": "フロンティアAI時代のサイバー攻撃に、脆弱性対応から復旧体制整備まで一貫支援「サイバーセキュリティ強化ソリューション」を提供開始（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261112g.html",
+     "date": "2026-11-12"
     }
    ]
   },
@@ -209,7 +209,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
     {
@@ -277,9 +277,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBM Digital Sovereignty Index：AI時代、企業にはコントロールの確立だけではなく、その証明が求められる",
+     "url": "https://jp.newsroom.ibm.com/2026-11-20-ibm-digital-sovereignty-index-in-the-ai-era,-control-is-no-longer-enough-enterprises-must-prove-it",
+     "date": "2026-11-20"
+    },
     {
      "title": "NECと日本IBM、国内初方式のハイブリッド型量子安全通信技術の実証に成功",
      "url": "https://jp.newsroom.ibm.com/2026-11-17-nec-and-ibm-japan-demonstrate-japans-first-hybrid-quantum-safe-communication-technology",
@@ -299,11 +304,6 @@
      "title": "日本IBM、AIを活用してSAP® Cloud ERP（SAP S/4HANA® Cloud Public Edition）への移行を支援する導入サービスを提供開始",
      "url": "https://jp.newsroom.ibm.com/2026-11-12-IBM-Japan-Launches-Implementation-Services-to-Support-Migration-to-SAP-Cloud-ERP-SAP-S4HANA-Cloud-Public-Edition-Using-AI",
      "date": "2026-11-12"
-    },
-    {
-     "title": "IBM Quantum Nighthawkプロセッサーが速度と品質の新たな水準を実証、2027年には1,000量子ビット超への拡張を計画",
-     "url": "https://jp.newsroom.ibm.com/2026-11-11-ibm-quantum-nighthawk-demonstrates-new-levels-of-speed-and-quality,-with-plans-to-scale-beyond-1,000-qubits-in-2027",
-     "date": "2026-11-11"
     }
    ]
   },
@@ -311,7 +311,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +345,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-19T20:50:42Z",
+   "fetched_at": "2026-11-20T07:32:52Z",
    "ok": true,
    "items": [
     {
