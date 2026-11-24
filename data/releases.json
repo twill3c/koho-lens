@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-24T00:07:36Z",
+ "generated_at": "2026-11-24T10:09:54Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "AIで離院時刻を予測し、通院時の交通予約を自動化する実証実験を川崎市で開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000642.000093942.html",
+     "date": "2026-11-24"
+    },
     {
      "title": "富士通、ファミリーマート様と因果AIを活用した脱炭素製品の購買行動分析と需要創出を目指した実証実験を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000641.000093942.html",
@@ -27,11 +32,6 @@
      "title": "日本スポーツ振興センターと富士通、体操選手の国際競技力向上に向けて、骨格認識AIを活用した先進的な共同研究を開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000637.000093942.html",
      "date": "2026-11-18"
-    },
-    {
-     "title": "富士通、炭素除去クレジットとVPPAを活用し、事業拠点の2030年度GHG排出量実質ゼロに向けた取り組みを加速",
-     "url": "https://prtimes.jp/main/html/rd/p/000000636.000093942.html",
-     "date": "2026-11-16"
     }
    ]
   },
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -141,7 +141,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -175,9 +175,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "「品質保証エンジニア500名実態調査」今後の必要スキルは、上流工程から品質を作り込む「要件・設計力」「セキュリティ」の実務に関わる人も6割以上で、知識習得の必要性高い（株式会社ベリサーブ）",
+     "url": "https://www.scsk.jp/news/2026/group/20261124g.html",
+     "date": "2026-11-24"
+    },
     {
      "title": "SCSKセキュリティ、日本最大級の国際セキュリティカンファレンス「CODE BLUE 2026」に3年連続で協賛 ～エバンジェリスト武井が、AIによる攻撃コストの変化と国際標準の活用を解説～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261116g_2.html",
@@ -197,11 +202,6 @@
      "title": "「マネーフォワード クラウド会計Plus」と「CO×COカルテ」がAPI連携 ～会計データとのシームレスな連携により、CO2排出量算定の効率化を実現～",
      "url": "https://www.scsk.jp/news/2026/info/20261112i.html",
      "date": "2026-11-12"
-    },
-    {
-     "title": "フロンティアAI時代のサイバー攻撃に、脆弱性対応から復旧体制整備まで一貫支援「サイバーセキュリティ強化ソリューション」を提供開始（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20261112g.html",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -209,7 +209,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -243,7 +243,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -277,7 +277,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -311,7 +311,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
     {
@@ -345,9 +345,14 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-24T00:07:36Z",
+   "fetched_at": "2026-11-24T10:09:54Z",
    "ok": true,
    "items": [
+    {
+     "title": "「マネージドSOCサービス」の機能を強化 インシデントの早期検知から再発防止まで一貫支援 監視対象を拡大し、AIによる相関分析・初動対応を自動化",
+     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1124",
+     "date": "2026-11-24"
+    },
     {
      "title": "ホテルシステム「PREVAIL」がキャンセル料請求・回収業務を自動化する「Payn」と連携 キャンセル料の請求・回収業務の省力化と回収率向上を支援",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1112",
@@ -357,11 +362,6 @@
      "title": "キヤノンITSが日本オペレーションズ・リサーチ学会「第46回事例研究賞」を受賞 20銀行・全国約3万台のATMへの現金装填計画を自動立案する数理技術が評価",
      "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1029",
      "date": "2026-10-29"
-    },
-    {
-     "title": "「SuperStream-NX Cloud」がSOC1 Type1およびSOC2 Type1保証報告書を受領 財務報告に係る内部統制とセキュリティ管理体制を第三者機関が評価",
-     "url": "https://www.canon-its.co.jp/corporate/newsrelease/2026/pr-1014",
-     "date": "2026-10-14"
     },
     {
      "title": "2025年",
