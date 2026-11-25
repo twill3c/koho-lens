@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-24T22:38:16Z",
+ "generated_at": "2026-11-25T08:54:47Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "OpenAIとの連携を拡大し、攻撃者視点で実際に悪用できる脆弱性を特定するサービスを提供開始",
+     "url": "https://prtimes.jp/main/html/rd/p/000000643.000093942.html",
+     "date": "2026-11-25"
+    },
     {
      "title": "AIで離院時刻を予測し、通院時の交通予約を自動化する実証実験を川崎市で開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000642.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通、Google Cloudと戦略的パートナーシップを拡大し、お客様のAIトランスフォーメーションを幅広く支援",
      "url": "https://prtimes.jp/main/html/rd/p/000000639.000093942.html",
      "date": "2026-11-19"
-    },
-    {
-     "title": "日本スポーツ振興センターと富士通、体操選手の国際競技力向上に向けて、骨格認識AIを活用した先進的な共同研究を開始",
-     "url": "https://prtimes.jp/main/html/rd/p/000000637.000093942.html",
-     "date": "2026-11-18"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、防衛分野におけるスタートアップ連携を開始",
+     "url": "https://jpn.nec.com/press/202611/20261125_01.html",
+     "date": "2026-11-25"
+    },
     {
      "title": "AIと糖ペプチド解析により、血液で複数のがんを早期に見つける新しいがんスクリーニング法を開発",
      "url": "https://jpn.nec.com/press/202611/20261120_01.html",
@@ -61,11 +66,6 @@
      "title": "航空のレジリエンス向上を目指す社会連携研究部門「未来スカイ・ネクサス」を発足",
      "url": "https://jpn.nec.com/press/202611/20261116_01.html",
      "date": "2026-11-16"
-    },
-    {
-     "title": "NECとdotD、AI事業の強化に向けて、連続的な新規サービスを創出する共創体制を発足",
-     "url": "https://jpn.nec.com/press/202611/20261113_01.html",
-     "date": "2026-11-13"
     }
    ]
   },
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "日立、水戸事業所に鉄道信号システムの新試験棟を建設",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1125/",
+     "date": "2026-11-25"
+    },
     {
      "title": "日立、OpenAIのサイバー防御パートナープログラム「Daybreak Defense Network」に参画",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1120a/",
@@ -95,11 +100,6 @@
      "title": "Hitachi Digital、企業が求める成果をAIのスピードと高い信頼性で実現する「HARC Compose」をローンチ [Hitachi Digital]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1119b/",
      "date": "2026-11-19"
-    },
-    {
-     "title": "日立グループの従業員3名が、令和8年秋の褒章において黄綬褒章を受章",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1118a/",
-     "date": "2026-11-18"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
     {
@@ -129,11 +129,6 @@
      "title": "STdirectServicesのサービス停止についてのお知らせ（第2報）",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/110200",
      "date": "2026-11-02"
-    },
-    {
-     "title": "STdirectServicesのサービス停止についてのお知らせ",
-     "url": "https://www.nttdata.com/global/ja/news/release/2026/103101",
-     "date": "2026-10-31"
     }
    ]
   },
@@ -141,9 +136,14 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "メディアフォーラム資料「日・米・中における2014年→2025年の価値観変化分析」の一部訂正について",
+     "url": "https://www.nri.com/jp/news/info/20261125_1.html",
+     "date": "2026-11-25"
+    },
     {
      "title": "社員の異動について",
      "url": "https://www.nri.com/jp/news/newsrelease/20261120_2.html",
@@ -163,11 +163,6 @@
      "title": "野村総合研究所、IR優良企業賞2026において「IR優良企業大賞」を受賞",
      "url": "https://www.nri.com/jp/news/info/20261112_1.html",
      "date": "2026-11-12"
-    },
-    {
-     "title": "残業減による収入減を理由に「もっと働きたい」正社員は14.2%、労働時間の上限規制緩和による労働供給拡大効果は限定的",
-     "url": "https://www.nri.com/jp/news/newsrelease/20261111_2.html",
-     "date": "2026-11-11"
     }
    ]
   },
@@ -175,9 +170,14 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "Red Hat Ecosystem Award Japan 2026において「Partner of the Year」および「Container Champion」の2部門を受賞",
+     "url": "https://www.scsk.jp/news/2026/info/20261125i.html",
+     "date": "2026-11-25"
+    },
     {
      "title": "「品質保証エンジニア500名実態調査」今後の必要スキルは、上流工程から品質を作り込む「要件・設計力」「セキュリティ」の実務に関わる人も6割以上で、知識習得の必要性高い（株式会社ベリサーブ）",
      "url": "https://www.scsk.jp/news/2026/group/20261124g.html",
@@ -197,11 +197,6 @@
      "title": "「専門商社向けAI エージェント」を提供開始～営業・見積・需給調整などに熟練者のノウハウを活用し、商社の「調整力」を組織の競争力へ～",
      "url": "https://www.scsk.jp/news/2026/press/product/20261113.html",
      "date": "2026-11-13"
-    },
-    {
-     "title": "「マネーフォワード クラウド会計Plus」と「CO×COカルテ」がAPI連携 ～会計データとのシームレスな連携により、CO2排出量算定の効率化を実現～",
-     "url": "https://www.scsk.jp/news/2026/info/20261112i.html",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -209,13 +204,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
     {
      "title": "TISI、API・セキュリティ・データの統合管理を実現するAI活用基盤の提供に向けた取り組みを開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261118_1.html",
-     "date": "2026-11-19"
+     "date": "2026-11-25"
     },
     {
      "title": "TISI、Bリーグの全国統合データ基盤を構築",
@@ -243,7 +238,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
     {
@@ -277,9 +272,14 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
+    {
+     "title": "IBMとMicrosoft社、業界特化型の変革を実現する新たなAIエージェント・プラットフォームを発表",
+     "url": "https://jp.newsroom.ibm.com/2026-11-25-ibm-and-microsoft-announce-a-new-ai-agent-platform-designed-for-industry-specific-transformation",
+     "date": "2026-11-25"
+    },
     {
      "title": "IBM Digital Sovereignty Index：AI時代、企業にはコントロールの確立だけではなく、その証明が求められる",
      "url": "https://jp.newsroom.ibm.com/2026-11-20-ibm-digital-sovereignty-index-in-the-ai-era,-control-is-no-longer-enough-enterprises-must-prove-it",
@@ -299,11 +299,6 @@
      "title": "Confluent、リアルタイムな今のビジネス・コンテキストでAIを強化する「ストリームハウス」アーキテクチャーを発表",
      "url": "https://jp.newsroom.ibm.com/2026-11-13-confluent-introduces-its-streamhouse-architecture-to-power-ai-with-real-time-business-context",
      "date": "2026-11-13"
-    },
-    {
-     "title": "日本IBM、AIを活用してSAP® Cloud ERP（SAP S/4HANA® Cloud Public Edition）への移行を支援する導入サービスを提供開始",
-     "url": "https://jp.newsroom.ibm.com/2026-11-12-IBM-Japan-Launches-Implementation-Services-to-Support-Migration-to-SAP-Cloud-ERP-SAP-S4HANA-Cloud-Public-Edition-Using-AI",
-     "date": "2026-11-12"
     }
    ]
   },
@@ -311,7 +306,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
     {
@@ -345,7 +340,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-24T22:38:16Z",
+   "fetched_at": "2026-11-25T08:54:47Z",
    "ok": true,
    "items": [
     {
