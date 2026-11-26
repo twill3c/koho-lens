@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-11-25T21:51:42Z",
+ "generated_at": "2026-11-26T08:40:18Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -39,7 +39,7 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -73,9 +73,14 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "アマダと日立、AIエージェントとフィジカルAIの実装により、お客さま工場の自律化に向けた協創を加速",
+     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1126/",
+     "date": "2026-11-26"
+    },
     {
      "title": "日立、水戸事業所に鉄道信号システムの新試験棟を建設",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1125/",
@@ -95,11 +100,6 @@
      "title": "自動ごみ収集ドック付きのコードレス スティッククリーナー「らくメンテスティック」PV-BG300Rを発売 [日立グローバルライフソリューションズ株式会社]",
      "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1119a/",
      "date": "2026-11-19"
-    },
-    {
-     "title": "Hitachi Digital、企業が求める成果をAIのスピードと高い信頼性で実現する「HARC Compose」をローンチ [Hitachi Digital]",
-     "url": "https://www.hitachi.com/ja-jp/press/articles/2026/11/1119b/",
-     "date": "2026-11-19"
     }
    ]
   },
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -124,11 +124,6 @@
      "title": "2026年度 第2四半期決算について",
      "url": "https://www.nttdata.com/global/ja/news/release/2026/110400",
      "date": "2026-11-04"
-    },
-    {
-     "title": "STdirectServicesのサービス停止についてのお知らせ（第2報）",
-     "url": "https://www.nttdata.com/global/ja/news/release/2026/110200",
-     "date": "2026-11-02"
     }
    ]
   },
@@ -136,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -170,9 +165,19 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
+    {
+     "title": "IDC MarketScapeの国内クラウドプロフェッショナルサービスアセスメントにおいて、「リーダー」に選出",
+     "url": "https://www.scsk.jp/news/2026/press/product/20261126.html",
+     "date": "2026-11-26"
+    },
+    {
+     "title": "LGBTQに関する取り組み指標「PRIDE指標」で最高位「ゴールド」を9年連続受賞",
+     "url": "https://www.scsk.jp/news/2026/press/management/20261126_2.html",
+     "date": "2026-11-26"
+    },
     {
      "title": "Red Hat Ecosystem Award Japan 2026において「Partner of the Year」および「Container Champion」の2部門を受賞",
      "url": "https://www.scsk.jp/news/2026/info/20261125i.html",
@@ -187,16 +192,6 @@
      "title": "SCSKセキュリティ、日本最大級の国際セキュリティカンファレンス「CODE BLUE 2026」に3年連続で協賛 ～エバンジェリスト武井が、AIによる攻撃コストの変化と国際標準の活用を解説～（SCSKセキュリティ株式会社）",
      "url": "https://www.scsk.jp/news/2026/group/20261116g_2.html",
      "date": "2026-11-16"
-    },
-    {
-     "title": "ソフトウェア品質保証の専門技術をAI領域で生かす「AIエージェント向け品質保証ソリューション」を提供開始 ～企業に求められるAIエージェントの品質・安全性を、継続的に評価・分析・改善～（株式会社ベリサーブ）",
-     "url": "https://www.scsk.jp/news/2026/group/20261116g.html",
-     "date": "2026-11-16"
-    },
-    {
-     "title": "「専門商社向けAI エージェント」を提供開始～営業・見積・需給調整などに熟練者のノウハウを活用し、商社の「調整力」を組織の競争力へ～",
-     "url": "https://www.scsk.jp/news/2026/press/product/20261113.html",
-     "date": "2026-11-13"
     }
    ]
   },
@@ -204,13 +199,13 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
      "title": "TISI、API・セキュリティ・データの統合管理を実現するAI活用基盤の提供に向けた取り組みを開始",
      "url": "https://www.tisi.jp/news/2026/tisi_news/20261118_1.html",
-     "date": "2026-11-25"
+     "date": "2026-11-26"
     },
     {
      "title": "TISI、Bリーグの全国統合データ基盤を構築",
@@ -238,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -272,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -306,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
@@ -340,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-25T21:51:42Z",
+   "fetched_at": "2026-11-26T08:40:18Z",
    "ok": true,
    "items": [
     {
