@@ -1,13 +1,18 @@
 {
- "generated_at": "2026-11-26T21:45:55Z",
+ "generated_at": "2026-11-27T08:51:08Z",
  "companies": [
   {
    "id": "fujitsu",
    "name": "富士通",
    "source_url": "https://global.fujitsu/ja-jp/pr/news",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
+    {
+     "title": "富士通、TOTO様と横浜市立盲特別支援学校様との共創を通じて、触覚と視覚で空間を把握できる「未来のトイレ」体験のプロトタイプを開発",
+     "url": "https://prtimes.jp/main/html/rd/p/000000644.000093942.html",
+     "date": "2026-11-27"
+    },
     {
      "title": "OpenAIとの連携を拡大し、攻撃者視点で実際に悪用できる脆弱性を特定するサービスを提供開始",
      "url": "https://prtimes.jp/main/html/rd/p/000000643.000093942.html",
@@ -27,11 +32,6 @@
      "title": "富士通Japan、AIと米国Paradigmのプラットフォームを活用し、治験候補患者探索の業務効率化の有用性を確認",
      "url": "https://prtimes.jp/main/html/rd/p/000000638.000093942.html",
      "date": "2026-11-19"
-    },
-    {
-     "title": "富士通、Google Cloudと戦略的パートナーシップを拡大し、お客様のAIトランスフォーメーションを幅広く支援",
-     "url": "https://prtimes.jp/main/html/rd/p/000000639.000093942.html",
-     "date": "2026-11-19"
     }
    ]
   },
@@ -39,9 +39,14 @@
    "id": "nec",
    "name": "NEC",
    "source_url": "https://jpn.nec.com/press/index.html",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
+    {
+     "title": "NEC、20の信用金庫が参画するセキュリティワーキンググループを立ち上げ、第1回検討会議を開催",
+     "url": "https://jpn.nec.com/press/202611/20261127_01.html",
+     "date": "2026-11-27"
+    },
     {
      "title": "NEC、防衛分野におけるスタートアップ連携を開始",
      "url": "https://jpn.nec.com/press/202611/20261125_01.html",
@@ -61,11 +66,6 @@
      "title": "NECと日本IBM、国内初方式のハイブリッド型量子安全通信技術の実証に成功",
      "url": "https://jpn.nec.com/press/202611/20261117_01.html",
      "date": "2026-11-17"
-    },
-    {
-     "title": "航空のレジリエンス向上を目指す社会連携研究部門「未来スカイ・ネクサス」を発足",
-     "url": "https://jpn.nec.com/press/202611/20261116_01.html",
-     "date": "2026-11-16"
     }
    ]
   },
@@ -73,7 +73,7 @@
    "id": "hitachi",
    "name": "日立製作所",
    "source_url": "https://www.hitachi.com/ja-jp/press/",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -107,7 +107,7 @@
    "id": "nttdata",
    "name": "NTTデータ",
    "source_url": "https://www.nttdata.com/global/ja/news/",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -131,7 +131,7 @@
    "id": "nri",
    "name": "野村総合研究所",
    "source_url": "https://www.nri.com/jp/news/index.html",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -165,7 +165,7 @@
    "id": "scsk",
    "name": "SCSK",
    "source_url": "https://www.scsk.jp/news/2026/index.html",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -199,7 +199,7 @@
    "id": "tis",
    "name": "TIS(TISI)",
    "source_url": "https://www.tisi.jp/news/",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -233,7 +233,7 @@
    "id": "accenture",
    "name": "アクセンチュア",
    "source_url": "https://newsroom.accenture.jp/",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -267,7 +267,7 @@
    "id": "ibm",
    "name": "日本IBM",
    "source_url": "https://jp.newsroom.ibm.com/announcements",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -301,7 +301,7 @@
    "id": "nssol",
    "name": "日鉄ソリューションズ",
    "source_url": "https://www.nssol.nipponsteel.com/press/",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
@@ -335,7 +335,7 @@
    "id": "canon_its",
    "name": "キヤノンITソリューションズ",
    "source_url": "https://www.canon-its.co.jp/corporate/newsrelease",
-   "fetched_at": "2026-11-26T21:45:55Z",
+   "fetched_at": "2026-11-27T08:51:08Z",
    "ok": true,
    "items": [
     {
